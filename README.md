@@ -26,3 +26,18 @@ You should install this package if you want to use lemmatization for languages t
 ### Is this package only for lemmatization?
 
 At the moment, yes. However, we are considering including other lookup lists and tables as well, e.g. large tokenizer exception files.
+
+## Running tests
+
+This package now also includes all [data-specific tests](spacy_lookups_data/tests). The test suite depends on spaCy.
+
+```bash
+pip install -r requirements.txt
+python -m pytest spacy_lookups_data
+```
+
+If you've installed the package in your spaCy environment, you can also run the tests like this:
+
+```bash
+python -m pytest --pyargs spacy_lookups_data
+```
