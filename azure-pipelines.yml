@@ -42,7 +42,9 @@ jobs:
       versionSpec: '$(python.version)'
       architecture: 'x64'
 
-  - script: pip install -r requirements.txt
+  - script: |
+      pip install -U setuptools wheel
+      pip install -r requirements.txt
     displayName: 'Install dependencies'
 
   - script: python setup.py sdist --formats=gztar
