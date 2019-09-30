@@ -1,2 +1,3 @@
 recursive-exclude spacy_lookups_data/data *.json
 recursive-include spacy_lookups_data/data *.json.gz
+recursive-include spacy_lookups_data/data *.txt
