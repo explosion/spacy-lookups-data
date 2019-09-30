@@ -13,7 +13,7 @@ data, lookups and integration, please use the
 
 [![Azure Pipelines](https://img.shields.io/azure-devops/build/explosion-ai/public/13/master.svg?logo=azure-devops&style=flat-square)](https://dev.azure.com/explosion-ai/public/_build?definitionId=12)
 [![Travis Build Status](https://img.shields.io/travis/explosion/spacy-lookups-data/master.svg?style=flat-square&logo=travis)](https://travis-ci.org/explosion/spaCy)
-[![Current Release Version](https://img.shields.io/github/release/explosion/spacy-lookups-data.svg?style=flat-square)](https://github.com/explosion/spacy-lookups-data/releases)
+[![Current Release Version](https://img.shields.io/github/release/explosion/spacy-lookups-data.svg?include_prereleases&style=flat-square)](https://github.com/explosion/spacy-lookups-data/releases)
 [![pypi Version](https://img.shields.io/pypi/v/spacy-lookups-data.svg?style=flat-square)](https://pypi.org/project/spacy-lookups-data/)
 
 ## FAQ
