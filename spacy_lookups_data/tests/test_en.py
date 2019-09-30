@@ -2,6 +2,7 @@
 from __future__ import unicode_literals
 
 from spacy.lang.en import English
+from spacy.tokens import Doc
 import pytest
 
 
@@ -20,5 +21,5 @@ def test_issue4104(en_nlp):
     """Test that English lookup lemmatization of spun & dry are correct
     expected mapping = {'dry': 'dry', 'spun': 'spin', 'spun-dry': 'spin-dry'}
     """
-    doc = en_nlp("dry spun spun-dry")
+    doc = Doc(en_nlp.vocab, words=["dry", "spun", "spun-dry"])
     assert [token.lemma_ for token in doc] == ["dry", "spin", "spin-dry"]
