@@ -1,3 +1,4 @@
+*.json.gz
 .vscode
 
 # Byte-compiled / optimized / DLL files
