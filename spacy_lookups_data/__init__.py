@@ -2,12 +2,13 @@
 from __future__ import unicode_literals
 
 import pkg_resources
+import os
 
 from .about import __version__  # noqa: F401
 
 
 def get_file(filename):
-    return pkg_resources.resource_filename(__name__, filename)
+    return pkg_resources.resource_filename(__name__, os.path.join("data", filename))
 
 
 hr = {"lemma_lookup": get_file("hr_lemma_lookup.json")}
