@@ -26,7 +26,7 @@ fr = {
 nb = {
     "lemma_lookup": ROOT / "nb_lemma_lookup.json",
     "lemma_exc": ROOT / "nb_lemma_exc.json",
-    "lemma_rules": ROOT / "lemma_rules.json",
+    "lemma_rules": ROOT / "nb_lemma_rules.json",
 }
 tr = {"lemma_lookup": ROOT / "tr_lemma_lookup.json"}
 de = {"lemma_lookup": ROOT / "de_lemma_lookup.json"}
