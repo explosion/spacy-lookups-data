@@ -29,8 +29,9 @@ models** (which serialize out their vocabulary and lookup tables) or by
 ### When should I install this?
 
 You should install this package if you want to use lemmatization for languages
-that don't yet have a [pre-trained model](https://spacy.io/models) available for
-download – for example, **Turkish**, **Swedish** or **Croatian**
+that don't yet have a [pretrained model](https://spacy.io/models) available for
+download and don't rely on third-party libraries for lemmatization – for
+example, **Turkish**, **Swedish** or **Croatian**
 ([see data files](spacy_lookups_data/data)). You should also install it if
 you're creating a **blank model** and want it to include lemmatization data.
 Once you've saved out the model (e.g. via `nlp.disk`), it will include the
