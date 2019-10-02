@@ -1,5 +1,5 @@
 srsly>=0.1.0,<1.1.0
 pathlib==1.0.1; python_version < "3.4"
 # Test requirements
-spacy==2.2.0.dev18
+spacy==2.2.0.dev19
 pytest>=4.1.0
