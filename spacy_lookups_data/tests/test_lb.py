@@ -1,17 +1,19 @@
 # coding: utf-8
 from __future__ import unicode_literals
 
-from spacy.lang.lb import Luxembourgish
 import pytest
 
 
 @pytest.fixture(scope="session")
 def lb_nlp():
+    # TODO: move to top of file once Luxembourgish is shipped with spaCy
+    from spacy.lang.lb import Luxembourgish
+
     return Luxembourgish()
 
 
-# @pytest.mark.parametrize
-@pytest.mark.xfail(
+@pytest.mark.xfail
+@pytest.mark.parametrize(
     "string,lemma",
     [
         ("Dëscher", "Dësch"),
