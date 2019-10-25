@@ -26,6 +26,6 @@ def lb_nlp():
         ("kritt", "kréien"),
     ],
 )
-def test_lb_lemmatizer_lookup_assigns(lb_tokenizer, string, lemma):
-    tokens = lb_tokenizer(string)
+def test_lb_lemmatizer_lookup_assigns(lb_nlp, string, lemma):
+    tokens = lb_nlp(string)
     assert tokens[0].lemma_ == lemma
