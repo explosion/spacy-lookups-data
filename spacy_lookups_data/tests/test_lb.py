@@ -21,7 +21,7 @@ def lb_nlp():
         ("déi", "déi"),
         ("Männer", "Mann"),
         ("Mënner", "Mond"),
-        ("kritt", "kréien")
+        ("kritt", "kréien"),
     ],
 )
 def test_lb_lemmatizer_lookup_assigns(lb_tokenizer, string, lemma):
