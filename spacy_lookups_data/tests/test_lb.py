@@ -2,17 +2,14 @@
 from __future__ import unicode_literals
 
 import pytest
+from spacy.lang.lb import Luxembourgish
 
 
 @pytest.fixture(scope="session")
 def lb_nlp():
-    # TODO: move to top of file once Luxembourgish is shipped with spaCy
-    from spacy.lang.lb import Luxembourgish
-
     return Luxembourgish()
 
 
-@pytest.mark.xfail
 @pytest.mark.parametrize(
     "string,lemma",
     [
