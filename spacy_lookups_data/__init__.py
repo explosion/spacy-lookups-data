@@ -81,7 +81,10 @@ el = {
 bn = {"lemma_rules": get_file("bn_lemma_rules.json")}
 tl = {"lemma_lookup": get_file("tl_lemma_lookup.json")}
 ur = {"lemma_lookup": get_file("ur_lemma_lookup.json")}
-lb = {"lemma_lookup": get_file("lb_lemma_lookup.json")}
+lb = {
+    "lemma_lookup": get_file("lb_lemma_lookup.json"),
+    "lexeme_norm": get_file("lb_lexeme_norm.json"),
+}
 ru = {"lexeme_norm": get_file("ru_lexeme_norm.json")}
 ta = {"lexeme_norm": get_file("ta_lexeme_norm.json")}
 th = {"lexeme_norm": get_file("th_lexeme_norm.json")}
