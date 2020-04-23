@@ -65,3 +65,22 @@ bn = {"lemma_rules": get_file("bn_lemma_rules.json")}
 tl = {"lemma_lookup": get_file("tl_lemma_lookup.json")}
 ur = {"lemma_lookup": get_file("ur_lemma_lookup.json")}
 lb = {"lemma_lookup": get_file("lb_lemma_lookup.json")}
+de_extra = {
+    "lexeme_cluster": get_file("de_lexeme_cluster.json"),
+    "lexeme_prob": get_file("de_lexeme_prob.json"),
+    "lexeme_settings": get_file("de_lexeme_settings.json"),
+}
+el_extra = {
+    "lexeme_prob": get_file("el_lexeme_prob.json"),
+    "lexeme_settings": get_file("el_lexeme_settings.json"),
+}
+en_extra = {
+    "lexeme_cluster": get_file("en_lexeme_cluster.json"),
+    "lexeme_prob": get_file("en_lexeme_prob.json"),
+    "lexeme_settings": get_file("en_lexeme_settings.json"),
+}
+es_extra = {
+    "lexeme_cluster": get_file("es_lexeme_cluster.json"),
+    "lexeme_prob": get_file("es_lexeme_prob.json"),
+    "lexeme_settings": get_file("es_lexeme_settings.json"),
+}
