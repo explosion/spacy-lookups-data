@@ -23,3 +23,11 @@ def test_issue4104(en_nlp):
     """
     doc = Doc(en_nlp.vocab, words=["dry", "spun", "spun-dry"])
     assert [token.lemma_ for token in doc] == ["dry", "spin", "spin-dry"]
+
+
+@pytest.mark.parametrize(
+    "text,norms", [("I'm", ["i", "am"]), ("shan't", ["shall", "not"])]
+)
+def test_en_tokenizer_norm_exceptions(en_nlp, text, norms):
+    tokens = en_nlp(text)
+    assert [token.norm_ for token in tokens] == norms
