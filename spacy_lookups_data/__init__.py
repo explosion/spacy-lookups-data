@@ -88,7 +88,6 @@ lb = {
 ru = {"lexeme_norm": get_file("ru_lexeme_norm.json")}
 ta = {"lexeme_norm": get_file("ta_lexeme_norm.json")}
 th = {"lexeme_norm": get_file("th_lexeme_norm.json")}
-lb = {"lemma_lookup": get_file("lb_lemma_lookup.json")}
 de_extra = {
     "lexeme_cluster": get_file("de_lexeme_cluster.json"),
     "lexeme_prob": get_file("de_lexeme_prob.json"),
