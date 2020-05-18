@@ -98,5 +98,4 @@ pl = {
     "lemma_lookup_part": get_file("pl_lemma_lookup_part.json"),
     "lemma_lookup_pron": get_file("pl_lemma_lookup_pron.json"),
     "lemma_lookup_verb": get_file("pl_lemma_lookup_verb.json"),
-    "lemma_lookup_x": get_file("pl_lemma_lookup_x.json")
 }
