@@ -98,6 +98,7 @@ pl = {
     "lemma_lookup_part": get_file("pl_lemma_lookup_part.json"),
     "lemma_lookup_pron": get_file("pl_lemma_lookup_pron.json"),
     "lemma_lookup_verb": get_file("pl_lemma_lookup_verb.json"),
+}
 de_extra = {
     "lexeme_cluster": get_file("de_lexeme_cluster.json"),
     "lexeme_prob": get_file("de_lexeme_prob.json"),
