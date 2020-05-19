@@ -98,4 +98,22 @@ pl = {
     "lemma_lookup_part": get_file("pl_lemma_lookup_part.json"),
     "lemma_lookup_pron": get_file("pl_lemma_lookup_pron.json"),
     "lemma_lookup_verb": get_file("pl_lemma_lookup_verb.json"),
+de_extra = {
+    "lexeme_cluster": get_file("de_lexeme_cluster.json"),
+    "lexeme_prob": get_file("de_lexeme_prob.json"),
+    "lexeme_settings": get_file("de_lexeme_settings.json"),
+}
+el_extra = {
+    "lexeme_prob": get_file("el_lexeme_prob.json"),
+    "lexeme_settings": get_file("el_lexeme_settings.json"),
+}
+en_extra = {
+    "lexeme_cluster": get_file("en_lexeme_cluster.json"),
+    "lexeme_prob": get_file("en_lexeme_prob.json"),
+    "lexeme_settings": get_file("en_lexeme_settings.json"),
+}
+es_extra = {
+    "lexeme_cluster": get_file("es_lexeme_cluster.json"),
+    "lexeme_prob": get_file("es_lexeme_prob.json"),
+    "lexeme_settings": get_file("es_lexeme_settings.json"),
 }
