@@ -18,7 +18,7 @@ def gzip_language_data(root, source):
             # If the gz is newer it doesn't need updating
             print("Skipping {}, already compressed".format(jsonfile))
             continue
-        with open(jsonfile, 'r') as infileh, gzip.open(outfile, 'w') as outfileh:
+        with open(str(jsonfile), 'r') as infileh, gzip.open(str(outfile), 'w') as outfileh:
             outfileh.write(infileh.read().encode("utf-8"))
         print("Compressed {}".format(jsonfile))
 
