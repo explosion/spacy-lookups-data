@@ -88,6 +88,17 @@ lb = {
 ru = {"lexeme_norm": get_file("ru_lexeme_norm.json")}
 ta = {"lexeme_norm": get_file("ta_lexeme_norm.json")}
 th = {"lexeme_norm": get_file("th_lexeme_norm.json")}
+pl = {
+    "lemma_lookup_adj": get_file("pl_lemma_lookup_adj.json"),
+    "lemma_lookup_adp": get_file("pl_lemma_lookup_adp.json"),
+    "lemma_lookup_adv": get_file("pl_lemma_lookup_adv.json"),
+    "lemma_lookup_aux": get_file("pl_lemma_lookup_aux.json"),
+    "lemma_lookup_noun": get_file("pl_lemma_lookup_noun.json"),
+    "lemma_lookup_num": get_file("pl_lemma_lookup_num.json"),
+    "lemma_lookup_part": get_file("pl_lemma_lookup_part.json"),
+    "lemma_lookup_pron": get_file("pl_lemma_lookup_pron.json"),
+    "lemma_lookup_verb": get_file("pl_lemma_lookup_verb.json"),
+}
 de_extra = {
     "lexeme_cluster": get_file("de_lexeme_cluster.json"),
     "lexeme_prob": get_file("de_lexeme_prob.json"),
