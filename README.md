@@ -33,15 +33,24 @@ You should install this package if you want to use lemmatization for languages
 that don't yet have a [pretrained model](https://spacy.io/models) available for
 download and don't rely on third-party libraries for lemmatization – for
 example, **Turkish**, **Swedish** or **Croatian**
-([see data files](spacy_lookups_data/data)). You should also install it if
-you're creating a **blank model** and want it to include lemmatization data.
-Once you've saved out the model (e.g. via `nlp.disk`), it will include the
-lookup tables as part of its `Vocab`.
+([see data files](spacy_lookups_data/data)).
+
+If you are training new models with spaCy, you should probably install this,
+since it contains lemmatization and normalization data for 25+ languages that
+is no longer included as part of the main spaCy library. In particular, you
+should install it if you're creating a **blank model** and you want it to
+include lemmatization and normalization data. Once you've saved out the model
+(e.g. via `nlp.disk`), it will include the lookup tables as part of its
+`Vocab`.
 
 ### Is this package only for lemmatization?
 
-At the moment, yes. However, we are considering including other lookup lists and
-tables as well, e.g. large tokenizer exception files.
+This package used to only be for lemmatization, but it has been extended to
+include normalization data for many languages. As of v0.3.1 it also includes
+optional probability and Brown cluster data that used to be distributed with
+provided models in spaCy v2.2 but is no longer included in spaCy v2.3. In the
+future it may include other lookup lists and tables as well, e.g. large
+tokenizer exception files.
 
 ## Running tests
 
