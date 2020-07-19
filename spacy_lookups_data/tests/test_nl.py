@@ -7,8 +7,7 @@ import pytest
 
 @pytest.fixture
 def nl_lemmatizer(scope="session"):
-    lookups = Dutch.Defaults.create_lookups()
-    return Dutch.Defaults.create_lemmatizer(lookups=lookups)
+    return Dutch().vocab.morphology.lemmatizer
 
 
 # Calling the Lemmatizer directly

@@ -7,8 +7,7 @@ import pytest
 
 @pytest.fixture(scope="session")
 def lt_lemmatizer():
-    lookups = Lithuanian.Defaults.create_lookups()
-    return Lithuanian.Defaults.create_lemmatizer(lookups=lookups)
+    return Lithuanian().vocab.morphology.lemmatizer
 
 
 # fmt: off
