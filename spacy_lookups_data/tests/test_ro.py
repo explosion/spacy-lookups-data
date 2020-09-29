@@ -1,13 +1,4 @@
-# coding: utf-8
-from __future__ import unicode_literals
-
-from spacy.lang.ro import Romanian
 import pytest
-
-
-@pytest.fixture(scope="session")
-def ro_nlp():
-    return Romanian()
 
 
 @pytest.mark.parametrize(

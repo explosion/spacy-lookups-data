@@ -1,13 +1,4 @@
-# coding: utf-8
-from __future__ import unicode_literals
-
-from spacy.lang.lt import Lithuanian
 import pytest
-
-
-@pytest.fixture(scope="session")
-def lt_lemmatizer():
-    return Lithuanian().vocab.morphology.lemmatizer
 
 
 # fmt: off
@@ -23,5 +14,6 @@ TEST_CASES = [
 
 
 @pytest.mark.parametrize("tokens,lemmas", TEST_CASES)
-def test_lt_lemmatizer(lt_lemmatizer, tokens, lemmas):
-    assert lemmas == [lt_lemmatizer.lookup(token) for token in tokens]
+def test_lt_lemmatizer(lt_nlp, tokens, lemmas):
+    doc = lt_nlp(" ".join(tokens))
+    assert lemmas == [token.lemma_ for token in doc]

@@ -1,13 +1,4 @@
-# coding: utf-8
-from __future__ import unicode_literals
-
-from spacy.lang.tr import Turkish
 import pytest
-
-
-@pytest.fixture(scope="session")
-def tr_nlp():
-    return Turkish()
 
 
 @pytest.mark.parametrize(

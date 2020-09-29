@@ -1,13 +1,4 @@
-# coding: utf-8
-from __future__ import unicode_literals
-
-from spacy.lang.da import Danish
 import pytest
-
-
-@pytest.fixture(scope="session")
-def da_nlp():
-    return Danish()
 
 
 @pytest.mark.parametrize(

@@ -1,15 +1,7 @@
-# coding: utf-8
-from __future__ import unicode_literals
-
-from spacy.lang.sv import Swedish
 import pytest
 
 
-@pytest.fixture(scope="session")
-def sv_nlp():
-    return Swedish()
-
-
+@pytest.mark.xfail
 @pytest.mark.parametrize(
     "string,lemma",
     [

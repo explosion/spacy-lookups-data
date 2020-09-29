@@ -1,13 +1,4 @@
-# coding: utf-8
-from __future__ import unicode_literals
-
 import pytest
-from spacy.lang.lb import Luxembourgish
-
-
-@pytest.fixture(scope="session")
-def lb_nlp():
-    return Luxembourgish()
 
 
 @pytest.mark.parametrize(
