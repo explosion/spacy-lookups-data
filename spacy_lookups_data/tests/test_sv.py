@@ -1,7 +1,6 @@
 import pytest
 
 
-@pytest.mark.xfail
 @pytest.mark.parametrize(
     "string,lemma",
     [
@@ -13,6 +12,6 @@ import pytest
         ("åsyns", "åsyn"),
     ],
 )
-def test_lemmatizer_lookup_assigns(sv_nlp, string, lemma):
-    tokens = sv_nlp(string)
+def test_lemmatizer_lookup_assigns(sv_lookup_nlp, string, lemma):
+    tokens = sv_lookup_nlp(string)
     assert tokens[0].lemma_ == lemma

@@ -78,7 +78,7 @@ def test_nl_lemmatizer_noun_lemmas_irreg(nl_lemmatizer, text, lemma):
 
 @pytest.mark.skip
 @pytest.mark.parametrize("text,lemma", verb_irreg_lemmatization_cases)
-def test_nl_lemmatizer_verb_lemmas_irreg(nl_nlp, text, lemma):
+def test_nl_lemmatizer_verb_lemmas_irreg(nl_lookup_nlp, text, lemma):
     pos = "verb"
     lemmas_pred = nl_lemmatizer(text, pos)
     assert lemma == sorted(lemmas_pred)[0]
@@ -86,12 +86,12 @@ def test_nl_lemmatizer_verb_lemmas_irreg(nl_nlp, text, lemma):
 
 # Using the lemma lookup table only
 @pytest.mark.parametrize("text,lemma", noun_irreg_lemmatization_cases)
-def test_nl_lemmatizer_lookup_noun(nl_nlp, text, lemma):
-    doc = nl_nlp(text)
+def test_nl_lemmatizer_lookup_noun(nl_lookup_nlp, text, lemma):
+    doc = nl_lookup_nlp(text)
     assert doc[0].lemma_ in (lemma, text)
 
 
 @pytest.mark.parametrize("text,lemma", verb_irreg_lemmatization_cases)
-def test_nl_lemmatizer_lookup_verb(nl_nlp, text, lemma):
-    doc = nl_nlp(text)
+def test_nl_lemmatizer_lookup_verb(nl_lookup_nlp, text, lemma):
+    doc = nl_lookup_nlp(text)
     assert doc[0].lemma_ in (lemma, text)
