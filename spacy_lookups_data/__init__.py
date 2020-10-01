@@ -1,6 +1,3 @@
-# coding: utf8
-from __future__ import unicode_literals
-
 import pkg_resources
 import os
 
@@ -25,7 +22,12 @@ da = {
     "lexeme_norm": get_file("da_lexeme_norm.json"),
 }
 ca = {"lemma_lookup": get_file("ca_lemma_lookup.json")}
-es = {"lemma_lookup": get_file("es_lemma_lookup.json")}
+es = {
+    "lemma_lookup": get_file("es_lemma_lookup.json"),
+    "lexeme_cluster": get_file("es_lexeme_cluster.json"),
+    "lexeme_prob": get_file("es_lexeme_prob.json"),
+    "lexeme_settings": get_file("es_lexeme_settings.json"),
+}
 fr = {
     "lemma_rules": get_file("fr_lemma_rules.json"),
     "lemma_index": get_file("fr_lemma_index.json"),
@@ -41,6 +43,10 @@ tr = {"lemma_lookup": get_file("tr_lemma_lookup.json")}
 de = {
     "lemma_lookup": get_file("de_lemma_lookup.json"),
     "lexeme_norm": get_file("de_lexeme_norm.json"),
+    "lexeme_cluster": get_file("de_lexeme_cluster.json"),
+    "lexeme_prob": get_file("de_lexeme_prob.json"),
+    "lexeme_settings": get_file("de_lexeme_settings.json"),
+    "orth_variants": get_file("de_orth_variants.json"),
 }
 it = {"lemma_lookup": get_file("it_lemma_lookup.json")}
 lt = {"lemma_lookup": get_file("lt_lemma_lookup.json")}
@@ -71,12 +77,18 @@ en = {
     "lemma_index": get_file("en_lemma_index.json"),
     "lemma_exc": get_file("en_lemma_exc.json"),
     "lexeme_norm": get_file("en_lexeme_norm.json"),
+    "lexeme_cluster": get_file("en_lexeme_cluster.json"),
+    "lexeme_prob": get_file("en_lexeme_prob.json"),
+    "lexeme_settings": get_file("en_lexeme_settings.json"),
+    "orth_variants": get_file("en_orth_variants.json"),
 }
 el = {
     "lemma_index": get_file("el_lemma_index.json"),
     "lemma_exc": get_file("el_lemma_exc.json"),
     "lemma_rules": get_file("el_lemma_rules.json"),
     "lexeme_norm": get_file("el_lexeme_norm.json"),
+    "lexeme_prob": get_file("el_lexeme_prob.json"),
+    "lexeme_settings": get_file("el_lexeme_settings.json"),
 }
 bn = {"lemma_rules": get_file("bn_lemma_rules.json")}
 tl = {"lemma_lookup": get_file("tl_lemma_lookup.json")}
@@ -98,23 +110,4 @@ pl = {
     "lemma_lookup_part": get_file("pl_lemma_lookup_part.json"),
     "lemma_lookup_pron": get_file("pl_lemma_lookup_pron.json"),
     "lemma_lookup_verb": get_file("pl_lemma_lookup_verb.json"),
-}
-de_extra = {
-    "lexeme_cluster": get_file("de_lexeme_cluster.json"),
-    "lexeme_prob": get_file("de_lexeme_prob.json"),
-    "lexeme_settings": get_file("de_lexeme_settings.json"),
-}
-el_extra = {
-    "lexeme_prob": get_file("el_lexeme_prob.json"),
-    "lexeme_settings": get_file("el_lexeme_settings.json"),
-}
-en_extra = {
-    "lexeme_cluster": get_file("en_lexeme_cluster.json"),
-    "lexeme_prob": get_file("en_lexeme_prob.json"),
-    "lexeme_settings": get_file("en_lexeme_settings.json"),
-}
-es_extra = {
-    "lexeme_cluster": get_file("es_lexeme_cluster.json"),
-    "lexeme_prob": get_file("es_lexeme_prob.json"),
-    "lexeme_settings": get_file("es_lexeme_settings.json"),
 }

@@ -1,13 +1,4 @@
-# coding: utf-8
-from __future__ import unicode_literals
-
-from spacy.lang.sr import Serbian
 import pytest
-
-
-@pytest.fixture(scope="session")
-def sr_nlp():
-    return Serbian()
 
 
 @pytest.mark.parametrize(

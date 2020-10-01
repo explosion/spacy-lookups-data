@@ -1,13 +1,4 @@
-# coding: utf-8
-from __future__ import unicode_literals
-
-from spacy.lang.sv import Swedish
 import pytest
-
-
-@pytest.fixture(scope="session")
-def sv_nlp():
-    return Swedish()
 
 
 @pytest.mark.parametrize(
@@ -21,6 +12,6 @@ def sv_nlp():
         ("åsyns", "åsyn"),
     ],
 )
-def test_lemmatizer_lookup_assigns(sv_nlp, string, lemma):
-    tokens = sv_nlp(string)
+def test_lemmatizer_lookup_assigns(sv_lookup_nlp, string, lemma):
+    tokens = sv_lookup_nlp(string)
     assert tokens[0].lemma_ == lemma

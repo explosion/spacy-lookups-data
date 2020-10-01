@@ -1,27 +1,21 @@
-# coding: utf-8
-from __future__ import unicode_literals
-
-from spacy.lang.en import English
-from spacy.tokens import Doc
 import pytest
-
-
-@pytest.fixture(scope="session")
-def en_nlp():
-    return English()
+from spacy.tokens import Doc
 
 
 @pytest.mark.parametrize("text", ["faster", "fastest", "better", "best"])
-def test_en_lemmatizer_handles_irreg_adverbs(en_nlp, text):
-    tokens = en_nlp(text)
+def test_en_lemmatizer_handles_irreg_adverbs(en_lookup_nlp, text):
+    tokens = en_lookup_nlp(text)
     assert tokens[0].lemma_ in ["fast", "well"]
 
 
-def test_issue4104(en_nlp):
+def test_issue4104(en_lookup_nlp):
     """Test that English lookup lemmatization of spun & dry are correct
     expected mapping = {'dry': 'dry', 'spun': 'spin', 'spun-dry': 'spin-dry'}
     """
-    doc = Doc(en_nlp.vocab, words=["dry", "spun", "spun-dry"])
+    words = ["dry", "spun", "spun-dry"]
+    doc = Doc(en_lookup_nlp.vocab, words=words)
+    lemmatizer = en_lookup_nlp.get_pipe("lemmatizer")
+    doc = lemmatizer(doc)
     assert [token.lemma_ for token in doc] == ["dry", "spin", "spin-dry"]
 
 

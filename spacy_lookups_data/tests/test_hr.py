@@ -1,13 +1,4 @@
-# coding: utf-8
-from __future__ import unicode_literals
-
-from spacy.lang.hr import Croatian
 import pytest
-
-
-@pytest.fixture(scope="session")
-def hr_nlp():
-    return Croatian()
 
 
 @pytest.mark.parametrize(
