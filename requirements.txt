@@ -1,2 +1,2 @@
-spacy-nightly>=3.0.0a26,<3.0.0a30
+spacy-nightly>=3.0.0a27,<3.0.0a30
 pytest>=4.1.0
