@@ -8,6 +8,13 @@ def get_file(filename):
     return pkg_resources.resource_filename(__name__, os.path.join("data", filename))
 
 
+mk = {
+    "lemma_lookup": get_file("mk_lemma_lookup.json"),
+    "lemma_rules": get_file("mk_lemma_rules.json"),
+    "lemma_index": get_file("mk_lemma_index.json"),
+    "lemma_exc": get_file("mk_lemma_exc.json"),
+    "lexeme_norm": get_file("mk_lexeme_norm.json"),
+}
 hr = {"lemma_lookup": get_file("hr_lemma_lookup.json")}
 pt = {
     "lemma_lookup": get_file("pt_lemma_lookup.json"),
