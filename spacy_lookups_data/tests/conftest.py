@@ -83,6 +83,13 @@ def lt_nlp():
 
 
 @pytest.fixture(scope="session")
+def mk_nlp():
+    nlp = spacy.blank("mk")
+    nlp.add_pipe("lemmatizer")
+    return nlp
+
+
+@pytest.fixture(scope="session")
 def nl_nlp():
     nlp = spacy.blank("nl")
     nlp.add_pipe("lemmatizer")
