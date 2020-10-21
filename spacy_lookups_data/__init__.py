@@ -111,4 +111,7 @@ pl = {
     "lemma_lookup_pron": get_file("pl_lemma_lookup_pron.json"),
     "lemma_lookup_verb": get_file("pl_lemma_lookup_verb.json"),
 }
-cs = {"lemma_lookup": get_file("cs_lemma_lookup.json")}
+cs = {
+    "lemma_lookup": get_file("cs_lemma_lookup.json"),
+    "lexeme_norm": get_file("cs_lexeme_norm.json"),
+}
