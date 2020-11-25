@@ -8,6 +8,13 @@ INIT_LOOKUPS_CONFIG = {
     "tables": ["lexeme_norm"],
 }
 
+@pytest.fixture(scope="session")
+def cs_nlp():
+    nlp = spacy.blank("cs")
+    nlp.config["initialize"]["lookups"] = INIT_LOOKUPS_CONFIG
+    nlp.add_pipe("lemmatizer")
+    nlp.initialize()
+    return nlp
 
 @pytest.fixture(scope="session")
 def da_nlp():
