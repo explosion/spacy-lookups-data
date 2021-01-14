@@ -5,8 +5,8 @@ import pytest
 
 
 @pytest.mark.parametrize("text", ["побрзо", "најбрзо", "подобро", "најдобро"])
-def test_mk_lemmatizer_handles_irreg_adverbs(mk_nlp, text):
-    for token in mk_nlp(text):
+def test_mk_lemmatizer_handles_irreg_adverbs(mk_lookup_nlp, text):
+    for token in mk_lookup_nlp(text):
         assert token.lemma_ in ["брзо", "добро"]
 
 
@@ -21,8 +21,8 @@ def test_mk_lemmatizer_handles_irreg_adverbs(mk_nlp, text):
         ("мислеше", "мисли")
     ],
 )
-def test_mk_lemmatizer_lookup_assigns(mk_nlp, string, lemma):
-    assert mk_nlp(string)[0].lemma_ == lemma
+def test_mk_lemmatizer_lookup_assigns(mk_lookup_nlp, string, lemma):
+    assert mk_lookup_nlp(string)[0].lemma_ == lemma
 
 
 @pytest.mark.parametrize(
@@ -33,5 +33,5 @@ def test_mk_lemmatizer_lookup_assigns(mk_nlp, string, lemma):
           "со", "единица", ".", "Може", "да", "дојдам", "со", "автомобил", ",", "поздрав", "."])
     ]
 )
-def test_mk_tokenizer_norm_exceptions(mk_nlp, string, lemma):
-    assert [token.norm_ for token in mk_nlp(string)] == lemma
+def test_mk_tokenizer_norm_exceptions(mk_lookup_nlp, string, lemma):
+    assert [token.norm_ for token in mk_lookup_nlp(string)] == lemma

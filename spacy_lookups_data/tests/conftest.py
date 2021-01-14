@@ -83,9 +83,11 @@ def lt_nlp():
 
 
 @pytest.fixture(scope="session")
-def mk_nlp():
+def mk_lookup_nlp():
     nlp = spacy.blank("mk")
-    nlp.add_pipe("lemmatizer")
+    nlp.config["initialize"]["lookups"] = INIT_LOOKUPS_CONFIG
+    nlp.add_pipe("lemmatizer", config={"mode": "lookup"})
+    nlp.initialize()
     return nlp
 
 
