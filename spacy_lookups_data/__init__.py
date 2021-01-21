@@ -31,6 +31,10 @@ da = {
 ca = {"lemma_lookup": get_file("ca_lemma_lookup.json")}
 es = {
     "lemma_lookup": get_file("es_lemma_lookup.json"),
+    "lemma_exc": get_file("es_lemma_exc.json"),
+    "lemma_index": get_file("es_lemma_index.json"),
+    "lemma_rules": get_file("es_lemma_rules.json"),
+    "lemma_rules_groups": get_file("es_lemma_rules_groups.json"),
     "lexeme_cluster": get_file("es_lexeme_cluster.json"),
     "lexeme_prob": get_file("es_lexeme_prob.json"),
     "lexeme_settings": get_file("es_lexeme_settings.json"),
