@@ -1,4 +1,7 @@
 {
+    "adj": {
+        "primer": ["primero"]
+    },
     "det": {
         "lo": ["el"],
         "la": ["el"],
