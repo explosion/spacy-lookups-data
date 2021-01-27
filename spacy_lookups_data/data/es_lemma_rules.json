@@ -1,129 +1,185 @@
 {
   "verb_fin_ind_pres_sing_1":[
     [
-      "o",
-      "ar"
-    ],
-    [
-      "o",
-      "er"
-    ],
-    [
-      "o",
-      "ir"
-    ],
-    [
-      "zco",
-      "cer"
-    ],
-    [
-      "zo",
-      "cer"
-    ],
-    [
-      "\u00edo",
-      "e\u00edr"
-    ],
-    [
-      "yo",
-      "ir"
-    ],
-    [
-      "ago",
-      "acer"
-    ],
-    [
-      "oy",
-      "ar"
-    ],
-    [
-      "go",
-      "er"
-    ],
-    [
-      "go",
-      "ir"
-    ],
-    [
-      "go",
-      "guir"
-    ],
-    [
-      "jo",
-      "ger"
-    ],
-    [
-      "jo",
-      "gir"
-    ],
-    [
-      "duzco",
-      "ducir"
-    ],
-    [
-      "luzco",
-      "lucir"
-    ],
-    [
-      "caigo",
-      "caer"
-    ],
-    [
-      "traigo",
-      "traer"
-    ],
-    [
-      "soy",
-      "ser"
-    ],
-    [
-      "he",
-      "haber"
-    ],
-    [
-      "voy",
-      "ir"
-    ],
-    [
-      "digo",
-      "decir"
-    ],
-    [
-      "veo",
-      "ver"
-    ],
-    [
-      "quepo",
-      "caber"
-    ],
-    [
-      "huelo",
-      "oler"
+      "oigo",
+      "o\u00edr"
     ],
     [
       "s\u00e9",
       "saber"
     ],
     [
-      "oigo",
-      "o\u00edr"
+      "huelo",
+      "oler"
+    ],
+    [
+      "quepo",
+      "caber"
+    ],
+    [
+      "veo",
+      "ver"
+    ],
+    [
+      "digo",
+      "decir"
+    ],
+    [
+      "voy",
+      "ir"
+    ],
+    [
+      "he",
+      "haber"
+    ],
+    [
+      "soy",
+      "ser"
+    ],
+    [
+      "traigo",
+      "traer"
+    ],
+    [
+      "caigo",
+      "caer"
+    ],
+    [
+      "luzco",
+      "lucir"
+    ],
+    [
+      "duzco",
+      "ducir"
+    ],
+    [
+      "jo",
+      "gir"
+    ],
+    [
+      "jo",
+      "ger"
+    ],
+    [
+      "go",
+      "guir"
+    ],
+    [
+      "go",
+      "ir"
+    ],
+    [
+      "go",
+      "er"
+    ],
+    [
+      "oy",
+      "ar"
+    ],
+    [
+      "ago",
+      "acer"
+    ],
+    [
+      "yo",
+      "ir"
+    ],
+    [
+      "\u00edo",
+      "e\u00edr"
+    ],
+    [
+      "zo",
+      "cer"
+    ],
+    [
+      "zco",
+      "cer"
+    ],
+    [
+      "o",
+      "ir"
+    ],
+    [
+      "o",
+      "er"
+    ],
+    [
+      "o",
+      "ar"
     ]
   ],
   "verb_fin_ind_pres_sing_2":[
     [
-      "as",
-      "ar"
+      "huele",
+      "oler"
     ],
     [
-      "\u00e1s",
-      "ar"
+      "dice",
+      "decir"
+    ],
+    [
+      "va",
+      "ir"
+    ],
+    [
+      "ha",
+      "haber"
     ],
     [
       "es",
+      "ser"
+    ],
+    [
+      "ya",
+      "ir"
+    ],
+    [
+      "\u00eda",
+      "e\u00edr"
+    ],
+    [
+      "e",
+      "ir"
+    ],
+    [
+      "\u00e9",
       "er"
     ],
     [
-      "es",
+      "e",
+      "er"
+    ],
+    [
+      "\u00e1",
+      "ar"
+    ],
+    [
+      "a",
+      "ar"
+    ],
+    [
+      "hueles",
+      "oler"
+    ],
+    [
+      "dices",
+      "decir"
+    ],
+    [
+      "vas",
+      "ir"
+    ],
+    [
+      "has",
+      "haber"
+    ],
+    [
+      "eres",
+      "ser"
+    ],
+    [
+      "yes",
       "ir"
     ],
     [
@@ -131,97 +187,49 @@
       "e\u00edr"
     ],
     [
-      "yes",
-      "ir"
-    ],
-    [
-      "eres",
-      "ser"
-    ],
-    [
-      "has",
-      "haber"
-    ],
-    [
-      "vas",
-      "ir"
-    ],
-    [
-      "dices",
-      "decir"
-    ],
-    [
-      "hueles",
-      "oler"
-    ],
-    [
-      "a",
-      "ar"
-    ],
-    [
-      "\u00e1",
-      "ar"
-    ],
-    [
-      "e",
-      "er"
-    ],
-    [
-      "\u00e9",
-      "er"
-    ],
-    [
-      "e",
-      "ir"
-    ],
-    [
-      "\u00eda",
-      "e\u00edr"
-    ],
-    [
-      "ya",
+      "es",
       "ir"
     ],
     [
       "es",
-      "ser"
+      "er"
     ],
     [
-      "ha",
-      "haber"
+      "\u00e1s",
+      "ar"
     ],
     [
-      "va",
-      "ir"
+      "as",
+      "ar"
+    ]
+  ],
+  "verb_fin_ind_pres_sing_3":[
+    [
+      "huele",
+      "oler"
     ],
     [
       "dice",
       "decir"
     ],
     [
-      "huele",
-      "oler"
-    ]
-  ],
-  "verb_fin_ind_pres_sing_3":[
-    [
-      "a",
-      "ar"
+      "va",
+      "ir"
     ],
     [
-      "\u00e1",
-      "ar"
+      "hay",
+      "haber"
     ],
     [
-      "e",
-      "er"
+      "ha",
+      "haber"
     ],
     [
-      "\u00e9",
-      "er"
+      "es",
+      "ser"
     ],
     [
-      "e",
+      "ye",
       "ir"
     ],
     [
@@ -229,71 +237,55 @@
       "e\u00edr"
     ],
     [
-      "ye",
+      "e",
       "ir"
     ],
     [
-      "es",
-      "ser"
+      "\u00e9",
+      "er"
     ],
     [
-      "ha",
-      "haber"
+      "e",
+      "er"
     ],
     [
-      "hay",
-      "haber"
+      "\u00e1",
+      "ar"
     ],
     [
-      "va",
-      "ir"
-    ],
-    [
-      "dice",
-      "decir"
-    ],
-    [
-      "huele",
-      "oler"
+      "a",
+      "ar"
     ]
   ],
   "verb_fin_ind_pres_plur_1":[
     [
-      "amos",
-      "ar"
-    ],
-    [
-      "emos",
-      "er"
-    ],
-    [
-      "imos",
+      "vamos",
       "ir"
-    ],
-    [
-      "somos",
-      "ser"
     ],
     [
       "hemos",
       "haber"
     ],
     [
-      "vamos",
+      "somos",
+      "ser"
+    ],
+    [
+      "imos",
       "ir"
+    ],
+    [
+      "emos",
+      "er"
+    ],
+    [
+      "amos",
+      "ar"
     ]
   ],
   "verb_fin_ind_pres_plur_2":[
     [
-      "\u00e1is",
-      "ar"
-    ],
-    [
-      "\u00e9is",
-      "er"
-    ],
-    [
-      "\u00eds",
+      "vais",
       "ir"
     ],
     [
@@ -301,29 +293,41 @@
       "ser"
     ],
     [
-      "vais",
+      "\u00eds",
       "ir"
+    ],
+    [
+      "\u00e9is",
+      "er"
+    ],
+    [
+      "\u00e1is",
+      "ar"
     ]
   ],
   "verb_fin_ind_pres_plur_3":[
     [
-      "an",
-      "ar"
+      "huelen",
+      "oler"
     ],
     [
-      "\u00e1n",
-      "ar"
+      "dicen",
+      "decir"
     ],
     [
-      "en",
-      "er"
+      "van",
+      "ir"
     ],
     [
-      "\u00e9n",
-      "er"
+      "han",
+      "haber"
     ],
     [
-      "en",
+      "son",
+      "ser"
+    ],
+    [
+      "yen",
       "ir"
     ],
     [
@@ -331,441 +335,489 @@
       "eir"
     ],
     [
-      "yen",
+      "en",
       "ir"
     ],
     [
-      "son",
-      "ser"
+      "\u00e9n",
+      "er"
     ],
     [
-      "han",
-      "haber"
+      "en",
+      "er"
     ],
     [
-      "van",
-      "ir"
+      "\u00e1n",
+      "ar"
     ],
     [
-      "dicen",
-      "decir"
-    ],
-    [
-      "huelen",
-      "oler"
+      "an",
+      "ar"
     ]
   ],
   "verb_fin_ind_imp_sing_1":[
     [
-      "ba",
-      "r"
-    ],
-    [
-      "\u00eda",
-      "er"
-    ],
-    [
-      "\u00eda",
-      "ir"
+      "ve\u00eda",
+      "ver"
     ],
     [
       "era",
       "ser"
     ],
     [
-      "ve\u00eda",
-      "ver"
+      "\u00eda",
+      "ir"
+    ],
+    [
+      "\u00eda",
+      "er"
+    ],
+    [
+      "ba",
+      "r"
     ]
   ],
   "verb_fin_ind_imp_sing_2":[
     [
-      "bas",
-      "r"
+      "ve\u00eda",
+      "ver"
     ],
     [
-      "\u00edas",
-      "er"
+      "era",
+      "ser"
     ],
     [
-      "\u00edas",
+      "\u00eda",
       "ir"
     ],
     [
-      "eras",
-      "ser"
+      "\u00eda",
+      "er"
+    ],
+    [
+      "ba",
+      "r"
     ],
     [
       "ve\u00edas",
       "ver"
     ],
     [
-      "ba",
-      "r"
-    ],
-    [
-      "\u00eda",
-      "er"
-    ],
-    [
-      "\u00eda",
-      "ir"
-    ],
-    [
-      "era",
+      "eras",
       "ser"
     ],
     [
-      "ve\u00eda",
-      "ver"
+      "\u00edas",
+      "ir"
+    ],
+    [
+      "\u00edas",
+      "er"
+    ],
+    [
+      "bas",
+      "r"
     ]
   ],
   "verb_fin_ind_imp_sing_3":[
     [
-      "ba",
-      "r"
-    ],
-    [
-      "\u00eda",
-      "er"
-    ],
-    [
-      "\u00eda",
-      "ir"
+      "ve\u00eda",
+      "ver"
     ],
     [
       "era",
       "ser"
     ],
     [
-      "ve\u00eda",
-      "ver"
+      "\u00eda",
+      "ir"
+    ],
+    [
+      "\u00eda",
+      "er"
+    ],
+    [
+      "ba",
+      "r"
     ]
   ],
   "verb_fin_ind_imp_plur_1":[
     [
-      "bamos",
-      "r"
-    ],
-    [
-      "\u00edamos",
-      "er"
-    ],
-    [
-      "\u00edamos",
-      "ir"
+      "ve\u00edamos",
+      "ver"
     ],
     [
       "\u00e9ramos",
       "ser"
     ],
     [
-      "ve\u00edamos",
-      "ver"
+      "\u00edamos",
+      "ir"
+    ],
+    [
+      "\u00edamos",
+      "er"
+    ],
+    [
+      "bamos",
+      "r"
     ]
   ],
   "verb_fin_ind_imp_plur_2":[
     [
-      "bais",
-      "r"
-    ],
-    [
-      "\u00edais",
-      "er"
-    ],
-    [
-      "\u00edais",
-      "ir"
+      "ve\u00edais",
+      "ver"
     ],
     [
       "erais",
       "ser"
     ],
     [
-      "ve\u00edais",
-      "ver"
+      "\u00edais",
+      "ir"
+    ],
+    [
+      "\u00edais",
+      "er"
+    ],
+    [
+      "bais",
+      "r"
     ]
   ],
   "verb_fin_ind_imp_plur_3":[
     [
-      "ban",
-      "r"
-    ],
-    [
-      "\u00edan",
-      "er"
-    ],
-    [
-      "\u00edan",
-      "ir"
+      "ve\u00edan",
+      "ver"
     ],
     [
       "eran",
       "ser"
     ],
     [
-      "ve\u00edan",
-      "ver"
+      "\u00edan",
+      "ir"
+    ],
+    [
+      "\u00edan",
+      "er"
+    ],
+    [
+      "ban",
+      "r"
     ]
   ],
   "verb_fin_ind_past_sing_1":[
     [
-      "\u00e9",
-      "ar"
-    ],
-    [
-      "\u00ed",
-      "er"
-    ],
-    [
-      "\u00ed",
-      "ir"
-    ],
-    [
-      "duje",
-      "ducir"
-    ],
-    [
-      "traje",
-      "traer"
-    ],
-    [
-      "ice",
-      "acer"
-    ],
-    [
-      "uve",
-      "ar"
-    ],
-    [
-      "qu\u00e9",
-      "car"
-    ],
-    [
-      "gu\u00e9",
-      "gar"
-    ],
-    [
-      "c\u00e9",
-      "zar"
-    ],
-    [
-      "upe",
-      "aber"
-    ],
-    [
-      "fui",
-      "ser"
-    ],
-    [
-      "fui",
-      "ir"
-    ],
-    [
-      "hube",
-      "haber"
-    ],
-    [
-      "tuve",
-      "tener"
-    ],
-    [
-      "puse",
-      "poner"
-    ],
-    [
-      "vine",
-      "venir"
-    ],
-    [
-      "dije",
-      "decir"
-    ],
-    [
-      "pude",
-      "poder"
-    ],
-    [
-      "quise",
-      "querer"
+      "vi",
+      "ver"
     ],
     [
       "di",
       "dar"
     ],
     [
-      "vi",
-      "ver"
+      "quise",
+      "querer"
+    ],
+    [
+      "pude",
+      "poder"
+    ],
+    [
+      "dije",
+      "decir"
+    ],
+    [
+      "vine",
+      "venir"
+    ],
+    [
+      "puse",
+      "poner"
+    ],
+    [
+      "tuve",
+      "tener"
+    ],
+    [
+      "hube",
+      "haber"
+    ],
+    [
+      "fui",
+      "ir"
+    ],
+    [
+      "fui",
+      "ser"
+    ],
+    [
+      "upe",
+      "aber"
+    ],
+    [
+      "c\u00e9",
+      "zar"
+    ],
+    [
+      "gu\u00e9",
+      "gar"
+    ],
+    [
+      "qu\u00e9",
+      "car"
+    ],
+    [
+      "uve",
+      "ar"
+    ],
+    [
+      "ice",
+      "acer"
+    ],
+    [
+      "traje",
+      "traer"
+    ],
+    [
+      "duje",
+      "ducir"
+    ],
+    [
+      "\u00ed",
+      "ir"
+    ],
+    [
+      "\u00ed",
+      "er"
+    ],
+    [
+      "\u00e9",
+      "ar"
     ]
   ],
   "verb_fin_ind_past_sing_2":[
     [
-      "aste",
-      "ar"
+      "dio",
+      "dar"
     ],
     [
-      "iste",
-      "er"
+      "quiso",
+      "querer"
     ],
     [
-      "iste",
-      "ir"
+      "pudo",
+      "poder"
     ],
     [
-      "dujiste",
-      "ducir"
-    ],
-    [
-      "trajiste",
-      "traer"
-    ],
-    [
-      "iciste",
-      "acer"
-    ],
-    [
-      "uviste",
-      "ar"
-    ],
-    [
-      "upiste",
-      "aber"
-    ],
-    [
-      "fuiste",
-      "ser"
-    ],
-    [
-      "fuiste",
-      "ir"
-    ],
-    [
-      "hubiste",
-      "haber"
-    ],
-    [
-      "tuviste",
-      "ener"
-    ],
-    [
-      "pusiste",
-      "oner"
-    ],
-    [
-      "viniste",
-      "enir"
-    ],
-    [
-      "dijiste",
+      "dijo",
       "decir"
     ],
     [
-      "quisiste",
-      "querer"
+      "vino",
+      "venir"
+    ],
+    [
+      "puso",
+      "poner"
+    ],
+    [
+      "tuvo",
+      "tener"
+    ],
+    [
+      "hubo",
+      "haber"
+    ],
+    [
+      "fue",
+      "ser"
+    ],
+    [
+      "fue",
+      "ir"
+    ],
+    [
+      "upo",
+      "aber"
+    ],
+    [
+      "uvo",
+      "ar"
+    ],
+    [
+      "izo",
+      "acer"
+    ],
+    [
+      "trajo",
+      "traer"
+    ],
+    [
+      "dujo",
+      "ducir"
+    ],
+    [
+      "y\u00f3",
+      "ir"
+    ],
+    [
+      "i\u00f3",
+      "e\u00edr"
+    ],
+    [
+      "i\u00f3",
+      "ir"
+    ],
+    [
+      "y\u00f3",
+      "er"
+    ],
+    [
+      "i\u00f3",
+      "er"
+    ],
+    [
+      "\u00f3",
+      "ar"
     ],
     [
       "diste",
       "dar"
     ],
     [
-      "\u00f3",
-      "ar"
-    ],
-    [
-      "i\u00f3",
-      "er"
-    ],
-    [
-      "y\u00f3",
-      "er"
-    ],
-    [
-      "i\u00f3",
-      "ir"
-    ],
-    [
-      "i\u00f3",
-      "e\u00edr"
-    ],
-    [
-      "y\u00f3",
-      "ir"
-    ],
-    [
-      "dujo",
-      "ducir"
-    ],
-    [
-      "trajo",
-      "traer"
-    ],
-    [
-      "izo",
-      "acer"
-    ],
-    [
-      "uvo",
-      "ar"
-    ],
-    [
-      "upo",
-      "aber"
-    ],
-    [
-      "fue",
-      "ser"
-    ],
-    [
-      "fue",
-      "ir"
-    ],
-    [
-      "hubo",
-      "haber"
-    ],
-    [
-      "tuvo",
-      "tener"
-    ],
-    [
-      "puso",
-      "poner"
-    ],
-    [
-      "vino",
-      "venir"
-    ],
-    [
-      "dijo",
-      "decir"
-    ],
-    [
-      "pudo",
-      "poder"
-    ],
-    [
-      "quiso",
+      "quisiste",
       "querer"
     ],
     [
-      "dio",
-      "dar"
+      "dijiste",
+      "decir"
+    ],
+    [
+      "viniste",
+      "enir"
+    ],
+    [
+      "pusiste",
+      "oner"
+    ],
+    [
+      "tuviste",
+      "ener"
+    ],
+    [
+      "hubiste",
+      "haber"
+    ],
+    [
+      "fuiste",
+      "ir"
+    ],
+    [
+      "fuiste",
+      "ser"
+    ],
+    [
+      "upiste",
+      "aber"
+    ],
+    [
+      "uviste",
+      "ar"
+    ],
+    [
+      "iciste",
+      "acer"
+    ],
+    [
+      "trajiste",
+      "traer"
+    ],
+    [
+      "dujiste",
+      "ducir"
+    ],
+    [
+      "iste",
+      "ir"
+    ],
+    [
+      "iste",
+      "er"
+    ],
+    [
+      "aste",
+      "ar"
     ]
   ],
   "verb_fin_ind_past_sing_3":[
     [
-      "\u00f3",
+      "vio",
+      "ver"
+    ],
+    [
+      "dio",
+      "dar"
+    ],
+    [
+      "quiso",
+      "querer"
+    ],
+    [
+      "pudo",
+      "poder"
+    ],
+    [
+      "dijo",
+      "decir"
+    ],
+    [
+      "vino",
+      "venir"
+    ],
+    [
+      "puso",
+      "poner"
+    ],
+    [
+      "tuvo",
+      "tener"
+    ],
+    [
+      "hubo",
+      "haber"
+    ],
+    [
+      "fue",
+      "ser"
+    ],
+    [
+      "fue",
+      "ir"
+    ],
+    [
+      "upo",
+      "aber"
+    ],
+    [
+      "uvo",
       "ar"
     ],
     [
-      "i\u00f3",
-      "er"
+      "izo",
+      "acer"
+    ],
+    [
+      "trajo",
+      "traer"
+    ],
+    [
+      "dujo",
+      "ducir"
     ],
     [
       "y\u00f3",
-      "er"
-    ],
-    [
-      "i\u00f3",
       "ir"
     ],
     [
@@ -773,1178 +825,1214 @@
       "e\u00edr"
     ],
     [
+      "i\u00f3",
+      "ir"
+    ],
+    [
       "y\u00f3",
-      "ir"
+      "er"
     ],
     [
-      "dujo",
-      "ducir"
+      "i\u00f3",
+      "er"
     ],
     [
-      "trajo",
-      "traer"
-    ],
-    [
-      "izo",
-      "acer"
-    ],
-    [
-      "uvo",
+      "\u00f3",
       "ar"
-    ],
-    [
-      "upo",
-      "aber"
-    ],
-    [
-      "fue",
-      "ser"
-    ],
-    [
-      "fue",
-      "ir"
-    ],
-    [
-      "hubo",
-      "haber"
-    ],
-    [
-      "tuvo",
-      "tener"
-    ],
-    [
-      "puso",
-      "poner"
-    ],
-    [
-      "vino",
-      "venir"
-    ],
-    [
-      "dijo",
-      "decir"
-    ],
-    [
-      "pudo",
-      "poder"
-    ],
-    [
-      "quiso",
-      "querer"
-    ],
-    [
-      "dio",
-      "dar"
-    ],
-    [
-      "vio",
-      "ver"
     ]
   ],
   "verb_fin_ind_past_plur_1":[
     [
-      "amos",
-      "ar"
-    ],
-    [
-      "imos",
-      "er"
-    ],
-    [
-      "imos",
-      "ir"
-    ],
-    [
-      "dujimos",
-      "ducir"
-    ],
-    [
-      "trajimos",
-      "traer"
-    ],
-    [
-      "icimos",
-      "acer"
-    ],
-    [
-      "uvimos",
-      "ar"
-    ],
-    [
-      "upimos",
-      "aber"
-    ],
-    [
-      "fuimos",
-      "ser"
-    ],
-    [
-      "fuimos",
-      "ir"
-    ],
-    [
-      "hubimos",
-      "haber"
-    ],
-    [
-      "tuvimos",
-      "tener"
-    ],
-    [
-      "pusimos",
-      "poner"
-    ],
-    [
-      "vinimos",
-      "venir"
-    ],
-    [
-      "dijimos",
-      "decir"
+      "dimos",
+      "dar"
     ],
     [
       "quisimos",
       "querer"
     ],
     [
-      "dimos",
-      "dar"
+      "dijimos",
+      "decir"
+    ],
+    [
+      "vinimos",
+      "venir"
+    ],
+    [
+      "pusimos",
+      "poner"
+    ],
+    [
+      "tuvimos",
+      "tener"
+    ],
+    [
+      "hubimos",
+      "haber"
+    ],
+    [
+      "fuimos",
+      "ir"
+    ],
+    [
+      "fuimos",
+      "ser"
+    ],
+    [
+      "upimos",
+      "aber"
+    ],
+    [
+      "uvimos",
+      "ar"
+    ],
+    [
+      "icimos",
+      "acer"
+    ],
+    [
+      "trajimos",
+      "traer"
+    ],
+    [
+      "dujimos",
+      "ducir"
+    ],
+    [
+      "imos",
+      "ir"
+    ],
+    [
+      "imos",
+      "er"
+    ],
+    [
+      "amos",
+      "ar"
     ]
   ],
   "verb_fin_ind_past_plur_2":[
     [
-      "asteis",
-      "ar"
-    ],
-    [
-      "isteis",
-      "er"
-    ],
-    [
-      "isteis",
-      "ir"
-    ],
-    [
-      "dujisteis",
-      "ducir"
-    ],
-    [
-      "trajisteis",
-      "traer"
-    ],
-    [
-      "icisteis",
-      "acer"
-    ],
-    [
-      "uvisteis",
-      "ar"
-    ],
-    [
-      "upisteis",
-      "aber"
-    ],
-    [
-      "fuisteis",
-      "ser"
-    ],
-    [
-      "fuisteis",
-      "ir"
-    ],
-    [
-      "hubisteis",
-      "haber"
-    ],
-    [
-      "tuviste",
-      "tener"
-    ],
-    [
-      "pusiste",
-      "poner"
-    ],
-    [
-      "viniste",
-      "venir"
-    ],
-    [
-      "dijisteis",
-      "decir"
+      "disteis",
+      "dar"
     ],
     [
       "quisisteis",
       "querer"
     ],
     [
-      "disteis",
-      "dar"
+      "dijisteis",
+      "decir"
+    ],
+    [
+      "viniste",
+      "venir"
+    ],
+    [
+      "pusiste",
+      "poner"
+    ],
+    [
+      "tuviste",
+      "tener"
+    ],
+    [
+      "hubisteis",
+      "haber"
+    ],
+    [
+      "fuisteis",
+      "ir"
+    ],
+    [
+      "fuisteis",
+      "ser"
+    ],
+    [
+      "upisteis",
+      "aber"
+    ],
+    [
+      "uvisteis",
+      "ar"
+    ],
+    [
+      "icisteis",
+      "acer"
+    ],
+    [
+      "trajisteis",
+      "traer"
+    ],
+    [
+      "dujisteis",
+      "ducir"
+    ],
+    [
+      "isteis",
+      "ir"
+    ],
+    [
+      "isteis",
+      "er"
+    ],
+    [
+      "asteis",
+      "ar"
     ]
   ],
   "verb_fin_ind_past_plur_3":[
     [
-      "aron",
-      "ar"
-    ],
-    [
-      "ieron",
-      "er"
-    ],
-    [
-      "yeron",
-      "er"
-    ],
-    [
-      "ieron",
-      "ir"
-    ],
-    [
-      "ieron",
-      "e\u00edr"
-    ],
-    [
-      "yeron",
-      "ir"
-    ],
-    [
-      "dujeron",
-      "ducir"
-    ],
-    [
-      "trajeron",
-      "traer"
-    ],
-    [
-      "icieron",
-      "acer"
-    ],
-    [
-      "uvieron",
-      "ar"
-    ],
-    [
-      "upieron",
-      "aber"
-    ],
-    [
-      "fueron",
-      "ser"
-    ],
-    [
-      "fueron",
-      "ir"
-    ],
-    [
-      "hubieron",
-      "haber"
-    ],
-    [
-      "tuvieron",
-      "tener"
-    ],
-    [
-      "pusieron",
-      "poner"
-    ],
-    [
-      "vinieron",
-      "venir"
-    ],
-    [
-      "dijeron",
-      "decir"
+      "dieron",
+      "dar"
     ],
     [
       "quisieron",
       "querer"
     ],
     [
-      "dieron",
-      "dar"
+      "dijeron",
+      "decir"
+    ],
+    [
+      "vinieron",
+      "venir"
+    ],
+    [
+      "pusieron",
+      "poner"
+    ],
+    [
+      "tuvieron",
+      "tener"
+    ],
+    [
+      "hubieron",
+      "haber"
+    ],
+    [
+      "fueron",
+      "ser"
+    ],
+    [
+      "fueron",
+      "ir"
+    ],
+    [
+      "upieron",
+      "aber"
+    ],
+    [
+      "uvieron",
+      "ar"
+    ],
+    [
+      "icieron",
+      "acer"
+    ],
+    [
+      "trajeron",
+      "traer"
+    ],
+    [
+      "dujeron",
+      "ducir"
+    ],
+    [
+      "yeron",
+      "ir"
+    ],
+    [
+      "ieron",
+      "e\u00edr"
+    ],
+    [
+      "ieron",
+      "ir"
+    ],
+    [
+      "yeron",
+      "er"
+    ],
+    [
+      "ieron",
+      "er"
+    ],
+    [
+      "aron",
+      "ar"
     ]
   ],
   "verb_fin_ind_fut_sing_1":[
     [
-      "\u00e9",
-      ""
-    ],
-    [
-      "r\u00e9",
-      "er"
-    ],
-    [
-      "dr\u00e9",
-      "er"
-    ],
-    [
-      "dr\u00e9",
-      "ir"
+      "dir\u00e9",
+      "decir"
     ],
     [
       "ar\u00e9",
       "acer"
     ],
     [
-      "dir\u00e9",
-      "decir"
+      "dr\u00e9",
+      "ir"
+    ],
+    [
+      "dr\u00e9",
+      "er"
+    ],
+    [
+      "r\u00e9",
+      "er"
+    ],
+    [
+      "\u00e9",
+      ""
     ]
   ],
   "verb_fin_ind_fut_sing_2":[
     [
-      "\u00e1s",
-      ""
+      "dir\u00e1",
+      "decir"
     ],
     [
-      "r\u00e1s",
-      "er"
+      "ar\u00e1",
+      "acer"
     ],
     [
-      "dr\u00e1s",
-      "er"
-    ],
-    [
-      "dr\u00e1s",
+      "dr\u00e1",
       "ir"
     ],
     [
-      "ar\u00e1s",
-      "acer"
+      "dr\u00e1",
+      "er"
+    ],
+    [
+      "r\u00e1",
+      "er"
+    ],
+    [
+      "\u00e1",
+      ""
     ],
     [
       "dir\u00e1s",
       "decir"
     ],
     [
-      "\u00e1",
-      ""
-    ],
-    [
-      "r\u00e1",
-      "er"
-    ],
-    [
-      "dr\u00e1",
-      "er"
-    ],
-    [
-      "dr\u00e1",
-      "ir"
-    ],
-    [
-      "ar\u00e1",
+      "ar\u00e1s",
       "acer"
     ],
     [
-      "dir\u00e1",
-      "decir"
+      "dr\u00e1s",
+      "ir"
+    ],
+    [
+      "dr\u00e1s",
+      "er"
+    ],
+    [
+      "r\u00e1s",
+      "er"
+    ],
+    [
+      "\u00e1s",
+      ""
     ]
   ],
   "verb_fin_ind_fut_sing_3":[
     [
-      "\u00e1",
-      ""
-    ],
-    [
-      "r\u00e1",
-      "er"
-    ],
-    [
-      "dr\u00e1",
-      "er"
-    ],
-    [
-      "dr\u00e1",
-      "ir"
+      "dir\u00e1",
+      "decir"
     ],
     [
       "ar\u00e1",
       "acer"
     ],
     [
-      "dir\u00e1",
-      "decir"
+      "dr\u00e1",
+      "ir"
+    ],
+    [
+      "dr\u00e1",
+      "er"
+    ],
+    [
+      "r\u00e1",
+      "er"
+    ],
+    [
+      "\u00e1",
+      ""
     ]
   ],
   "verb_fin_ind_fut_plur_1":[
     [
-      "emos",
-      ""
-    ],
-    [
-      "remos",
-      "er"
-    ],
-    [
-      "dremos",
-      "er"
-    ],
-    [
-      "dremos",
-      "ir"
+      "diremos",
+      "decir"
     ],
     [
       "aremos",
       "acer"
     ],
     [
-      "diremos",
-      "decir"
+      "dremos",
+      "ir"
+    ],
+    [
+      "dremos",
+      "er"
+    ],
+    [
+      "remos",
+      "er"
+    ],
+    [
+      "emos",
+      ""
     ]
   ],
   "verb_fin_ind_fut_plur_2":[
     [
-      "e\u00eds",
-      ""
-    ],
-    [
-      "r\u00e9is",
-      "er"
-    ],
-    [
-      "dr\u00e9is",
-      "er"
-    ],
-    [
-      "dr\u00e9is",
-      "ir"
+      "dir\u00e9is",
+      "decir"
     ],
     [
       "ar\u00e9is",
       "acer"
     ],
     [
-      "dir\u00e9is",
-      "decir"
+      "dr\u00e9is",
+      "ir"
+    ],
+    [
+      "dr\u00e9is",
+      "er"
+    ],
+    [
+      "r\u00e9is",
+      "er"
+    ],
+    [
+      "e\u00eds",
+      ""
     ]
   ],
   "verb_fin_ind_fut_plur_3":[
     [
-      "\u00e1n",
-      ""
-    ],
-    [
-      "r\u00e1n",
-      "er"
-    ],
-    [
-      "dr\u00e1n",
-      "er"
-    ],
-    [
-      "dr\u00e1n",
-      "ir"
+      "dir\u00e1n",
+      "decir"
     ],
     [
       "ar\u00e1n",
       "acer"
     ],
     [
-      "dir\u00e1n",
-      "decir"
+      "dr\u00e1n",
+      "ir"
+    ],
+    [
+      "dr\u00e1n",
+      "er"
+    ],
+    [
+      "r\u00e1n",
+      "er"
+    ],
+    [
+      "\u00e1n",
+      ""
     ]
   ],
   "verb_fin_sub_pres_sing_1":[
     [
-      "e",
-      "ar"
-    ],
-    [
-      "\u00e9",
-      "ar"
-    ],
-    [
-      "a",
-      "er"
-    ],
-    [
-      "a",
-      "r"
-    ],
-    [
-      "a",
-      "ir"
-    ],
-    [
-      "zca",
-      "cer"
-    ],
-    [
-      "za",
-      "cer"
-    ],
-    [
-      "\u00eda",
-      "e\u00edr"
-    ],
-    [
-      "ya",
-      "ir"
-    ],
-    [
-      "luzca",
-      "lucir"
-    ],
-    [
-      "duzca",
-      "ducir"
-    ],
-    [
-      "ga",
-      "er"
-    ],
-    [
-      "ga",
-      "ir"
-    ],
-    [
-      "ga",
-      "guir"
-    ],
-    [
-      "ja",
-      "ger"
-    ],
-    [
-      "ja",
-      "gir"
-    ],
-    [
-      "que",
-      "car"
-    ],
-    [
-      "gue",
-      "gar"
-    ],
-    [
-      "ce",
-      "zar"
-    ],
-    [
-      "caiga",
-      "caer"
-    ],
-    [
-      "traiga",
-      "traer"
-    ],
-    [
-      "aga",
-      "acer"
-    ],
-    [
-      "haya",
-      "haber"
-    ],
-    [
-      "vaya",
-      "ir"
-    ],
-    [
-      "diga",
-      "decir"
-    ],
-    [
-      "quepa",
-      "caber"
-    ],
-    [
-      "sepa",
-      "saber"
+      "oiga",
+      "o\u00edr"
     ],
     [
       "huela",
       "oler"
     ],
     [
-      "oiga",
-      "o\u00edr"
+      "sepa",
+      "saber"
+    ],
+    [
+      "quepa",
+      "caber"
+    ],
+    [
+      "diga",
+      "decir"
+    ],
+    [
+      "vaya",
+      "ir"
+    ],
+    [
+      "haya",
+      "haber"
+    ],
+    [
+      "aga",
+      "acer"
+    ],
+    [
+      "traiga",
+      "traer"
+    ],
+    [
+      "caiga",
+      "caer"
+    ],
+    [
+      "ce",
+      "zar"
+    ],
+    [
+      "gue",
+      "gar"
+    ],
+    [
+      "que",
+      "car"
+    ],
+    [
+      "ja",
+      "gir"
+    ],
+    [
+      "ja",
+      "ger"
+    ],
+    [
+      "ga",
+      "guir"
+    ],
+    [
+      "ga",
+      "ir"
+    ],
+    [
+      "ga",
+      "er"
+    ],
+    [
+      "duzca",
+      "ducir"
+    ],
+    [
+      "luzca",
+      "lucir"
+    ],
+    [
+      "ya",
+      "ir"
+    ],
+    [
+      "\u00eda",
+      "e\u00edr"
+    ],
+    [
+      "za",
+      "cer"
+    ],
+    [
+      "zca",
+      "cer"
+    ],
+    [
+      "a",
+      "ir"
+    ],
+    [
+      "a",
+      "r"
+    ],
+    [
+      "a",
+      "er"
+    ],
+    [
+      "\u00e9",
+      "ar"
+    ],
+    [
+      "e",
+      "ar"
     ]
   ],
   "verb_fin_sub_pres_sing_2":[
     [
-      "es",
-      "ar"
+      "oiga",
+      "o\u00edr"
     ],
     [
-      "\u00e9s",
-      "ar"
+      "huela",
+      "oler"
     ],
     [
-      "as",
-      "er"
-    ],
-    [
-      "as",
-      "r"
-    ],
-    [
-      "as",
-      "ir"
-    ],
-    [
-      "zcas",
-      "cer"
-    ],
-    [
-      "zas",
-      "cer"
-    ],
-    [
-      "\u00edas",
-      "e\u00edr"
-    ],
-    [
-      "yas",
-      "ir"
-    ],
-    [
-      "luzcas",
-      "lucir"
-    ],
-    [
-      "duzcas",
-      "ducir"
-    ],
-    [
-      "gas",
-      "er"
-    ],
-    [
-      "gas",
-      "ir"
-    ],
-    [
-      "gas",
-      "guir"
-    ],
-    [
-      "jas",
-      "ger"
-    ],
-    [
-      "jas",
-      "gir"
-    ],
-    [
-      "ques",
-      "car"
-    ],
-    [
-      "gues",
-      "gar"
-    ],
-    [
-      "ces",
-      "zar"
-    ],
-    [
-      "caigas",
-      "caer"
-    ],
-    [
-      "traigas",
-      "traer"
-    ],
-    [
-      "agas",
-      "acer"
-    ],
-    [
-      "hayas",
-      "haber"
-    ],
-    [
-      "vayas",
-      "ir"
-    ],
-    [
-      "digas",
-      "decir"
-    ],
-    [
-      "quepas",
-      "caber"
-    ],
-    [
-      "sepas",
+      "sepa",
       "saber"
     ],
     [
-      "huelas",
-      "oler"
+      "quepa",
+      "caber"
+    ],
+    [
+      "diga",
+      "decir"
+    ],
+    [
+      "vaya",
+      "ir"
+    ],
+    [
+      "haya",
+      "haber"
+    ],
+    [
+      "aga",
+      "acer"
+    ],
+    [
+      "traiga",
+      "traer"
+    ],
+    [
+      "caiga",
+      "caer"
+    ],
+    [
+      "ce",
+      "zar"
+    ],
+    [
+      "gue",
+      "gar"
+    ],
+    [
+      "que",
+      "car"
+    ],
+    [
+      "ja",
+      "gir"
+    ],
+    [
+      "ja",
+      "ger"
+    ],
+    [
+      "ga",
+      "guir"
+    ],
+    [
+      "ga",
+      "ir"
+    ],
+    [
+      "ga",
+      "er"
+    ],
+    [
+      "duzca",
+      "ducir"
+    ],
+    [
+      "luzca",
+      "lucir"
+    ],
+    [
+      "ya",
+      "ir"
+    ],
+    [
+      "\u00eda",
+      "e\u00edr"
+    ],
+    [
+      "za",
+      "cer"
+    ],
+    [
+      "zca",
+      "cer"
+    ],
+    [
+      "a",
+      "ir"
+    ],
+    [
+      "a",
+      "r"
+    ],
+    [
+      "a",
+      "er"
+    ],
+    [
+      "\u00e9",
+      "ar"
+    ],
+    [
+      "e",
+      "ar"
     ],
     [
       "oigas",
       "o\u00edr"
     ],
     [
-      "e",
-      "ar"
-    ],
-    [
-      "\u00e9",
-      "ar"
-    ],
-    [
-      "a",
-      "er"
-    ],
-    [
-      "a",
-      "r"
-    ],
-    [
-      "a",
-      "ir"
-    ],
-    [
-      "zca",
-      "cer"
-    ],
-    [
-      "za",
-      "cer"
-    ],
-    [
-      "\u00eda",
-      "e\u00edr"
-    ],
-    [
-      "ya",
-      "ir"
-    ],
-    [
-      "luzca",
-      "lucir"
-    ],
-    [
-      "duzca",
-      "ducir"
-    ],
-    [
-      "ga",
-      "er"
-    ],
-    [
-      "ga",
-      "ir"
-    ],
-    [
-      "ga",
-      "guir"
-    ],
-    [
-      "ja",
-      "ger"
-    ],
-    [
-      "ja",
-      "gir"
-    ],
-    [
-      "que",
-      "car"
-    ],
-    [
-      "gue",
-      "gar"
-    ],
-    [
-      "ce",
-      "zar"
-    ],
-    [
-      "caiga",
-      "caer"
-    ],
-    [
-      "traiga",
-      "traer"
-    ],
-    [
-      "aga",
-      "acer"
-    ],
-    [
-      "haya",
-      "haber"
-    ],
-    [
-      "vaya",
-      "ir"
-    ],
-    [
-      "diga",
-      "decir"
-    ],
-    [
-      "quepa",
-      "caber"
-    ],
-    [
-      "sepa",
-      "saber"
-    ],
-    [
-      "huela",
+      "huelas",
       "oler"
     ],
     [
-      "oiga",
-      "o\u00edr"
+      "sepas",
+      "saber"
+    ],
+    [
+      "quepas",
+      "caber"
+    ],
+    [
+      "digas",
+      "decir"
+    ],
+    [
+      "vayas",
+      "ir"
+    ],
+    [
+      "hayas",
+      "haber"
+    ],
+    [
+      "agas",
+      "acer"
+    ],
+    [
+      "traigas",
+      "traer"
+    ],
+    [
+      "caigas",
+      "caer"
+    ],
+    [
+      "ces",
+      "zar"
+    ],
+    [
+      "gues",
+      "gar"
+    ],
+    [
+      "ques",
+      "car"
+    ],
+    [
+      "jas",
+      "gir"
+    ],
+    [
+      "jas",
+      "ger"
+    ],
+    [
+      "gas",
+      "guir"
+    ],
+    [
+      "gas",
+      "ir"
+    ],
+    [
+      "gas",
+      "er"
+    ],
+    [
+      "duzcas",
+      "ducir"
+    ],
+    [
+      "luzcas",
+      "lucir"
+    ],
+    [
+      "yas",
+      "ir"
+    ],
+    [
+      "\u00edas",
+      "e\u00edr"
+    ],
+    [
+      "zas",
+      "cer"
+    ],
+    [
+      "zcas",
+      "cer"
+    ],
+    [
+      "as",
+      "ir"
+    ],
+    [
+      "as",
+      "r"
+    ],
+    [
+      "as",
+      "er"
+    ],
+    [
+      "\u00e9s",
+      "ar"
+    ],
+    [
+      "es",
+      "ar"
     ]
   ],
   "verb_fin_sub_pres_sing_3":[
     [
-      "e",
-      "ar"
-    ],
-    [
-      "\u00e9",
-      "ar"
-    ],
-    [
-      "a",
-      "er"
-    ],
-    [
-      "a",
-      "r"
-    ],
-    [
-      "a",
-      "ir"
-    ],
-    [
-      "zca",
-      "cer"
-    ],
-    [
-      "za",
-      "cer"
-    ],
-    [
-      "\u00eda",
-      "e\u00edr"
-    ],
-    [
-      "ya",
-      "ir"
-    ],
-    [
-      "luzca",
-      "lucir"
-    ],
-    [
-      "duzca",
-      "ducir"
-    ],
-    [
-      "ga",
-      "er"
-    ],
-    [
-      "ga",
-      "ir"
-    ],
-    [
-      "ga",
-      "guir"
-    ],
-    [
-      "ja",
-      "ger"
-    ],
-    [
-      "ja",
-      "gir"
-    ],
-    [
-      "que",
-      "car"
-    ],
-    [
-      "gue",
-      "gar"
-    ],
-    [
-      "ce",
-      "zar"
-    ],
-    [
-      "caiga",
-      "caer"
-    ],
-    [
-      "traiga",
-      "traer"
-    ],
-    [
-      "aga",
-      "acer"
-    ],
-    [
-      "haya",
-      "haber"
-    ],
-    [
-      "vaya",
-      "ir"
-    ],
-    [
-      "diga",
-      "decir"
-    ],
-    [
-      "quepa",
-      "caber"
-    ],
-    [
-      "sepa",
-      "saber"
+      "oiga",
+      "o\u00edr"
     ],
     [
       "huela",
       "oler"
     ],
     [
-      "oiga",
-      "o\u00edr"
+      "sepa",
+      "saber"
+    ],
+    [
+      "quepa",
+      "caber"
+    ],
+    [
+      "diga",
+      "decir"
+    ],
+    [
+      "vaya",
+      "ir"
+    ],
+    [
+      "haya",
+      "haber"
+    ],
+    [
+      "aga",
+      "acer"
+    ],
+    [
+      "traiga",
+      "traer"
+    ],
+    [
+      "caiga",
+      "caer"
+    ],
+    [
+      "ce",
+      "zar"
+    ],
+    [
+      "gue",
+      "gar"
+    ],
+    [
+      "que",
+      "car"
+    ],
+    [
+      "ja",
+      "gir"
+    ],
+    [
+      "ja",
+      "ger"
+    ],
+    [
+      "ga",
+      "guir"
+    ],
+    [
+      "ga",
+      "ir"
+    ],
+    [
+      "ga",
+      "er"
+    ],
+    [
+      "duzca",
+      "ducir"
+    ],
+    [
+      "luzca",
+      "lucir"
+    ],
+    [
+      "ya",
+      "ir"
+    ],
+    [
+      "\u00eda",
+      "e\u00edr"
+    ],
+    [
+      "za",
+      "cer"
+    ],
+    [
+      "zca",
+      "cer"
+    ],
+    [
+      "a",
+      "ir"
+    ],
+    [
+      "a",
+      "r"
+    ],
+    [
+      "a",
+      "er"
+    ],
+    [
+      "\u00e9",
+      "ar"
+    ],
+    [
+      "e",
+      "ar"
     ]
   ],
   "verb_fin_sub_pres_plur_1":[
     [
-      "emos",
-      "ar"
-    ],
-    [
-      "amos",
-      "er"
-    ],
-    [
-      "amos",
-      "r"
-    ],
-    [
-      "amos",
-      "ir"
-    ],
-    [
-      "zcamos",
-      "cer"
-    ],
-    [
-      "zamos",
-      "cer"
-    ],
-    [
-      "iamos",
-      "e\u00edr"
-    ],
-    [
-      "yamos",
-      "ir"
-    ],
-    [
-      "luzcamos",
-      "lucir"
-    ],
-    [
-      "duzcamos",
-      "ducir"
-    ],
-    [
-      "gamos",
-      "er"
-    ],
-    [
-      "gamos",
-      "ir"
-    ],
-    [
-      "gamos",
-      "guir"
-    ],
-    [
-      "jamos",
-      "ger"
-    ],
-    [
-      "jamos",
-      "gir"
-    ],
-    [
-      "quemos",
-      "car"
-    ],
-    [
-      "guemos",
-      "gar"
-    ],
-    [
-      "cemos",
-      "zar"
-    ],
-    [
-      "caigamos",
-      "caer"
-    ],
-    [
-      "traigamos",
-      "traer"
-    ],
-    [
-      "agamos",
-      "acer"
-    ],
-    [
-      "hayamos",
-      "haber"
-    ],
-    [
-      "vayamos",
-      "ir"
-    ],
-    [
-      "digamos",
-      "decir"
-    ],
-    [
-      "quepamos",
-      "caber"
+      "oigamos",
+      "o\u00edr"
     ],
     [
       "sepamos",
       "saber"
     ],
     [
-      "oigamos",
-      "o\u00edr"
+      "quepamos",
+      "caber"
+    ],
+    [
+      "digamos",
+      "decir"
+    ],
+    [
+      "vayamos",
+      "ir"
+    ],
+    [
+      "hayamos",
+      "haber"
+    ],
+    [
+      "agamos",
+      "acer"
+    ],
+    [
+      "traigamos",
+      "traer"
+    ],
+    [
+      "caigamos",
+      "caer"
+    ],
+    [
+      "cemos",
+      "zar"
+    ],
+    [
+      "guemos",
+      "gar"
+    ],
+    [
+      "quemos",
+      "car"
+    ],
+    [
+      "jamos",
+      "gir"
+    ],
+    [
+      "jamos",
+      "ger"
+    ],
+    [
+      "gamos",
+      "guir"
+    ],
+    [
+      "gamos",
+      "ir"
+    ],
+    [
+      "gamos",
+      "er"
+    ],
+    [
+      "duzcamos",
+      "ducir"
+    ],
+    [
+      "luzcamos",
+      "lucir"
+    ],
+    [
+      "yamos",
+      "ir"
+    ],
+    [
+      "iamos",
+      "e\u00edr"
+    ],
+    [
+      "zamos",
+      "cer"
+    ],
+    [
+      "zcamos",
+      "cer"
+    ],
+    [
+      "amos",
+      "ir"
+    ],
+    [
+      "amos",
+      "r"
+    ],
+    [
+      "amos",
+      "er"
+    ],
+    [
+      "emos",
+      "ar"
     ]
   ],
   "verb_fin_sub_pres_plur_2":[
     [
-      "\u00e9is",
-      "ar"
-    ],
-    [
-      "\u00e1is",
-      "er"
-    ],
-    [
-      "\u00e1is",
-      "r"
-    ],
-    [
-      "\u00e1is",
-      "ir"
-    ],
-    [
-      "zc\u00e1is",
-      "cer"
-    ],
-    [
-      "z\u00e1is",
-      "cer"
-    ],
-    [
-      "i\u00e1is",
-      "eir"
-    ],
-    [
-      "y\u00e1is",
-      "ir"
-    ],
-    [
-      "luzc\u00e1is",
-      "lucir"
-    ],
-    [
-      "duzc\u00e1is",
-      "ducir"
-    ],
-    [
-      "g\u00e1is",
-      "er"
-    ],
-    [
-      "g\u00e1is",
-      "ir"
-    ],
-    [
-      "g\u00e1is",
-      "guir"
-    ],
-    [
-      "j\u00e1is",
-      "ger"
-    ],
-    [
-      "j\u00e1is",
-      "gir"
-    ],
-    [
-      "qu\u00e9is",
-      "car"
-    ],
-    [
-      "gu\u00e9is",
-      "gar"
-    ],
-    [
-      "c\u00e9is",
-      "zar"
-    ],
-    [
-      "caig\u00e1is",
-      "caer"
-    ],
-    [
-      "traig\u00e1is",
-      "traer"
-    ],
-    [
-      "ag\u00e1is",
-      "acer"
-    ],
-    [
-      "hay\u00e1is",
-      "haber"
-    ],
-    [
-      "vay\u00e1is",
-      "ir"
-    ],
-    [
-      "dig\u00e1is",
-      "decir"
-    ],
-    [
-      "quep\u00e1is",
-      "caber"
+      "oig\u00e1is",
+      "o\u00edr"
     ],
     [
       "sep\u00e1is",
       "saber"
     ],
     [
-      "oig\u00e1is",
-      "o\u00edr"
+      "quep\u00e1is",
+      "caber"
+    ],
+    [
+      "dig\u00e1is",
+      "decir"
+    ],
+    [
+      "vay\u00e1is",
+      "ir"
+    ],
+    [
+      "hay\u00e1is",
+      "haber"
+    ],
+    [
+      "ag\u00e1is",
+      "acer"
+    ],
+    [
+      "traig\u00e1is",
+      "traer"
+    ],
+    [
+      "caig\u00e1is",
+      "caer"
+    ],
+    [
+      "c\u00e9is",
+      "zar"
+    ],
+    [
+      "gu\u00e9is",
+      "gar"
+    ],
+    [
+      "qu\u00e9is",
+      "car"
+    ],
+    [
+      "j\u00e1is",
+      "gir"
+    ],
+    [
+      "j\u00e1is",
+      "ger"
+    ],
+    [
+      "g\u00e1is",
+      "guir"
+    ],
+    [
+      "g\u00e1is",
+      "ir"
+    ],
+    [
+      "g\u00e1is",
+      "er"
+    ],
+    [
+      "duzc\u00e1is",
+      "ducir"
+    ],
+    [
+      "luzc\u00e1is",
+      "lucir"
+    ],
+    [
+      "y\u00e1is",
+      "ir"
+    ],
+    [
+      "i\u00e1is",
+      "eir"
+    ],
+    [
+      "z\u00e1is",
+      "cer"
+    ],
+    [
+      "zc\u00e1is",
+      "cer"
+    ],
+    [
+      "\u00e1is",
+      "ir"
+    ],
+    [
+      "\u00e1is",
+      "r"
+    ],
+    [
+      "\u00e1is",
+      "er"
+    ],
+    [
+      "\u00e9is",
+      "ar"
     ]
   ],
   "verb_fin_sub_pres_plur_3":[
     [
-      "en",
-      "ar"
+      "oigan",
+      "o\u00edr"
     ],
     [
-      "\u00e9n",
-      "ar"
+      "sepan",
+      "saber"
+    ],
+    [
+      "huelan",
+      "oler"
+    ],
+    [
+      "quepan",
+      "caber"
+    ],
+    [
+      "digan",
+      "decir"
+    ],
+    [
+      "vayan",
+      "ir"
+    ],
+    [
+      "hayan",
+      "haber"
+    ],
+    [
+      "agan",
+      "acer"
+    ],
+    [
+      "traigan",
+      "traer"
+    ],
+    [
+      "caigan",
+      "caer"
+    ],
+    [
+      "cen",
+      "zar"
+    ],
+    [
+      "guen",
+      "gar"
+    ],
+    [
+      "quen",
+      "car"
+    ],
+    [
+      "jan",
+      "gir"
+    ],
+    [
+      "jan",
+      "ger"
+    ],
+    [
+      "gan",
+      "guir"
+    ],
+    [
+      "gan",
+      "ir"
+    ],
+    [
+      "gan",
+      "er"
+    ],
+    [
+      "duzcan",
+      "ducir"
+    ],
+    [
+      "luzcan",
+      "lucir"
+    ],
+    [
+      "yan",
+      "ir"
+    ],
+    [
+      "\u00edan",
+      "e\u00edr"
+    ],
+    [
+      "zan",
+      "cer"
+    ],
+    [
+      "zcan",
+      "cer"
     ],
     [
       "an",
-      "er"
+      "ir"
     ],
     [
       "an",
@@ -1952,895 +2040,739 @@
     ],
     [
       "an",
-      "ir"
-    ],
-    [
-      "zcan",
-      "cer"
-    ],
-    [
-      "zan",
-      "cer"
-    ],
-    [
-      "\u00edan",
-      "e\u00edr"
-    ],
-    [
-      "yan",
-      "ir"
-    ],
-    [
-      "luzcan",
-      "lucir"
-    ],
-    [
-      "duzcan",
-      "ducir"
-    ],
-    [
-      "gan",
       "er"
     ],
     [
-      "gan",
-      "ir"
+      "\u00e9n",
+      "ar"
     ],
     [
-      "gan",
-      "guir"
-    ],
-    [
-      "jan",
-      "ger"
-    ],
-    [
-      "jan",
-      "gir"
-    ],
-    [
-      "quen",
-      "car"
-    ],
-    [
-      "guen",
-      "gar"
-    ],
-    [
-      "cen",
-      "zar"
-    ],
-    [
-      "caigan",
-      "caer"
-    ],
-    [
-      "traigan",
-      "traer"
-    ],
-    [
-      "agan",
-      "acer"
-    ],
-    [
-      "hayan",
-      "haber"
-    ],
-    [
-      "vayan",
-      "ir"
-    ],
-    [
-      "digan",
-      "decir"
-    ],
-    [
-      "quepan",
-      "caber"
-    ],
-    [
-      "huelan",
-      "oler"
-    ],
-    [
-      "sepan",
-      "saber"
-    ],
-    [
-      "oigan",
-      "o\u00edr"
+      "en",
+      "ar"
     ]
   ],
   "verb_fin_sub_imp_sing_1":[
     [
-      "ara",
-      "ar"
-    ],
-    [
-      "ase",
-      "ar"
-    ],
-    [
-      "iera",
-      "er"
-    ],
-    [
-      "iese",
-      "er"
-    ],
-    [
-      "yera",
-      "er"
-    ],
-    [
-      "yese",
-      "er"
-    ],
-    [
-      "iera",
-      "ir"
-    ],
-    [
-      "iese",
-      "ir"
-    ],
-    [
-      "iera",
-      "e\u00edr"
-    ],
-    [
-      "iese",
-      "e\u00edr"
-    ],
-    [
-      "yera",
-      "ir"
-    ],
-    [
-      "yese",
-      "ir"
-    ],
-    [
-      "dujera",
-      "ducir"
-    ],
-    [
-      "dujese",
-      "ducir"
-    ],
-    [
-      "trajera",
-      "traer"
-    ],
-    [
-      "trajese",
-      "traer"
-    ],
-    [
-      "iciera",
-      "acer"
-    ],
-    [
-      "iciese",
-      "acer"
-    ],
-    [
-      "uviera",
-      "ar"
-    ],
-    [
-      "uviese",
-      "ar"
-    ],
-    [
-      "upiera",
-      "aber"
-    ],
-    [
-      "upiese",
-      "aber"
-    ],
-    [
-      "pusiera",
-      "poner"
-    ],
-    [
-      "pusiese",
-      "poner"
-    ],
-    [
-      "tuviera",
-      "tener"
-    ],
-    [
-      "tuviese",
-      "tener"
-    ],
-    [
-      "viniera",
-      "venir"
-    ],
-    [
-      "viniese",
-      "venir"
-    ],
-    [
-      "fuera",
-      "ser"
-    ],
-    [
-      "fuese",
-      "ser"
-    ],
-    [
-      "fuera",
-      "ir"
-    ],
-    [
-      "fuese",
-      "ir"
-    ],
-    [
-      "hubiera",
-      "haber"
-    ],
-    [
-      "hubiese",
-      "haber"
-    ],
-    [
-      "dijera",
-      "decir"
-    ],
-    [
-      "dijese",
-      "decir"
-    ],
-    [
-      "quisiera",
-      "querer"
-    ],
-    [
-      "quisiese",
-      "querer"
-    ],
-    [
-      "diera",
-      "dar"
-    ],
-    [
-      "diese",
-      "dar"
+      "oyese",
+      "o\u00edr"
     ],
     [
       "oyera",
       "o\u00edr"
     ],
     [
-      "oyese",
-      "o\u00edr"
+      "diese",
+      "dar"
+    ],
+    [
+      "diera",
+      "dar"
+    ],
+    [
+      "quisiese",
+      "querer"
+    ],
+    [
+      "quisiera",
+      "querer"
+    ],
+    [
+      "dijese",
+      "decir"
+    ],
+    [
+      "dijera",
+      "decir"
+    ],
+    [
+      "hubiese",
+      "haber"
+    ],
+    [
+      "hubiera",
+      "haber"
+    ],
+    [
+      "fuese",
+      "ser"
+    ],
+    [
+      "fuera",
+      "ser"
+    ],
+    [
+      "fuese",
+      "ir"
+    ],
+    [
+      "fuera",
+      "ir"
+    ],
+    [
+      "viniese",
+      "venir"
+    ],
+    [
+      "viniera",
+      "venir"
+    ],
+    [
+      "tuviese",
+      "tener"
+    ],
+    [
+      "tuviera",
+      "tener"
+    ],
+    [
+      "pusiese",
+      "poner"
+    ],
+    [
+      "pusiera",
+      "poner"
+    ],
+    [
+      "upiese",
+      "aber"
+    ],
+    [
+      "upiera",
+      "aber"
+    ],
+    [
+      "uviese",
+      "ar"
+    ],
+    [
+      "uviera",
+      "ar"
+    ],
+    [
+      "iciese",
+      "acer"
+    ],
+    [
+      "iciera",
+      "acer"
+    ],
+    [
+      "trajese",
+      "traer"
+    ],
+    [
+      "trajera",
+      "traer"
+    ],
+    [
+      "dujese",
+      "ducir"
+    ],
+    [
+      "dujera",
+      "ducir"
+    ],
+    [
+      "yese",
+      "ir"
+    ],
+    [
+      "yera",
+      "ir"
+    ],
+    [
+      "iese",
+      "e\u00edr"
+    ],
+    [
+      "iera",
+      "e\u00edr"
+    ],
+    [
+      "iese",
+      "ir"
+    ],
+    [
+      "iera",
+      "ir"
+    ],
+    [
+      "yese",
+      "er"
+    ],
+    [
+      "yera",
+      "er"
+    ],
+    [
+      "iese",
+      "er"
+    ],
+    [
+      "iera",
+      "er"
+    ],
+    [
+      "ase",
+      "ar"
+    ],
+    [
+      "ara",
+      "ar"
     ]
   ],
   "verb_fin_sub_imp_sing_2":[
     [
-      "aras",
-      "ar"
-    ],
-    [
-      "ases",
-      "ar"
-    ],
-    [
-      "ieras",
-      "er"
-    ],
-    [
-      "ieses",
-      "er"
-    ],
-    [
-      "yeras",
-      "er"
-    ],
-    [
-      "yeses",
-      "er"
-    ],
-    [
-      "ieras",
-      "ir"
-    ],
-    [
-      "ieses",
-      "ir"
-    ],
-    [
-      "ieras",
-      "e\u00edr"
-    ],
-    [
-      "ieses",
-      "e\u00edr"
-    ],
-    [
-      "yeras",
-      "ir"
-    ],
-    [
-      "yeses",
-      "ir"
-    ],
-    [
-      "dujeras",
-      "ducir"
-    ],
-    [
-      "dujeses",
-      "ducir"
-    ],
-    [
-      "trajeras",
-      "traer"
-    ],
-    [
-      "trajeses",
-      "traer"
-    ],
-    [
-      "icieras",
-      "acer"
-    ],
-    [
-      "icieses",
-      "acer"
-    ],
-    [
-      "uvieras",
-      "ar"
-    ],
-    [
-      "uvieses",
-      "ar"
-    ],
-    [
-      "upieras",
-      "aber"
-    ],
-    [
-      "upieses",
-      "aber"
-    ],
-    [
-      "pusieras",
-      "poner"
-    ],
-    [
-      "pusieses",
-      "poner"
-    ],
-    [
-      "tuvieras",
-      "tener"
-    ],
-    [
-      "tuvieses",
-      "tener"
-    ],
-    [
-      "vinieras",
-      "venir"
-    ],
-    [
-      "vinieses",
-      "venir"
-    ],
-    [
-      "fueras",
-      "ser"
-    ],
-    [
-      "fueses",
-      "ser"
-    ],
-    [
-      "fueras",
-      "ir"
-    ],
-    [
-      "fueses",
-      "ir"
-    ],
-    [
-      "hubieras",
-      "haber"
-    ],
-    [
-      "hubieses",
-      "haber"
-    ],
-    [
-      "dijeras",
-      "decir"
-    ],
-    [
-      "dijeses",
-      "decir"
-    ],
-    [
-      "quisieras",
-      "querer"
-    ],
-    [
-      "quisieses",
-      "querer"
-    ],
-    [
-      "dieras",
-      "dar"
-    ],
-    [
-      "dieses",
-      "dar"
-    ],
-    [
-      "oyeras",
+      "oyese",
       "o\u00edr"
+    ],
+    [
+      "oyera",
+      "o\u00edr"
+    ],
+    [
+      "diese",
+      "dar"
+    ],
+    [
+      "diera",
+      "dar"
+    ],
+    [
+      "quisiese",
+      "querer"
+    ],
+    [
+      "quisiera",
+      "querer"
+    ],
+    [
+      "dijese",
+      "decir"
+    ],
+    [
+      "dijera",
+      "decir"
+    ],
+    [
+      "hubiese",
+      "haber"
+    ],
+    [
+      "hubiera",
+      "haber"
+    ],
+    [
+      "fuese",
+      "ser"
+    ],
+    [
+      "fuera",
+      "ser"
+    ],
+    [
+      "fuese",
+      "ir"
+    ],
+    [
+      "fuera",
+      "ir"
+    ],
+    [
+      "viniese",
+      "venir"
+    ],
+    [
+      "viniera",
+      "venir"
+    ],
+    [
+      "tuviese",
+      "tener"
+    ],
+    [
+      "tuviera",
+      "tener"
+    ],
+    [
+      "pusiese",
+      "poner"
+    ],
+    [
+      "pusiera",
+      "poner"
+    ],
+    [
+      "upiese",
+      "aber"
+    ],
+    [
+      "upiera",
+      "aber"
+    ],
+    [
+      "uviese",
+      "ar"
+    ],
+    [
+      "uviera",
+      "ar"
+    ],
+    [
+      "iciese",
+      "acer"
+    ],
+    [
+      "iciera",
+      "acer"
+    ],
+    [
+      "trajese",
+      "traer"
+    ],
+    [
+      "trajera",
+      "traer"
+    ],
+    [
+      "dujese",
+      "ducir"
+    ],
+    [
+      "dujera",
+      "ducir"
+    ],
+    [
+      "yese",
+      "ir"
+    ],
+    [
+      "yera",
+      "ir"
+    ],
+    [
+      "iese",
+      "e\u00edr"
+    ],
+    [
+      "iera",
+      "e\u00edr"
+    ],
+    [
+      "iese",
+      "ir"
+    ],
+    [
+      "iera",
+      "ir"
+    ],
+    [
+      "yese",
+      "er"
+    ],
+    [
+      "yera",
+      "er"
+    ],
+    [
+      "iese",
+      "er"
+    ],
+    [
+      "iera",
+      "er"
+    ],
+    [
+      "ase",
+      "ar"
+    ],
+    [
+      "ara",
+      "ar"
     ],
     [
       "oyeses",
       "o\u00edr"
     ],
     [
-      "ara",
-      "ar"
-    ],
-    [
-      "ase",
-      "ar"
-    ],
-    [
-      "iera",
-      "er"
-    ],
-    [
-      "iese",
-      "er"
-    ],
-    [
-      "yera",
-      "er"
-    ],
-    [
-      "yese",
-      "er"
-    ],
-    [
-      "iera",
-      "ir"
-    ],
-    [
-      "iese",
-      "ir"
-    ],
-    [
-      "iera",
-      "e\u00edr"
-    ],
-    [
-      "iese",
-      "e\u00edr"
-    ],
-    [
-      "yera",
-      "ir"
-    ],
-    [
-      "yese",
-      "ir"
-    ],
-    [
-      "dujera",
-      "ducir"
-    ],
-    [
-      "dujese",
-      "ducir"
-    ],
-    [
-      "trajera",
-      "traer"
-    ],
-    [
-      "trajese",
-      "traer"
-    ],
-    [
-      "iciera",
-      "acer"
-    ],
-    [
-      "iciese",
-      "acer"
-    ],
-    [
-      "uviera",
-      "ar"
-    ],
-    [
-      "uviese",
-      "ar"
-    ],
-    [
-      "upiera",
-      "aber"
-    ],
-    [
-      "upiese",
-      "aber"
-    ],
-    [
-      "pusiera",
-      "poner"
-    ],
-    [
-      "pusiese",
-      "poner"
-    ],
-    [
-      "tuviera",
-      "tener"
-    ],
-    [
-      "tuviese",
-      "tener"
-    ],
-    [
-      "viniera",
-      "venir"
-    ],
-    [
-      "viniese",
-      "venir"
-    ],
-    [
-      "fuera",
-      "ser"
-    ],
-    [
-      "fuese",
-      "ser"
-    ],
-    [
-      "fuera",
-      "ir"
-    ],
-    [
-      "fuese",
-      "ir"
-    ],
-    [
-      "hubiera",
-      "haber"
-    ],
-    [
-      "hubiese",
-      "haber"
-    ],
-    [
-      "dijera",
-      "decir"
-    ],
-    [
-      "dijese",
-      "decir"
-    ],
-    [
-      "quisiera",
-      "querer"
-    ],
-    [
-      "quisiese",
-      "querer"
-    ],
-    [
-      "diera",
-      "dar"
-    ],
-    [
-      "diese",
-      "dar"
-    ],
-    [
-      "oyera",
+      "oyeras",
       "o\u00edr"
     ],
     [
-      "oyese",
-      "o\u00edr"
+      "dieses",
+      "dar"
+    ],
+    [
+      "dieras",
+      "dar"
+    ],
+    [
+      "quisieses",
+      "querer"
+    ],
+    [
+      "quisieras",
+      "querer"
+    ],
+    [
+      "dijeses",
+      "decir"
+    ],
+    [
+      "dijeras",
+      "decir"
+    ],
+    [
+      "hubieses",
+      "haber"
+    ],
+    [
+      "hubieras",
+      "haber"
+    ],
+    [
+      "fueses",
+      "ser"
+    ],
+    [
+      "fueras",
+      "ser"
+    ],
+    [
+      "fueses",
+      "ir"
+    ],
+    [
+      "fueras",
+      "ir"
+    ],
+    [
+      "vinieses",
+      "venir"
+    ],
+    [
+      "vinieras",
+      "venir"
+    ],
+    [
+      "tuvieses",
+      "tener"
+    ],
+    [
+      "tuvieras",
+      "tener"
+    ],
+    [
+      "pusieses",
+      "poner"
+    ],
+    [
+      "pusieras",
+      "poner"
+    ],
+    [
+      "upieses",
+      "aber"
+    ],
+    [
+      "upieras",
+      "aber"
+    ],
+    [
+      "uvieses",
+      "ar"
+    ],
+    [
+      "uvieras",
+      "ar"
+    ],
+    [
+      "icieses",
+      "acer"
+    ],
+    [
+      "icieras",
+      "acer"
+    ],
+    [
+      "trajeses",
+      "traer"
+    ],
+    [
+      "trajeras",
+      "traer"
+    ],
+    [
+      "dujeses",
+      "ducir"
+    ],
+    [
+      "dujeras",
+      "ducir"
+    ],
+    [
+      "yeses",
+      "ir"
+    ],
+    [
+      "yeras",
+      "ir"
+    ],
+    [
+      "ieses",
+      "e\u00edr"
+    ],
+    [
+      "ieras",
+      "e\u00edr"
+    ],
+    [
+      "ieses",
+      "ir"
+    ],
+    [
+      "ieras",
+      "ir"
+    ],
+    [
+      "yeses",
+      "er"
+    ],
+    [
+      "yeras",
+      "er"
+    ],
+    [
+      "ieses",
+      "er"
+    ],
+    [
+      "ieras",
+      "er"
+    ],
+    [
+      "ases",
+      "ar"
+    ],
+    [
+      "aras",
+      "ar"
     ]
   ],
   "verb_fin_sub_imp_sing_3":[
     [
-      "ara",
-      "ar"
-    ],
-    [
-      "ase",
-      "ar"
-    ],
-    [
-      "iera",
-      "er"
-    ],
-    [
-      "iese",
-      "er"
-    ],
-    [
-      "yera",
-      "er"
-    ],
-    [
-      "yese",
-      "er"
-    ],
-    [
-      "iera",
-      "ir"
-    ],
-    [
-      "iese",
-      "ir"
-    ],
-    [
-      "iera",
-      "e\u00edr"
-    ],
-    [
-      "iese",
-      "e\u00edr"
-    ],
-    [
-      "yera",
-      "ir"
-    ],
-    [
-      "yese",
-      "ir"
-    ],
-    [
-      "dujera",
-      "ducir"
-    ],
-    [
-      "dujese",
-      "ducir"
-    ],
-    [
-      "trajera",
-      "traer"
-    ],
-    [
-      "trajese",
-      "traer"
-    ],
-    [
-      "iciera",
-      "acer"
-    ],
-    [
-      "iciese",
-      "acer"
-    ],
-    [
-      "uviera",
-      "ar"
-    ],
-    [
-      "uviese",
-      "ar"
-    ],
-    [
-      "upiera",
-      "aber"
-    ],
-    [
-      "upiese",
-      "aber"
-    ],
-    [
-      "pusiera",
-      "poner"
-    ],
-    [
-      "pusiese",
-      "poner"
-    ],
-    [
-      "tuviera",
-      "tener"
-    ],
-    [
-      "tuviese",
-      "tener"
-    ],
-    [
-      "viniera",
-      "venir"
-    ],
-    [
-      "viniese",
-      "venir"
-    ],
-    [
-      "fuera",
-      "ser"
-    ],
-    [
-      "fuese",
-      "ser"
-    ],
-    [
-      "fuera",
-      "ir"
-    ],
-    [
-      "fuese",
-      "ir"
-    ],
-    [
-      "hubiera",
-      "haber"
-    ],
-    [
-      "hubiese",
-      "haber"
-    ],
-    [
-      "dijera",
-      "decir"
-    ],
-    [
-      "dijese",
-      "decir"
-    ],
-    [
-      "quisiera",
-      "querer"
-    ],
-    [
-      "quisiese",
-      "querer"
-    ],
-    [
-      "diera",
-      "dar"
-    ],
-    [
-      "diese",
-      "dar"
+      "oyese",
+      "o\u00edr"
     ],
     [
       "oyera",
       "o\u00edr"
     ],
     [
-      "oyese",
-      "o\u00edr"
+      "diese",
+      "dar"
+    ],
+    [
+      "diera",
+      "dar"
+    ],
+    [
+      "quisiese",
+      "querer"
+    ],
+    [
+      "quisiera",
+      "querer"
+    ],
+    [
+      "dijese",
+      "decir"
+    ],
+    [
+      "dijera",
+      "decir"
+    ],
+    [
+      "hubiese",
+      "haber"
+    ],
+    [
+      "hubiera",
+      "haber"
+    ],
+    [
+      "fuese",
+      "ser"
+    ],
+    [
+      "fuera",
+      "ser"
+    ],
+    [
+      "fuese",
+      "ir"
+    ],
+    [
+      "fuera",
+      "ir"
+    ],
+    [
+      "viniese",
+      "venir"
+    ],
+    [
+      "viniera",
+      "venir"
+    ],
+    [
+      "tuviese",
+      "tener"
+    ],
+    [
+      "tuviera",
+      "tener"
+    ],
+    [
+      "pusiese",
+      "poner"
+    ],
+    [
+      "pusiera",
+      "poner"
+    ],
+    [
+      "upiese",
+      "aber"
+    ],
+    [
+      "upiera",
+      "aber"
+    ],
+    [
+      "uviese",
+      "ar"
+    ],
+    [
+      "uviera",
+      "ar"
+    ],
+    [
+      "iciese",
+      "acer"
+    ],
+    [
+      "iciera",
+      "acer"
+    ],
+    [
+      "trajese",
+      "traer"
+    ],
+    [
+      "trajera",
+      "traer"
+    ],
+    [
+      "dujese",
+      "ducir"
+    ],
+    [
+      "dujera",
+      "ducir"
+    ],
+    [
+      "yese",
+      "ir"
+    ],
+    [
+      "yera",
+      "ir"
+    ],
+    [
+      "iese",
+      "e\u00edr"
+    ],
+    [
+      "iera",
+      "e\u00edr"
+    ],
+    [
+      "iese",
+      "ir"
+    ],
+    [
+      "iera",
+      "ir"
+    ],
+    [
+      "yese",
+      "er"
+    ],
+    [
+      "yera",
+      "er"
+    ],
+    [
+      "iese",
+      "er"
+    ],
+    [
+      "iera",
+      "er"
+    ],
+    [
+      "ase",
+      "ar"
+    ],
+    [
+      "ara",
+      "ar"
     ]
   ],
   "verb_fin_sub_imp_plur_1":[
     [
-      "\u00e1ramos",
-      "ar"
+      "oy\u00e9semos",
+      "o\u00edr"
     ],
     [
-      "\u00e1semos",
-      "ar"
+      "oy\u00e9ramos",
+      "o\u00edr"
     ],
     [
-      "i\u00e9ramos",
-      "er"
+      "di\u00e9semos",
+      "dar"
     ],
     [
-      "i\u00e9semos",
-      "er"
+      "di\u00e9ramos",
+      "dar"
     ],
     [
-      "y\u00e9ramos",
-      "er"
+      "quisi\u00e9semos",
+      "querer"
     ],
     [
-      "y\u00e9semos",
-      "er"
+      "quisi\u00e9ramos",
+      "querer"
     ],
     [
-      "i\u00e9ramos",
-      "ir"
+      "dij\u00e9semos",
+      "decir"
     ],
     [
-      "i\u00e9semos",
-      "ir"
+      "dij\u00e9ramos",
+      "decir"
     ],
     [
-      "i\u00e9ramos",
-      "e\u00edr"
+      "hubi\u00e9semos",
+      "haber"
     ],
     [
-      "i\u00e9semos",
-      "e\u00edr"
+      "hubi\u00e9ramos",
+      "haber"
     ],
     [
-      "y\u00e9ramos",
-      "ir"
-    ],
-    [
-      "y\u00e9semos",
-      "ir"
-    ],
-    [
-      "duj\u00e9ramos",
-      "ducir"
-    ],
-    [
-      "duj\u00e9semos",
-      "ducir"
-    ],
-    [
-      "traj\u00e9ramos",
-      "traer"
-    ],
-    [
-      "traj\u00e9semos",
-      "traer"
-    ],
-    [
-      "ici\u00e9ramos",
-      "acer"
-    ],
-    [
-      "ici\u00e9semos",
-      "acer"
-    ],
-    [
-      "uvi\u00e9ramos",
-      "ar"
-    ],
-    [
-      "uvi\u00e9semos",
-      "ar"
-    ],
-    [
-      "upi\u00e9ramos",
-      "aber"
-    ],
-    [
-      "upi\u00e9semos",
-      "aber"
-    ],
-    [
-      "pusi\u00e9ramos",
-      "poner"
-    ],
-    [
-      "pusi\u00e9semos",
-      "poner"
-    ],
-    [
-      "tuvi\u00e9ramos",
-      "tener"
-    ],
-    [
-      "tuvi\u00e9semos",
-      "tener"
-    ],
-    [
-      "vini\u00e9ramos",
-      "venir"
-    ],
-    [
-      "vini\u00e9semos",
-      "venir"
+      "fu\u00e9semos",
+      "ser"
     ],
     [
       "fu\u00e9ramos",
@@ -2848,627 +2780,745 @@
     ],
     [
       "fu\u00e9semos",
-      "ser"
+      "ir"
     ],
     [
       "fueramos",
       "ir"
     ],
     [
-      "fu\u00e9semos",
+      "vini\u00e9semos",
+      "venir"
+    ],
+    [
+      "vini\u00e9ramos",
+      "venir"
+    ],
+    [
+      "tuvi\u00e9semos",
+      "tener"
+    ],
+    [
+      "tuvi\u00e9ramos",
+      "tener"
+    ],
+    [
+      "pusi\u00e9semos",
+      "poner"
+    ],
+    [
+      "pusi\u00e9ramos",
+      "poner"
+    ],
+    [
+      "upi\u00e9semos",
+      "aber"
+    ],
+    [
+      "upi\u00e9ramos",
+      "aber"
+    ],
+    [
+      "uvi\u00e9semos",
+      "ar"
+    ],
+    [
+      "uvi\u00e9ramos",
+      "ar"
+    ],
+    [
+      "ici\u00e9semos",
+      "acer"
+    ],
+    [
+      "ici\u00e9ramos",
+      "acer"
+    ],
+    [
+      "traj\u00e9semos",
+      "traer"
+    ],
+    [
+      "traj\u00e9ramos",
+      "traer"
+    ],
+    [
+      "duj\u00e9semos",
+      "ducir"
+    ],
+    [
+      "duj\u00e9ramos",
+      "ducir"
+    ],
+    [
+      "y\u00e9semos",
       "ir"
     ],
     [
-      "hubi\u00e9ramos",
-      "haber"
+      "y\u00e9ramos",
+      "ir"
     ],
     [
-      "hubi\u00e9semos",
-      "haber"
+      "i\u00e9semos",
+      "e\u00edr"
     ],
     [
-      "dij\u00e9ramos",
-      "decir"
+      "i\u00e9ramos",
+      "e\u00edr"
     ],
     [
-      "dij\u00e9semos",
-      "decir"
+      "i\u00e9semos",
+      "ir"
     ],
     [
-      "quisi\u00e9ramos",
-      "querer"
+      "i\u00e9ramos",
+      "ir"
     ],
     [
-      "quisi\u00e9semos",
-      "querer"
+      "y\u00e9semos",
+      "er"
     ],
     [
-      "di\u00e9ramos",
-      "dar"
+      "y\u00e9ramos",
+      "er"
     ],
     [
-      "di\u00e9semos",
-      "dar"
+      "i\u00e9semos",
+      "er"
     ],
     [
-      "oy\u00e9ramos",
-      "o\u00edr"
+      "i\u00e9ramos",
+      "er"
     ],
     [
-      "oy\u00e9semos",
-      "o\u00edr"
+      "\u00e1semos",
+      "ar"
+    ],
+    [
+      "\u00e1ramos",
+      "ar"
     ]
   ],
   "verb_fin_sub_imp_plur_2":[
     [
-      "arais",
-      "ar"
-    ],
-    [
-      "aseis",
-      "ar"
-    ],
-    [
-      "ierais",
-      "er"
-    ],
-    [
-      "ieseis",
-      "er"
-    ],
-    [
-      "yerais",
-      "er"
-    ],
-    [
-      "yeseis",
-      "er"
-    ],
-    [
-      "ierais",
-      "ir"
-    ],
-    [
-      "ieseis",
-      "ir"
-    ],
-    [
-      "ierais",
-      "e\u00edr"
-    ],
-    [
-      "ieseis",
-      "e\u00edr"
-    ],
-    [
-      "yerais",
-      "ir"
-    ],
-    [
-      "yeseis",
-      "ir"
-    ],
-    [
-      "dujerais",
-      "ducir"
-    ],
-    [
-      "dujeseis",
-      "ducir"
-    ],
-    [
-      "trajerais",
-      "traer"
-    ],
-    [
-      "trajeseis",
-      "traer"
-    ],
-    [
-      "icierais",
-      "acer"
-    ],
-    [
-      "icieseis",
-      "acer"
-    ],
-    [
-      "uvierais",
-      "ar"
-    ],
-    [
-      "uvieseis",
-      "ar"
-    ],
-    [
-      "upierais",
-      "aber"
-    ],
-    [
-      "upieseis",
-      "aber"
-    ],
-    [
-      "pusierais",
-      "poner"
-    ],
-    [
-      "pusieseis",
-      "poner"
-    ],
-    [
-      "tuvierair",
-      "tener"
-    ],
-    [
-      "tuvieseis",
-      "tener"
-    ],
-    [
-      "vinierais",
-      "venir"
-    ],
-    [
-      "vinieseis",
-      "venir"
-    ],
-    [
-      "fuerais",
-      "ser"
-    ],
-    [
-      "fueseis",
-      "ser"
-    ],
-    [
-      "fuerais",
-      "ir"
-    ],
-    [
-      "fueseis",
-      "ir"
-    ],
-    [
-      "hubierais",
-      "haber"
-    ],
-    [
-      "hubieseis",
-      "haber"
-    ],
-    [
-      "dijerais",
-      "decir"
-    ],
-    [
-      "dijeseis",
-      "decir"
-    ],
-    [
-      "quisierais",
-      "querer"
-    ],
-    [
-      "quisieseis",
-      "querer"
-    ],
-    [
-      "dierais",
-      "dar"
-    ],
-    [
-      "dieseis",
-      "dar"
+      "oyeseis",
+      "o\u00edr"
     ],
     [
       "oyerais",
       "o\u00edr"
     ],
     [
-      "oyeseis",
-      "o\u00edr"
+      "dieseis",
+      "dar"
+    ],
+    [
+      "dierais",
+      "dar"
+    ],
+    [
+      "quisieseis",
+      "querer"
+    ],
+    [
+      "quisierais",
+      "querer"
+    ],
+    [
+      "dijeseis",
+      "decir"
+    ],
+    [
+      "dijerais",
+      "decir"
+    ],
+    [
+      "hubieseis",
+      "haber"
+    ],
+    [
+      "hubierais",
+      "haber"
+    ],
+    [
+      "fueseis",
+      "ser"
+    ],
+    [
+      "fuerais",
+      "ser"
+    ],
+    [
+      "fueseis",
+      "ir"
+    ],
+    [
+      "fuerais",
+      "ir"
+    ],
+    [
+      "vinieseis",
+      "venir"
+    ],
+    [
+      "vinierais",
+      "venir"
+    ],
+    [
+      "tuvieseis",
+      "tener"
+    ],
+    [
+      "tuvierair",
+      "tener"
+    ],
+    [
+      "pusieseis",
+      "poner"
+    ],
+    [
+      "pusierais",
+      "poner"
+    ],
+    [
+      "upieseis",
+      "aber"
+    ],
+    [
+      "upierais",
+      "aber"
+    ],
+    [
+      "uvieseis",
+      "ar"
+    ],
+    [
+      "uvierais",
+      "ar"
+    ],
+    [
+      "icieseis",
+      "acer"
+    ],
+    [
+      "icierais",
+      "acer"
+    ],
+    [
+      "trajeseis",
+      "traer"
+    ],
+    [
+      "trajerais",
+      "traer"
+    ],
+    [
+      "dujeseis",
+      "ducir"
+    ],
+    [
+      "dujerais",
+      "ducir"
+    ],
+    [
+      "yeseis",
+      "ir"
+    ],
+    [
+      "yerais",
+      "ir"
+    ],
+    [
+      "ieseis",
+      "e\u00edr"
+    ],
+    [
+      "ierais",
+      "e\u00edr"
+    ],
+    [
+      "ieseis",
+      "ir"
+    ],
+    [
+      "ierais",
+      "ir"
+    ],
+    [
+      "yeseis",
+      "er"
+    ],
+    [
+      "yerais",
+      "er"
+    ],
+    [
+      "ieseis",
+      "er"
+    ],
+    [
+      "ierais",
+      "er"
+    ],
+    [
+      "aseis",
+      "ar"
+    ],
+    [
+      "arais",
+      "ar"
     ]
   ],
   "verb_fin_sub_imp_plur_3":[
     [
-      "aran",
-      "ar"
-    ],
-    [
-      "asen",
-      "ar"
-    ],
-    [
-      "ieran",
-      "er"
-    ],
-    [
-      "iesen",
-      "er"
-    ],
-    [
-      "yeran",
-      "er"
-    ],
-    [
-      "yesen",
-      "er"
-    ],
-    [
-      "ieran",
-      "ir"
-    ],
-    [
-      "iesen",
-      "ir"
-    ],
-    [
-      "ieran",
-      "e\u00edr"
-    ],
-    [
-      "iesen",
-      "e\u00edr"
-    ],
-    [
-      "yeran",
-      "ir"
-    ],
-    [
-      "yesen",
-      "ir"
-    ],
-    [
-      "dujeran",
-      "ducir"
-    ],
-    [
-      "dujesen",
-      "ducir"
-    ],
-    [
-      "trajeran",
-      "traer"
-    ],
-    [
-      "trajesen",
-      "traer"
-    ],
-    [
-      "icieran",
-      "acer"
-    ],
-    [
-      "iciesen",
-      "acer"
-    ],
-    [
-      "uvieran",
-      "ar"
-    ],
-    [
-      "uviesen",
-      "ar"
-    ],
-    [
-      "upieran",
-      "aber"
-    ],
-    [
-      "upiesen",
-      "aber"
-    ],
-    [
-      "pusieran",
-      "poner"
-    ],
-    [
-      "pusiesen",
-      "poner"
-    ],
-    [
-      "tuvieran",
-      "tener"
-    ],
-    [
-      "tuviesen",
-      "tener"
-    ],
-    [
-      "vinieran",
-      "venir"
-    ],
-    [
-      "viniesen",
-      "venir"
-    ],
-    [
-      "fueran",
-      "ser"
-    ],
-    [
-      "fuesen",
-      "ser"
-    ],
-    [
-      "fueran",
-      "ir"
-    ],
-    [
-      "fuesen",
-      "ir"
-    ],
-    [
-      "hubieran",
-      "haber"
-    ],
-    [
-      "hubiesen",
-      "haber"
-    ],
-    [
-      "dijeran",
-      "decir"
-    ],
-    [
-      "dijesen",
-      "decir"
-    ],
-    [
-      "quisieran",
-      "querer"
-    ],
-    [
-      "quisiesen",
-      "querer"
-    ],
-    [
-      "dieran",
-      "dar"
-    ],
-    [
-      "diesen",
-      "dar"
+      "oyesen",
+      "o\u00edr"
     ],
     [
       "oyeran",
       "o\u00edr"
     ],
     [
-      "oyesen",
-      "o\u00edr"
+      "diesen",
+      "dar"
+    ],
+    [
+      "dieran",
+      "dar"
+    ],
+    [
+      "quisiesen",
+      "querer"
+    ],
+    [
+      "quisieran",
+      "querer"
+    ],
+    [
+      "dijesen",
+      "decir"
+    ],
+    [
+      "dijeran",
+      "decir"
+    ],
+    [
+      "hubiesen",
+      "haber"
+    ],
+    [
+      "hubieran",
+      "haber"
+    ],
+    [
+      "fuesen",
+      "ser"
+    ],
+    [
+      "fueran",
+      "ser"
+    ],
+    [
+      "fuesen",
+      "ir"
+    ],
+    [
+      "fueran",
+      "ir"
+    ],
+    [
+      "viniesen",
+      "venir"
+    ],
+    [
+      "vinieran",
+      "venir"
+    ],
+    [
+      "tuviesen",
+      "tener"
+    ],
+    [
+      "tuvieran",
+      "tener"
+    ],
+    [
+      "pusiesen",
+      "poner"
+    ],
+    [
+      "pusieran",
+      "poner"
+    ],
+    [
+      "upiesen",
+      "aber"
+    ],
+    [
+      "upieran",
+      "aber"
+    ],
+    [
+      "uviesen",
+      "ar"
+    ],
+    [
+      "uvieran",
+      "ar"
+    ],
+    [
+      "iciesen",
+      "acer"
+    ],
+    [
+      "icieran",
+      "acer"
+    ],
+    [
+      "trajesen",
+      "traer"
+    ],
+    [
+      "trajeran",
+      "traer"
+    ],
+    [
+      "dujesen",
+      "ducir"
+    ],
+    [
+      "dujeran",
+      "ducir"
+    ],
+    [
+      "yesen",
+      "ir"
+    ],
+    [
+      "yeran",
+      "ir"
+    ],
+    [
+      "iesen",
+      "e\u00edr"
+    ],
+    [
+      "ieran",
+      "e\u00edr"
+    ],
+    [
+      "iesen",
+      "ir"
+    ],
+    [
+      "ieran",
+      "ir"
+    ],
+    [
+      "yesen",
+      "er"
+    ],
+    [
+      "yeran",
+      "er"
+    ],
+    [
+      "iesen",
+      "er"
+    ],
+    [
+      "ieran",
+      "er"
+    ],
+    [
+      "asen",
+      "ar"
+    ],
+    [
+      "aran",
+      "ar"
     ]
   ],
   "verb_fin_sub_fut_sing_1":[
     [
-      "are",
-      "ar"
-    ],
-    [
-      "iere",
-      "er"
-    ],
-    [
-      "yere",
-      "er"
-    ],
-    [
-      "iere",
-      "ir"
-    ],
-    [
-      "iere",
-      "e\u00edr"
-    ],
-    [
-      "yere",
-      "ir"
-    ],
-    [
-      "dujere",
-      "ducir"
-    ],
-    [
-      "trajere",
-      "traer"
-    ],
-    [
-      "iciere",
-      "acer"
-    ],
-    [
-      "uviere",
-      "ar"
-    ],
-    [
-      "upiere",
-      "aber"
-    ],
-    [
-      "pusiere",
-      "poner"
-    ],
-    [
-      "tuviere",
-      "tener"
-    ],
-    [
-      "viniere",
-      "venir"
-    ],
-    [
-      "fuere",
-      "ser"
-    ],
-    [
-      "fuere",
-      "ir"
-    ],
-    [
-      "hubiere",
-      "haber"
-    ],
-    [
-      "dijere",
-      "decir"
-    ],
-    [
-      "quisiere",
-      "querer"
+      "oyere",
+      "o\u00edr"
     ],
     [
       "diere",
       "dar"
     ],
     [
-      "oyere",
-      "o\u00edr"
+      "quisiere",
+      "querer"
+    ],
+    [
+      "dijere",
+      "decir"
+    ],
+    [
+      "hubiere",
+      "haber"
+    ],
+    [
+      "fuere",
+      "ser"
+    ],
+    [
+      "fuere",
+      "ir"
+    ],
+    [
+      "viniere",
+      "venir"
+    ],
+    [
+      "tuviere",
+      "tener"
+    ],
+    [
+      "pusiere",
+      "poner"
+    ],
+    [
+      "upiere",
+      "aber"
+    ],
+    [
+      "uviere",
+      "ar"
+    ],
+    [
+      "iciere",
+      "acer"
+    ],
+    [
+      "trajere",
+      "traer"
+    ],
+    [
+      "dujere",
+      "ducir"
+    ],
+    [
+      "yere",
+      "ir"
+    ],
+    [
+      "iere",
+      "e\u00edr"
+    ],
+    [
+      "iere",
+      "ir"
+    ],
+    [
+      "yere",
+      "er"
+    ],
+    [
+      "iere",
+      "er"
+    ],
+    [
+      "are",
+      "ar"
     ]
   ],
   "verb_fin_sub_fut_sing_2":[
     [
-      "ares",
-      "ar"
+      "oyere",
+      "o\u00edr"
     ],
     [
-      "ieres",
-      "er"
-    ],
-    [
-      "yeres",
-      "er"
-    ],
-    [
-      "ieres",
-      "ir"
-    ],
-    [
-      "ieres",
-      "e\u00edr"
-    ],
-    [
-      "yeres",
-      "ir"
-    ],
-    [
-      "dujeres",
-      "ducir"
-    ],
-    [
-      "trajeres",
-      "traer"
-    ],
-    [
-      "icieres",
-      "acer"
-    ],
-    [
-      "uvieres",
-      "ar"
-    ],
-    [
-      "upieres",
-      "aber"
-    ],
-    [
-      "pusieres",
-      "poner"
-    ],
-    [
-      "tuvieres",
-      "tener"
-    ],
-    [
-      "vinieres",
-      "venir"
-    ],
-    [
-      "fueres",
-      "ser"
-    ],
-    [
-      "fueres",
-      "ir"
-    ],
-    [
-      "hubieres",
-      "haber"
-    ],
-    [
-      "dijeres",
-      "decir"
-    ],
-    [
-      "quisieres",
-      "querer"
-    ],
-    [
-      "dieres",
+      "diere",
       "dar"
     ],
     [
-      "cupieres",
-      "caber"
+      "quisiere",
+      "querer"
+    ],
+    [
+      "dijere",
+      "decir"
+    ],
+    [
+      "hubiere",
+      "haber"
+    ],
+    [
+      "fuere",
+      "ser"
+    ],
+    [
+      "fuere",
+      "ir"
+    ],
+    [
+      "viniere",
+      "venir"
+    ],
+    [
+      "tuviere",
+      "tener"
+    ],
+    [
+      "pusiere",
+      "poner"
+    ],
+    [
+      "upiere",
+      "aber"
+    ],
+    [
+      "uviere",
+      "ar"
+    ],
+    [
+      "iciere",
+      "acer"
+    ],
+    [
+      "trajere",
+      "traer"
+    ],
+    [
+      "dujere",
+      "ducir"
+    ],
+    [
+      "yere",
+      "ir"
+    ],
+    [
+      "iere",
+      "e\u00edr"
+    ],
+    [
+      "iere",
+      "ir"
+    ],
+    [
+      "yere",
+      "er"
+    ],
+    [
+      "iere",
+      "er"
+    ],
+    [
+      "are",
+      "ar"
     ],
     [
       "oyeres",
       "o\u00edr"
     ],
     [
-      "are",
-      "ar"
+      "cupieres",
+      "caber"
     ],
     [
-      "iere",
-      "er"
+      "dieres",
+      "dar"
     ],
     [
-      "yere",
-      "er"
+      "quisieres",
+      "querer"
     ],
     [
-      "iere",
+      "dijeres",
+      "decir"
+    ],
+    [
+      "hubieres",
+      "haber"
+    ],
+    [
+      "fueres",
+      "ser"
+    ],
+    [
+      "fueres",
       "ir"
     ],
     [
-      "iere",
-      "e\u00edr"
+      "vinieres",
+      "venir"
     ],
     [
-      "yere",
-      "ir"
-    ],
-    [
-      "dujere",
-      "ducir"
-    ],
-    [
-      "trajere",
-      "traer"
-    ],
-    [
-      "iciere",
-      "acer"
-    ],
-    [
-      "uviere",
-      "ar"
-    ],
-    [
-      "upiere",
-      "aber"
-    ],
-    [
-      "pusiere",
-      "poner"
-    ],
-    [
-      "tuviere",
+      "tuvieres",
       "tener"
     ],
     [
-      "viniere",
-      "venir"
+      "pusieres",
+      "poner"
+    ],
+    [
+      "upieres",
+      "aber"
+    ],
+    [
+      "uvieres",
+      "ar"
+    ],
+    [
+      "icieres",
+      "acer"
+    ],
+    [
+      "trajeres",
+      "traer"
+    ],
+    [
+      "dujeres",
+      "ducir"
+    ],
+    [
+      "yeres",
+      "ir"
+    ],
+    [
+      "ieres",
+      "e\u00edr"
+    ],
+    [
+      "ieres",
+      "ir"
+    ],
+    [
+      "yeres",
+      "er"
+    ],
+    [
+      "ieres",
+      "er"
+    ],
+    [
+      "ares",
+      "ar"
+    ]
+  ],
+  "verb_fin_sub_fut_sing_3":[
+    [
+      "oyere",
+      "o\u00edr"
+    ],
+    [
+      "diere",
+      "dar"
+    ],
+    [
+      "quisiere",
+      "querer"
+    ],
+    [
+      "dijere",
+      "decir"
+    ],
+    [
+      "hubiere",
+      "haber"
     ],
     [
       "fuere",
@@ -3479,340 +3529,254 @@
       "ir"
     ],
     [
-      "hubiere",
-      "haber"
+      "viniere",
+      "venir"
     ],
     [
-      "dijere",
-      "decir"
+      "tuviere",
+      "tener"
     ],
     [
-      "quisiere",
-      "querer"
+      "pusiere",
+      "poner"
     ],
     [
-      "diere",
-      "dar"
+      "upiere",
+      "aber"
     ],
     [
-      "oyere",
-      "o\u00edr"
-    ]
-  ],
-  "verb_fin_sub_fut_sing_3":[
-    [
-      "are",
+      "uviere",
       "ar"
     ],
     [
-      "iere",
-      "er"
+      "iciere",
+      "acer"
     ],
     [
-      "yere",
-      "er"
-    ],
-    [
-      "iere",
-      "ir"
-    ],
-    [
-      "iere",
-      "e\u00edr"
-    ],
-    [
-      "yere",
-      "ir"
+      "trajere",
+      "traer"
     ],
     [
       "dujeremos",
       "ducir"
     ],
     [
-      "trajere",
-      "traer"
-    ],
-    [
-      "iciere",
-      "acer"
-    ],
-    [
-      "uviere",
-      "ar"
-    ],
-    [
-      "upiere",
-      "aber"
-    ],
-    [
-      "pusiere",
-      "poner"
-    ],
-    [
-      "tuviere",
-      "tener"
-    ],
-    [
-      "viniere",
-      "venir"
-    ],
-    [
-      "fuere",
-      "ser"
-    ],
-    [
-      "fuere",
+      "yere",
       "ir"
     ],
     [
-      "hubiere",
-      "haber"
+      "iere",
+      "e\u00edr"
     ],
     [
-      "dijere",
-      "decir"
+      "iere",
+      "ir"
     ],
     [
-      "quisiere",
-      "querer"
+      "yere",
+      "er"
     ],
     [
-      "diere",
-      "dar"
+      "iere",
+      "er"
     ],
     [
-      "oyere",
-      "o\u00edr"
+      "are",
+      "ar"
     ]
   ],
   "verb_fin_sub_fut_plur_1":[
     [
-      "\u00e1remos",
-      "ar"
-    ],
-    [
-      "i\u00e9remos",
-      "er"
-    ],
-    [
-      "y\u00e9remos",
-      "er"
-    ],
-    [
-      "i\u00e9remos",
-      "ir"
-    ],
-    [
-      "i\u00e9remos",
-      "e\u00edr"
-    ],
-    [
-      "y\u00e9remos",
-      "ir"
-    ],
-    [
-      "duj\u00e9remos",
-      "ducir"
-    ],
-    [
-      "traj\u00e9remos",
-      "traer"
-    ],
-    [
-      "ici\u00e9remos",
-      "acer"
-    ],
-    [
-      "uvi\u00e9remos",
-      "ar"
-    ],
-    [
-      "upi\u00e9remos",
-      "aber"
-    ],
-    [
-      "pusi\u00e9remos",
-      "poner"
-    ],
-    [
-      "tuvi\u00e9remos",
-      "tener"
-    ],
-    [
-      "vini\u00e9remos",
-      "venir"
-    ],
-    [
-      "fu\u00e9remos",
-      "ser"
-    ],
-    [
-      "fu\u00e9remos",
-      "ir"
-    ],
-    [
-      "hubi\u00e9remos",
-      "haber"
-    ],
-    [
-      "dij\u00e9remos",
-      "decir"
-    ],
-    [
-      "quisi\u00e9remos",
-      "querer"
+      "oy\u00e9remos",
+      "o\u00edr"
     ],
     [
       "di\u00e9remos",
       "dar"
     ],
     [
-      "oy\u00e9remos",
-      "o\u00edr"
+      "quisi\u00e9remos",
+      "querer"
+    ],
+    [
+      "dij\u00e9remos",
+      "decir"
+    ],
+    [
+      "hubi\u00e9remos",
+      "haber"
+    ],
+    [
+      "fu\u00e9remos",
+      "ser"
+    ],
+    [
+      "fu\u00e9remos",
+      "ir"
+    ],
+    [
+      "vini\u00e9remos",
+      "venir"
+    ],
+    [
+      "tuvi\u00e9remos",
+      "tener"
+    ],
+    [
+      "pusi\u00e9remos",
+      "poner"
+    ],
+    [
+      "upi\u00e9remos",
+      "aber"
+    ],
+    [
+      "uvi\u00e9remos",
+      "ar"
+    ],
+    [
+      "ici\u00e9remos",
+      "acer"
+    ],
+    [
+      "traj\u00e9remos",
+      "traer"
+    ],
+    [
+      "duj\u00e9remos",
+      "ducir"
+    ],
+    [
+      "y\u00e9remos",
+      "ir"
+    ],
+    [
+      "i\u00e9remos",
+      "e\u00edr"
+    ],
+    [
+      "i\u00e9remos",
+      "ir"
+    ],
+    [
+      "y\u00e9remos",
+      "er"
+    ],
+    [
+      "i\u00e9remos",
+      "er"
+    ],
+    [
+      "\u00e1remos",
+      "ar"
     ]
   ],
   "verb_fin_sub_fut_plur_2":[
     [
-      "areis",
-      "ar"
-    ],
-    [
-      "iereis",
-      "er"
-    ],
-    [
-      "yereis",
-      "er"
-    ],
-    [
-      "iereis",
-      "ir"
-    ],
-    [
-      "iereis",
-      "e\u00edr"
-    ],
-    [
-      "yereis",
-      "ir"
-    ],
-    [
-      "dujereis",
-      "ducir"
-    ],
-    [
-      "trajereis",
-      "traer"
-    ],
-    [
-      "iciereis",
-      "acer"
-    ],
-    [
-      "uviereis",
-      "ar"
-    ],
-    [
-      "upiereis",
-      "aber"
-    ],
-    [
-      "pusiereis",
-      "poner"
-    ],
-    [
-      "tuviereis",
-      "tener"
-    ],
-    [
-      "viniereis",
-      "venir"
-    ],
-    [
-      "fuereis",
-      "ser"
-    ],
-    [
-      "fuereis",
-      "ir"
-    ],
-    [
-      "hubiereis",
-      "haber"
-    ],
-    [
-      "dijereis",
-      "decir"
-    ],
-    [
-      "quisiereis",
-      "querer"
+      "oyereis",
+      "o\u00edr"
     ],
     [
       "diereis",
       "dar"
     ],
     [
-      "oyereis",
-      "o\u00edr"
+      "quisiereis",
+      "querer"
+    ],
+    [
+      "dijereis",
+      "decir"
+    ],
+    [
+      "hubiereis",
+      "haber"
+    ],
+    [
+      "fuereis",
+      "ser"
+    ],
+    [
+      "fuereis",
+      "ir"
+    ],
+    [
+      "viniereis",
+      "venir"
+    ],
+    [
+      "tuviereis",
+      "tener"
+    ],
+    [
+      "pusiereis",
+      "poner"
+    ],
+    [
+      "upiereis",
+      "aber"
+    ],
+    [
+      "uviereis",
+      "ar"
+    ],
+    [
+      "iciereis",
+      "acer"
+    ],
+    [
+      "trajereis",
+      "traer"
+    ],
+    [
+      "dujereis",
+      "ducir"
+    ],
+    [
+      "yereis",
+      "ir"
+    ],
+    [
+      "iereis",
+      "e\u00edr"
+    ],
+    [
+      "iereis",
+      "ir"
+    ],
+    [
+      "yereis",
+      "er"
+    ],
+    [
+      "iereis",
+      "er"
+    ],
+    [
+      "areis",
+      "ar"
     ]
   ],
   "verb_fin_sub_fut_plur_3":[
     [
-      "aren",
-      "ar"
+      "oyeren",
+      "o\u00edr"
     ],
     [
-      "ieren",
-      "er"
+      "dieren",
+      "dar"
     ],
     [
-      "yeren",
-      "er"
+      "quisieren",
+      "querer"
     ],
     [
-      "ieren",
-      "ir"
+      "dijeren",
+      "decir"
     ],
     [
-      "ieren",
-      "e\u00edr"
-    ],
-    [
-      "yeren",
-      "ir"
-    ],
-    [
-      "dujeren",
-      "ducir"
-    ],
-    [
-      "trajeren",
-      "traer"
-    ],
-    [
-      "icieren",
-      "acer"
-    ],
-    [
-      "uvieren",
-      "ar"
-    ],
-    [
-      "upieren",
-      "aber"
-    ],
-    [
-      "pusieren",
-      "poner"
-    ],
-    [
-      "tuvieren",
-      "tener"
-    ],
-    [
-      "vinieren",
-      "venir"
+      "hubieren",
+      "haber"
     ],
     [
       "fueren",
@@ -3823,342 +3787,310 @@
       "ir"
     ],
     [
-      "hubieren",
-      "haber"
+      "vinieren",
+      "venir"
     ],
     [
-      "dijeren",
-      "decir"
+      "tuvieren",
+      "tener"
     ],
     [
-      "quisieren",
-      "querer"
+      "pusieren",
+      "poner"
     ],
     [
-      "dieren",
-      "dar"
+      "upieren",
+      "aber"
     ],
     [
-      "oyeren",
-      "o\u00edr"
+      "uvieren",
+      "ar"
+    ],
+    [
+      "icieren",
+      "acer"
+    ],
+    [
+      "trajeren",
+      "traer"
+    ],
+    [
+      "dujeren",
+      "ducir"
+    ],
+    [
+      "yeren",
+      "ir"
+    ],
+    [
+      "ieren",
+      "e\u00edr"
+    ],
+    [
+      "ieren",
+      "ir"
+    ],
+    [
+      "yeren",
+      "er"
+    ],
+    [
+      "ieren",
+      "er"
+    ],
+    [
+      "aren",
+      "ar"
     ]
   ],
   "verb_fin_cnd_sing_1":[
     [
-      "\u00eda",
-      ""
-    ],
-    [
-      "r\u00eda",
-      "er"
-    ],
-    [
-      "dr\u00eda",
-      "er"
-    ],
-    [
-      "dr\u00eda",
-      "ir"
+      "dir\u00eda",
+      "decir"
     ],
     [
       "ar\u00eda",
       "acer"
     ],
     [
-      "dir\u00eda",
-      "decir"
+      "dr\u00eda",
+      "ir"
+    ],
+    [
+      "dr\u00eda",
+      "er"
+    ],
+    [
+      "r\u00eda",
+      "er"
+    ],
+    [
+      "\u00eda",
+      ""
     ]
   ],
   "verb_fin_cnd_sing_2":[
     [
-      "\u00edas",
-      ""
+      "dir\u00eda",
+      "decir"
     ],
     [
-      "r\u00edas",
-      "er"
+      "ar\u00eda",
+      "acer"
     ],
     [
-      "dr\u00edas",
-      "er"
-    ],
-    [
-      "dr\u00edas",
+      "dr\u00eda",
       "ir"
     ],
     [
-      "ar\u00edas",
-      "acer"
+      "dr\u00eda",
+      "er"
+    ],
+    [
+      "r\u00eda",
+      "er"
+    ],
+    [
+      "\u00eda",
+      ""
     ],
     [
       "dir\u00edas",
       "decir"
     ],
     [
-      "\u00eda",
-      ""
-    ],
-    [
-      "r\u00eda",
-      "er"
-    ],
-    [
-      "dr\u00eda",
-      "er"
-    ],
-    [
-      "dr\u00eda",
-      "ir"
-    ],
-    [
-      "ar\u00eda",
+      "ar\u00edas",
       "acer"
     ],
     [
-      "dir\u00eda",
-      "decir"
+      "dr\u00edas",
+      "ir"
+    ],
+    [
+      "dr\u00edas",
+      "er"
+    ],
+    [
+      "r\u00edas",
+      "er"
+    ],
+    [
+      "\u00edas",
+      ""
     ]
   ],
   "verb_fin_cnd_sing_3":[
     [
-      "\u00eda",
-      ""
-    ],
-    [
-      "r\u00eda",
-      "er"
-    ],
-    [
-      "dr\u00eda",
-      "er"
-    ],
-    [
-      "dr\u00eda",
-      "ir"
+      "dir\u00eda",
+      "decir"
     ],
     [
       "ar\u00eda",
       "acer"
     ],
     [
-      "dir\u00eda",
-      "decir"
+      "dr\u00eda",
+      "ir"
+    ],
+    [
+      "dr\u00eda",
+      "er"
+    ],
+    [
+      "r\u00eda",
+      "er"
+    ],
+    [
+      "\u00eda",
+      ""
     ]
   ],
   "verb_fin_cnd_plur_1":[
     [
-      "iamos",
-      ""
-    ],
-    [
-      "r\u00edamos",
-      "er"
-    ],
-    [
-      "dr\u00edamos",
-      "er"
-    ],
-    [
-      "dr\u00edamos",
-      "ir"
+      "dir\u00edamos",
+      "decir"
     ],
     [
       "ar\u00edamos",
       "acer"
     ],
     [
-      "dir\u00edamos",
-      "decir"
+      "dr\u00edamos",
+      "ir"
+    ],
+    [
+      "dr\u00edamos",
+      "er"
+    ],
+    [
+      "r\u00edamos",
+      "er"
+    ],
+    [
+      "iamos",
+      ""
     ]
   ],
   "verb_fin_cnd_plur_2":[
     [
-      "\u00edais",
-      ""
-    ],
-    [
-      "r\u00edais",
-      "er"
-    ],
-    [
-      "dr\u00edais",
-      "er"
-    ],
-    [
-      "dr\u00edais",
-      "ir"
+      "dir\u00edais",
+      "decir"
     ],
     [
       "ar\u00edais",
       "acer"
     ],
     [
-      "dir\u00edais",
-      "decir"
+      "dr\u00edais",
+      "ir"
+    ],
+    [
+      "dr\u00edais",
+      "er"
+    ],
+    [
+      "r\u00edais",
+      "er"
+    ],
+    [
+      "\u00edais",
+      ""
     ]
   ],
   "verb_fin_cnd_plur_3":[
     [
-      "\u00edan",
-      ""
-    ],
-    [
-      "r\u00edan",
-      "er"
-    ],
-    [
-      "dr\u00edan",
-      "er"
-    ],
-    [
-      "dr\u00edan",
-      "ir"
+      "dir\u00edan",
+      "decir"
     ],
     [
       "ar\u00eda",
       "acer"
     ],
     [
-      "dir\u00edan",
-      "decir"
+      "dr\u00edan",
+      "ir"
+    ],
+    [
+      "dr\u00edan",
+      "er"
+    ],
+    [
+      "r\u00edan",
+      "er"
+    ],
+    [
+      "\u00edan",
+      ""
     ]
   ],
   "verb_fin_imp_sing_2":[
     [
-      "",
-      "r"
-    ],
-    [
-      "",
-      "er"
-    ],
-    [
-      "",
-      "ir"
-    ],
-    [
-      "\u00e1",
-      "ar"
-    ],
-    [
-      "e",
-      "ir"
-    ],
-    [
-      "ye",
-      "ir"
-    ],
-    [
-      "az",
-      "acer"
-    ],
-    [
-      "ve",
-      "ir"
-    ],
-    [
-      "di",
-      "decir"
-    ],
-    [
-      "huele",
-      "oler"
-    ],
-    [
-      "oye",
+      "oigas",
       "o\u00edr"
     ],
     [
-      "e",
-      "ar"
+      "huelas",
+      "oler"
     ],
     [
-      "\u00e9",
-      "ar"
+      "digas",
+      "decir"
     ],
     [
-      "a",
-      "er"
-    ],
-    [
-      "ea",
-      "er"
-    ],
-    [
-      "a",
+      "vayas",
       "ir"
     ],
     [
-      "ya",
-      "ir"
+      "agas",
+      "acer"
     ],
     [
-      "zca",
-      "cer"
-    ],
-    [
-      "za",
-      "cer"
-    ],
-    [
-      "ga",
-      "er"
-    ],
-    [
-      "ga",
-      "ir"
-    ],
-    [
-      "ga",
-      "guir"
-    ],
-    [
-      "ja",
-      "ger"
-    ],
-    [
-      "ja",
-      "gir"
-    ],
-    [
-      "duzca",
-      "ducir"
-    ],
-    [
-      "que",
-      "car"
-    ],
-    [
-      "ce",
+      "ces",
       "zar"
     ],
     [
-      "aga",
-      "acer"
+      "ques",
+      "car"
     ],
     [
-      "vaya",
+      "duzcas",
+      "ducir"
+    ],
+    [
+      "jas",
+      "gir"
+    ],
+    [
+      "jas",
+      "ger"
+    ],
+    [
+      "gas",
+      "guir"
+    ],
+    [
+      "gas",
       "ir"
     ],
     [
-      "diga",
-      "decir"
+      "gas",
+      "er"
     ],
     [
-      "huela",
-      "oler"
+      "zas",
+      "cer"
     ],
     [
-      "oiga",
-      "o\u00edr"
+      "zcas",
+      "cer"
     ],
     [
-      "es",
-      "ar"
+      "yas",
+      "ir"
     ],
     [
       "as",
-      "er"
+      "ir"
     ],
     [
       "eas",
@@ -4166,81 +4098,181 @@
     ],
     [
       "as",
-      "ir"
-    ],
-    [
-      "yas",
-      "ir"
-    ],
-    [
-      "zcas",
-      "cer"
-    ],
-    [
-      "zas",
-      "cer"
-    ],
-    [
-      "gas",
       "er"
     ],
     [
-      "gas",
-      "ir"
+      "es",
+      "ar"
     ],
     [
-      "gas",
-      "guir"
+      "oiga",
+      "o\u00edr"
     ],
     [
-      "jas",
-      "ger"
-    ],
-    [
-      "jas",
-      "gir"
-    ],
-    [
-      "duzcas",
-      "ducir"
-    ],
-    [
-      "ques",
-      "car"
-    ],
-    [
-      "ces",
-      "zar"
-    ],
-    [
-      "agas",
-      "acer"
-    ],
-    [
-      "vayas",
-      "ir"
-    ],
-    [
-      "digas",
-      "decir"
-    ],
-    [
-      "huelas",
+      "huela",
       "oler"
     ],
     [
-      "oigas",
+      "diga",
+      "decir"
+    ],
+    [
+      "vaya",
+      "ir"
+    ],
+    [
+      "aga",
+      "acer"
+    ],
+    [
+      "ce",
+      "zar"
+    ],
+    [
+      "que",
+      "car"
+    ],
+    [
+      "duzca",
+      "ducir"
+    ],
+    [
+      "ja",
+      "gir"
+    ],
+    [
+      "ja",
+      "ger"
+    ],
+    [
+      "ga",
+      "guir"
+    ],
+    [
+      "ga",
+      "ir"
+    ],
+    [
+      "ga",
+      "er"
+    ],
+    [
+      "za",
+      "cer"
+    ],
+    [
+      "zca",
+      "cer"
+    ],
+    [
+      "ya",
+      "ir"
+    ],
+    [
+      "a",
+      "ir"
+    ],
+    [
+      "ea",
+      "er"
+    ],
+    [
+      "a",
+      "er"
+    ],
+    [
+      "\u00e9",
+      "ar"
+    ],
+    [
+      "e",
+      "ar"
+    ],
+    [
+      "oye",
       "o\u00edr"
+    ],
+    [
+      "huele",
+      "oler"
+    ],
+    [
+      "di",
+      "decir"
+    ],
+    [
+      "ve",
+      "ir"
+    ],
+    [
+      "az",
+      "acer"
+    ],
+    [
+      "ye",
+      "ir"
+    ],
+    [
+      "e",
+      "ir"
+    ],
+    [
+      "\u00e1",
+      "ar"
+    ],
+    [
+      "",
+      "ir"
+    ],
+    [
+      "",
+      "er"
+    ],
+    [
+      "",
+      "r"
     ]
   ],
   "verb_fin_imp_plur_1":[
     [
-      "emos",
-      "ar"
+      "oigamos",
+      "o\u00edr"
+    ],
+    [
+      "digamos",
+      "decir"
+    ],
+    [
+      "vayamos",
+      "ir"
+    ],
+    [
+      "agamos",
+      "acer"
+    ],
+    [
+      "quemos",
+      "car"
+    ],
+    [
+      "duzcamos",
+      "ducir"
+    ],
+    [
+      "gamos",
+      "ir"
+    ],
+    [
+      "gamos",
+      "er"
+    ],
+    [
+      "yamos",
+      "ir"
     ],
     [
       "amos",
-      "er"
+      "ir"
     ],
     [
       "amos",
@@ -4248,43 +4280,11 @@
     ],
     [
       "amos",
-      "ir"
-    ],
-    [
-      "yamos",
-      "ir"
-    ],
-    [
-      "gamos",
       "er"
     ],
     [
-      "gamos",
-      "ir"
-    ],
-    [
-      "duzcamos",
-      "ducir"
-    ],
-    [
-      "quemos",
-      "car"
-    ],
-    [
-      "agamos",
-      "acer"
-    ],
-    [
-      "vayamos",
-      "ir"
-    ],
-    [
-      "digamos",
-      "decir"
-    ],
-    [
-      "oigamos",
-      "o\u00edr"
+      "emos",
+      "ar"
     ]
   ],
   "verb_fin_imp_plur_2":[
@@ -4295,203 +4295,7 @@
   ],
   "verb_part":[
     [
-      "ado",
-      "ar"
-    ],
-    [
-      "ados",
-      "ar"
-    ],
-    [
-      "ada",
-      "ar"
-    ],
-    [
-      "adas",
-      "ar"
-    ],
-    [
-      "ido",
-      "er"
-    ],
-    [
-      "\u00eddo",
-      "er"
-    ],
-    [
-      "idos",
-      "er"
-    ],
-    [
-      "\u00eddos",
-      "er"
-    ],
-    [
-      "ida",
-      "er"
-    ],
-    [
-      "\u00edda",
-      "er"
-    ],
-    [
-      "idas",
-      "er"
-    ],
-    [
-      "\u00eddas",
-      "er"
-    ],
-    [
-      "ido",
-      "ir"
-    ],
-    [
-      "idos",
-      "ir"
-    ],
-    [
-      "ida",
-      "ir"
-    ],
-    [
-      "idas",
-      "ir"
-    ],
-    [
-      "bierto",
-      "brir"
-    ],
-    [
-      "biertos",
-      "brir"
-    ],
-    [
-      "bierta",
-      "brir"
-    ],
-    [
-      "biertas",
-      "brir"
-    ],
-    [
-      "uelto",
-      "olver"
-    ],
-    [
-      "ueltos",
-      "olver"
-    ],
-    [
-      "uelta",
-      "olver"
-    ],
-    [
-      "ueltas",
-      "olver"
-    ],
-    [
-      "crito",
-      "cribir"
-    ],
-    [
-      "critos",
-      "cribir"
-    ],
-    [
-      "crita",
-      "cribir"
-    ],
-    [
-      "critas",
-      "cribir"
-    ],
-    [
-      "echo",
-      "acer"
-    ],
-    [
-      "echos",
-      "acer"
-    ],
-    [
-      "echa",
-      "acer"
-    ],
-    [
-      "echas",
-      "acer"
-    ],
-    [
-      "muerto",
-      "morir"
-    ],
-    [
-      "muertos",
-      "morir"
-    ],
-    [
-      "muerta",
-      "morir"
-    ],
-    [
-      "muertas",
-      "morir"
-    ],
-    [
-      "visto",
-      "ver"
-    ],
-    [
-      "vistos",
-      "ver"
-    ],
-    [
-      "vista",
-      "ver"
-    ],
-    [
-      "vistas",
-      "ver"
-    ],
-    [
-      "roto",
-      "romper"
-    ],
-    [
-      "rotos",
-      "romper"
-    ],
-    [
-      "rota",
-      "romper"
-    ],
-    [
-      "rotas",
-      "romper"
-    ],
-    [
-      "puesto",
-      "poner"
-    ],
-    [
-      "puestos",
-      "poner"
-    ],
-    [
-      "puesta",
-      "poner"
-    ],
-    [
-      "puestas",
-      "poner"
-    ],
-    [
-      "dicho",
-      "decir"
-    ],
-    [
-      "dichos",
+      "dichas",
       "decir"
     ],
     [
@@ -4499,280 +4303,384 @@
       "decir"
     ],
     [
-      "dichas",
+      "dichos",
       "decir"
+    ],
+    [
+      "dicho",
+      "decir"
+    ],
+    [
+      "puestas",
+      "poner"
+    ],
+    [
+      "puesta",
+      "poner"
+    ],
+    [
+      "puestos",
+      "poner"
+    ],
+    [
+      "puesto",
+      "poner"
+    ],
+    [
+      "rotas",
+      "romper"
+    ],
+    [
+      "rota",
+      "romper"
+    ],
+    [
+      "rotos",
+      "romper"
+    ],
+    [
+      "roto",
+      "romper"
+    ],
+    [
+      "vistas",
+      "ver"
+    ],
+    [
+      "vista",
+      "ver"
+    ],
+    [
+      "vistos",
+      "ver"
+    ],
+    [
+      "visto",
+      "ver"
+    ],
+    [
+      "muertas",
+      "morir"
+    ],
+    [
+      "muerta",
+      "morir"
+    ],
+    [
+      "muertos",
+      "morir"
+    ],
+    [
+      "muerto",
+      "morir"
+    ],
+    [
+      "echas",
+      "acer"
+    ],
+    [
+      "echa",
+      "acer"
+    ],
+    [
+      "echos",
+      "acer"
+    ],
+    [
+      "echo",
+      "acer"
+    ],
+    [
+      "critas",
+      "cribir"
+    ],
+    [
+      "crita",
+      "cribir"
+    ],
+    [
+      "critos",
+      "cribir"
+    ],
+    [
+      "crito",
+      "cribir"
+    ],
+    [
+      "ueltas",
+      "olver"
+    ],
+    [
+      "uelta",
+      "olver"
+    ],
+    [
+      "ueltos",
+      "olver"
+    ],
+    [
+      "uelto",
+      "olver"
+    ],
+    [
+      "biertas",
+      "brir"
+    ],
+    [
+      "bierta",
+      "brir"
+    ],
+    [
+      "biertos",
+      "brir"
+    ],
+    [
+      "bierto",
+      "brir"
+    ],
+    [
+      "idas",
+      "ir"
+    ],
+    [
+      "ida",
+      "ir"
+    ],
+    [
+      "idos",
+      "ir"
+    ],
+    [
+      "ido",
+      "ir"
+    ],
+    [
+      "\u00eddas",
+      "er"
+    ],
+    [
+      "idas",
+      "er"
+    ],
+    [
+      "\u00edda",
+      "er"
+    ],
+    [
+      "ida",
+      "er"
+    ],
+    [
+      "\u00eddos",
+      "er"
+    ],
+    [
+      "idos",
+      "er"
+    ],
+    [
+      "\u00eddo",
+      "er"
+    ],
+    [
+      "ido",
+      "er"
+    ],
+    [
+      "adas",
+      "ar"
+    ],
+    [
+      "ada",
+      "ar"
+    ],
+    [
+      "ados",
+      "ar"
+    ],
+    [
+      "ado",
+      "ar"
     ]
   ],
   "verb_ger":[
     [
-      "ando",
-      "ar"
-    ],
-    [
-      "iendo",
-      "er"
-    ],
-    [
-      "yendo",
-      "er"
-    ],
-    [
-      "iendo",
-      "ir"
-    ],
-    [
-      "iendo",
-      "eir"
-    ],
-    [
-      "yendo",
-      "er"
-    ],
-    [
-      "yendo",
-      "ir"
+      "diciendo",
+      "decir"
     ],
     [
       "viniendo",
       "venir"
     ],
     [
-      "diciendo",
-      "decir"
+      "yendo",
+      "ir"
+    ],
+    [
+      "yendo",
+      "er"
+    ],
+    [
+      "iendo",
+      "eir"
+    ],
+    [
+      "iendo",
+      "ir"
+    ],
+    [
+      "yendo",
+      "er"
+    ],
+    [
+      "iendo",
+      "er"
+    ],
+    [
+      "ando",
+      "ar"
     ]
   ],
   "voc_alt_1":[
     [
-      "i",
-      "e"
-    ],
-    [
       "u",
       "o"
+    ],
+    [
+      "i",
+      "e"
     ]
   ],
   "voc_alt_2":[
     [
-      "ie",
-      "e"
+      "ue",
+      "u"
+    ],
+    [
+      "ue",
+      "o"
     ],
     [
       "ie",
       "i"
     ],
     [
-      "ue",
-      "o"
-    ],
-    [
-      "ue",
-      "u"
+      "ie",
+      "e"
     ]
   ],
   "noun_plur":[
     [
-      "s",
-      ""
-    ],
-    [
-      "es",
-      ""
-    ],
-    [
-      "anes",
-      "\u00e1n"
-    ],
-    [
-      "enes",
-      "\u00e9n"
-    ],
-    [
-      "ines",
-      "\u00edn"
-    ],
-    [
-      "ones",
-      "\u00f3n"
-    ],
-    [
-      "unes",
-      "\u00fan"
-    ],
-    [
-      "ases",
-      "\u00e1s"
-    ],
-    [
-      "eses",
-      "\u00e9s"
-    ],
-    [
-      "ises",
-      "\u00eds"
-    ],
-    [
-      "oses",
-      "\u00f3s"
-    ],
-    [
-      "uses",
-      "\u00fas"
+      "as",
+      "a"
     ],
     [
       "ces",
       "z"
     ],
     [
-      "as",
-      "a"
+      "uses",
+      "\u00fas"
+    ],
+    [
+      "oses",
+      "\u00f3s"
+    ],
+    [
+      "ises",
+      "\u00eds"
+    ],
+    [
+      "eses",
+      "\u00e9s"
+    ],
+    [
+      "ases",
+      "\u00e1s"
+    ],
+    [
+      "unes",
+      "\u00fan"
+    ],
+    [
+      "ones",
+      "\u00f3n"
+    ],
+    [
+      "ines",
+      "\u00edn"
+    ],
+    [
+      "enes",
+      "\u00e9n"
+    ],
+    [
+      "anes",
+      "\u00e1n"
+    ],
+    [
+      "es",
+      ""
+    ],
+    [
+      "s",
+      ""
     ]
   ],
   "adj_sing_fem":[
     [
-      "a",
-      ""
-    ],
-    [
-      "a",
-      "o"
-    ],
-    [
-      "ana",
-      "\u00e1n"
-    ],
-    [
-      "ena",
-      "\u00e9n"
-    ],
-    [
-      "ina",
-      "\u00edn"
-    ],
-    [
-      "ona",
-      "\u00f3n"
-    ],
-    [
-      "una",
-      "\u00fan"
-    ],
-    [
-      "asa",
-      "\u00e1s"
-    ],
-    [
-      "esa",
-      "\u00e9s"
-    ],
-    [
-      "isa",
-      "\u00eds"
+      "usa",
+      "\u00fas"
     ],
     [
       "osa",
       "\u00f3s"
     ],
     [
-      "usa",
-      "\u00fas"
+      "isa",
+      "\u00eds"
+    ],
+    [
+      "esa",
+      "\u00e9s"
+    ],
+    [
+      "asa",
+      "\u00e1s"
+    ],
+    [
+      "una",
+      "\u00fan"
+    ],
+    [
+      "ona",
+      "\u00f3n"
+    ],
+    [
+      "ina",
+      "\u00edn"
+    ],
+    [
+      "ena",
+      "\u00e9n"
+    ],
+    [
+      "ana",
+      "\u00e1n"
+    ],
+    [
+      "a",
+      "o"
+    ],
+    [
+      "a",
+      ""
     ]
   ],
   "adj_plur":[
     [
-      "s",
-      ""
-    ],
-    [
-      "es",
-      ""
-    ],
-    [
-      "anes",
-      "\u00e1n"
-    ],
-    [
-      "anas",
-      "\u00e1n"
-    ],
-    [
-      "enes",
-      "\u00e9n"
-    ],
-    [
-      "enas",
-      "\u00e9n"
-    ],
-    [
-      "ines",
-      "\u00edn"
-    ],
-    [
-      "inas",
-      "\u00edn"
-    ],
-    [
-      "ones",
-      "\u00f3n"
-    ],
-    [
-      "onas",
-      "\u00f3n"
-    ],
-    [
-      "unes",
-      "\u00fan"
-    ],
-    [
-      "unas",
-      "\u00fan"
-    ],
-    [
-      "ases",
-      "\u00e1s"
-    ],
-    [
-      "asas",
-      "\u00e1s"
-    ],
-    [
-      "eses",
-      "\u00e9s"
-    ],
-    [
-      "esas",
-      "\u00e9s"
-    ],
-    [
-      "ises",
-      "\u00eds"
-    ],
-    [
-      "isas",
-      "\u00eds"
-    ],
-    [
-      "oses",
-      "\u00f3s"
-    ],
-    [
-      "osas",
-      "\u00f3s"
-    ],
-    [
-      "uses",
-      "\u00fas"
-    ],
-    [
-      "usas",
-      "\u00fas"
-    ],
-    [
-      "ces",
-      "z"
-    ],
-    [
       "as",
-      ""
+      "a"
     ],
     [
       "as",
@@ -4780,30 +4688,118 @@
     ],
     [
       "as",
-      "a"
+      ""
+    ],
+    [
+      "ces",
+      "z"
+    ],
+    [
+      "usas",
+      "\u00fas"
+    ],
+    [
+      "uses",
+      "\u00fas"
+    ],
+    [
+      "osas",
+      "\u00f3s"
+    ],
+    [
+      "oses",
+      "\u00f3s"
+    ],
+    [
+      "isas",
+      "\u00eds"
+    ],
+    [
+      "ises",
+      "\u00eds"
+    ],
+    [
+      "esas",
+      "\u00e9s"
+    ],
+    [
+      "eses",
+      "\u00e9s"
+    ],
+    [
+      "asas",
+      "\u00e1s"
+    ],
+    [
+      "ases",
+      "\u00e1s"
+    ],
+    [
+      "unas",
+      "\u00fan"
+    ],
+    [
+      "unes",
+      "\u00fan"
+    ],
+    [
+      "onas",
+      "\u00f3n"
+    ],
+    [
+      "ones",
+      "\u00f3n"
+    ],
+    [
+      "inas",
+      "\u00edn"
+    ],
+    [
+      "ines",
+      "\u00edn"
+    ],
+    [
+      "enas",
+      "\u00e9n"
+    ],
+    [
+      "enes",
+      "\u00e9n"
+    ],
+    [
+      "anas",
+      "\u00e1n"
+    ],
+    [
+      "anes",
+      "\u00e1n"
+    ],
+    [
+      "es",
+      ""
+    ],
+    [
+      "s",
+      ""
+    ],
+    [
+      "os",
+      ""
     ]
   ],
   "adverbs":[
     [
-      "tan",
-      "tanto"
-    ],
-    [
       "muy",
       "mucho"
+    ],
+    [
+      "tan",
+      "tanto"
     ]
   ],
   "det":[
     [
-      "el",
-      "el"
-    ],
-    [
-      "lo",
-      "el"
-    ],
-    [
-      "los",
+      "las",
       "el"
     ],
     [
@@ -4811,141 +4807,85 @@
       "el"
     ],
     [
-      "las",
+      "los",
+      "el"
+    ],
+    [
+      "lo",
+      "el"
+    ],
+    [
+      "el",
       "el"
     ]
   ],
   "pron":[
     [
-      "yo",
-      "yo"
+      "cu\u00e1ndo",
+      "cu\u00e1ndo"
     ],
     [
-      "me",
-      "yo"
+      "c\u00f3mo",
+      "c\u00f3mo"
     ],
     [
-      "m\u00ed",
-      "yo"
+      "d\u00f3nde",
+      "d\u00f3nde"
     ],
     [
-      "conmigo",
-      "yo"
+      "qui\u00e9nes",
+      "qui\u00e9n"
     ],
     [
-      "nosotros",
-      "yo"
+      "qui\u00e9n",
+      "qui\u00e9n"
     ],
     [
-      "nos",
-      "yo"
+      "cu\u00e1les",
+      "cu\u00e1l"
     ],
     [
-      "t\u00fa",
-      "t\u00fa"
+      "cu\u00e1l",
+      "cu\u00e1l"
     ],
     [
-      "te",
-      "t\u00fa"
+      "qu\u00e9",
+      "qu\u00e9"
     ],
     [
-      "ti",
-      "t\u00fa"
+      "cuando",
+      "cuando"
     ],
     [
-      "contigo",
-      "t\u00fa"
+      "como",
+      "como"
     ],
     [
-      "vosotros",
-      "t\u00fa"
+      "donde",
+      "donde"
     ],
     [
-      "ustedes",
-      "t\u00fa"
+      "quienes",
+      "quien"
     ],
     [
-      "os",
-      "t\u00fa"
+      "quien",
+      "quien"
     ],
     [
-      "usted",
-      "usted"
+      "cuales",
+      "cual"
     ],
     [
-      "\u00e9l",
-      "\u00e9l"
+      "cual",
+      "cual"
     ],
     [
-      "lo",
-      "\u00e9l"
+      "que",
+      "que"
     ],
     [
-      "le",
-      "\u00e9l"
-    ],
-    [
-      "la",
-      "\u00e9l"
-    ],
-    [
-      "los",
-      "\u00e9l"
-    ],
-    [
-      "las",
-      "\u00e9l"
-    ],
-    [
-      "les",
-      "\u00e9l"
-    ],
-    [
-      "ello",
-      "\u00e9l"
-    ],
-    [
-      "ellos",
-      "\u00e9l"
-    ],
-    [
-      "ella",
-      "\u00e9l"
-    ],
-    [
-      "ellas",
-      "\u00e9l"
-    ],
-    [
-      "s\u00ed",
-      "\u00e9l"
-    ],
-    [
-      "consigo",
-      "\u00e9l"
-    ],
-    [
-      "mi",
-      "yo"
-    ],
-    [
-      "tu",
-      "t\u00fa"
-    ],
-    [
-      "su",
-      "su"
-    ],
-    [
-      "sus",
-      "su"
-    ],
-    [
-      "cuyo",
-      "cuyo"
-    ],
-    [
-      "cuyos",
+      "cuyas",
       "cuyo"
     ],
     [
@@ -4953,197 +4893,153 @@
       "cuyo"
     ],
     [
-      "cuyas",
+      "cuyos",
       "cuyo"
     ],
     [
-      "que",
-      "que"
+      "cuyo",
+      "cuyo"
     ],
     [
-      "cual",
-      "cual"
+      "sus",
+      "su"
     ],
     [
-      "cuales",
-      "cual"
+      "su",
+      "su"
     ],
     [
-      "quien",
-      "quien"
+      "tu",
+      "t\u00fa"
     ],
     [
-      "quienes",
-      "quien"
+      "mi",
+      "yo"
     ],
     [
-      "donde",
-      "donde"
+      "consigo",
+      "\u00e9l"
     ],
     [
-      "como",
-      "como"
+      "s\u00ed",
+      "\u00e9l"
     ],
     [
-      "cuando",
-      "cuando"
+      "ellas",
+      "\u00e9l"
     ],
     [
-      "qu\u00e9",
-      "qu\u00e9"
+      "ella",
+      "\u00e9l"
     ],
     [
-      "cu\u00e1l",
-      "cu\u00e1l"
+      "ellos",
+      "\u00e9l"
     ],
     [
-      "cu\u00e1les",
-      "cu\u00e1l"
+      "ello",
+      "\u00e9l"
     ],
     [
-      "qui\u00e9n",
-      "qui\u00e9n"
+      "les",
+      "\u00e9l"
     ],
     [
-      "qui\u00e9nes",
-      "qui\u00e9n"
+      "las",
+      "\u00e9l"
     ],
     [
-      "d\u00f3nde",
-      "d\u00f3nde"
+      "los",
+      "\u00e9l"
     ],
     [
-      "c\u00f3mo",
-      "c\u00f3mo"
+      "la",
+      "\u00e9l"
     ],
     [
-      "cu\u00e1ndo",
-      "cu\u00e1ndo"
+      "le",
+      "\u00e9l"
+    ],
+    [
+      "lo",
+      "\u00e9l"
+    ],
+    [
+      "\u00e9l",
+      "\u00e9l"
+    ],
+    [
+      "usted",
+      "usted"
+    ],
+    [
+      "os",
+      "t\u00fa"
+    ],
+    [
+      "ustedes",
+      "t\u00fa"
+    ],
+    [
+      "vosotros",
+      "t\u00fa"
+    ],
+    [
+      "contigo",
+      "t\u00fa"
+    ],
+    [
+      "ti",
+      "t\u00fa"
+    ],
+    [
+      "te",
+      "t\u00fa"
+    ],
+    [
+      "t\u00fa",
+      "t\u00fa"
+    ],
+    [
+      "nos",
+      "yo"
+    ],
+    [
+      "nosotros",
+      "yo"
+    ],
+    [
+      "conmigo",
+      "yo"
+    ],
+    [
+      "m\u00ed",
+      "yo"
+    ],
+    [
+      "me",
+      "yo"
+    ],
+    [
+      "yo",
+      "yo"
     ]
   ],
   "det_and_pron_fixed":[
     [
-      "uno",
-      "uno"
+      "tales",
+      "tal"
     ],
     [
-      "un",
-      "uno"
+      "cualquier",
+      "cualquiera"
     ],
     [
-      "\u00fan",
-      "uno"
+      "cualquiera",
+      "cualquiera"
     ],
     [
-      "unos",
-      "uno"
-    ],
-    [
-      "una",
-      "uno"
-    ],
-    [
-      "unas",
-      "uno"
-    ],
-    [
-      "alg\u00fan",
-      "alguno"
-    ],
-    [
-      "ning\u00fan",
-      "ninguno"
-    ],
-    [
-      "este",
-      "este"
-    ],
-    [
-      "\u00e9ste",
-      "este"
-    ],
-    [
-      "esto",
-      "este"
-    ],
-    [
-      "\u00e9sto",
-      "este"
-    ],
-    [
-      "estos",
-      "este"
-    ],
-    [
-      "\u00e9stos",
-      "este"
-    ],
-    [
-      "esta",
-      "este"
-    ],
-    [
-      "\u00e9sta",
-      "este"
-    ],
-    [
-      "estas",
-      "este"
-    ],
-    [
-      "\u00e9stas",
-      "este"
-    ],
-    [
-      "ese",
-      "ese"
-    ],
-    [
-      "\u00e9se",
-      "ese"
-    ],
-    [
-      "eso",
-      "ese"
-    ],
-    [
-      "\u00e9so",
-      "ese"
-    ],
-    [
-      "esos",
-      "ese"
-    ],
-    [
-      "\u00e9sos",
-      "ese"
-    ],
-    [
-      "esa",
-      "ese"
-    ],
-    [
-      "\u00e9sa",
-      "ese"
-    ],
-    [
-      "esas",
-      "ese"
-    ],
-    [
-      "\u00e9sas",
-      "ese"
-    ],
-    [
-      "aquel",
-      "aquel"
-    ],
-    [
-      "aquello",
-      "aquel"
-    ],
-    [
-      "aquellos",
+      "aquellas",
       "aquel"
     ],
     [
@@ -5151,115 +5047,151 @@
       "aquel"
     ],
     [
-      "aquellas",
+      "aquellos",
       "aquel"
     ],
     [
-      "cualquiera",
-      "cualquiera"
+      "aquello",
+      "aquel"
     ],
     [
-      "cualquier",
-      "cualquiera"
+      "aquel",
+      "aquel"
     ],
     [
-      "tales",
-      "tal"
+      "\u00e9sas",
+      "ese"
+    ],
+    [
+      "esas",
+      "ese"
+    ],
+    [
+      "\u00e9sa",
+      "ese"
+    ],
+    [
+      "esa",
+      "ese"
+    ],
+    [
+      "\u00e9sos",
+      "ese"
+    ],
+    [
+      "esos",
+      "ese"
+    ],
+    [
+      "\u00e9so",
+      "ese"
+    ],
+    [
+      "eso",
+      "ese"
+    ],
+    [
+      "\u00e9se",
+      "ese"
+    ],
+    [
+      "ese",
+      "ese"
+    ],
+    [
+      "\u00e9stas",
+      "este"
+    ],
+    [
+      "estas",
+      "este"
+    ],
+    [
+      "\u00e9sta",
+      "este"
+    ],
+    [
+      "esta",
+      "este"
+    ],
+    [
+      "\u00e9stos",
+      "este"
+    ],
+    [
+      "estos",
+      "este"
+    ],
+    [
+      "\u00e9sto",
+      "este"
+    ],
+    [
+      "esto",
+      "este"
+    ],
+    [
+      "\u00e9ste",
+      "este"
+    ],
+    [
+      "este",
+      "este"
+    ],
+    [
+      "ning\u00fan",
+      "ninguno"
+    ],
+    [
+      "alg\u00fan",
+      "alguno"
+    ],
+    [
+      "unas",
+      "uno"
+    ],
+    [
+      "una",
+      "uno"
+    ],
+    [
+      "unos",
+      "uno"
+    ],
+    [
+      "\u00fan",
+      "uno"
+    ],
+    [
+      "un",
+      "uno"
+    ],
+    [
+      "uno",
+      "uno"
     ]
   ],
   "det_and_pron_general":[
     [
-      "s",
-      ""
+      "as",
+      "os"
+    ],
+    [
+      "as",
+      "o"
     ],
     [
       "a",
       "o"
     ],
     [
-      "as",
-      "o"
-    ],
-    [
-      "as",
-      "os"
+      "s",
+      ""
     ]
   ],
   "num":[
     [
-      "una",
-      "uno"
-    ],
-    [
-      "cientos",
-      "ciento"
-    ],
-    [
-      "cientas",
-      "ciento"
-    ],
-    [
-      "doscientas",
-      "doscientos"
-    ],
-    [
-      "trescientas",
-      "trescientos"
-    ],
-    [
-      "cuatrocientas",
-      "cuatrocientos"
-    ],
-    [
-      "quinientas",
-      "quinientos"
-    ],
-    [
-      "seiscientas",
-      "seiscientos"
-    ],
-    [
-      "setecientas",
-      "setecientos"
-    ],
-    [
-      "ochocientas",
-      "ochocientos"
-    ],
-    [
-      "novecientas",
-      "novecientos"
-    ],
-    [
-      "miles",
-      "mil"
-    ],
-    [
-      "decenas",
-      "decena"
-    ],
-    [
-      "ambas",
-      "ambos"
-    ],
-    [
-      "media",
-      "medio"
-    ],
-    [
-      "d\u00e9cimos",
-      "d\u00e9cimo"
-    ],
-    [
-      "d\u00e9cima",
-      "d\u00e9cimo"
-    ],
-    [
-      "d\u00e9cimas",
-      "d\u00e9cimo"
-    ],
-    [
-      "cent\u00e9simos",
+      "cent\u00e9simas",
       "cent\u00e9simo"
     ],
     [
@@ -5267,30 +5199,102 @@
       "cent\u00e9simo"
     ],
     [
-      "cent\u00e9simas",
+      "cent\u00e9simos",
       "cent\u00e9simo"
+    ],
+    [
+      "d\u00e9cimas",
+      "d\u00e9cimo"
+    ],
+    [
+      "d\u00e9cima",
+      "d\u00e9cimo"
+    ],
+    [
+      "d\u00e9cimos",
+      "d\u00e9cimo"
+    ],
+    [
+      "media",
+      "medio"
+    ],
+    [
+      "ambas",
+      "ambos"
+    ],
+    [
+      "decenas",
+      "decena"
+    ],
+    [
+      "miles",
+      "mil"
+    ],
+    [
+      "novecientas",
+      "novecientos"
+    ],
+    [
+      "ochocientas",
+      "ochocientos"
+    ],
+    [
+      "setecientas",
+      "setecientos"
+    ],
+    [
+      "seiscientas",
+      "seiscientos"
+    ],
+    [
+      "quinientas",
+      "quinientos"
+    ],
+    [
+      "cuatrocientas",
+      "cuatrocientos"
+    ],
+    [
+      "trescientas",
+      "trescientos"
+    ],
+    [
+      "doscientas",
+      "doscientos"
+    ],
+    [
+      "cientas",
+      "ciento"
+    ],
+    [
+      "cientos",
+      "ciento"
+    ],
+    [
+      "una",
+      "uno"
     ]
   ],
   "accents":[
     [
-      "\u00e1",
-      "a"
-    ],
-    [
-      "\u00e9",
-      "e"
-    ],
-    [
-      "\u00ed",
-      "i"
+      "\u00fa",
+      "u"
     ],
     [
       "\u00f3",
       "o"
     ],
     [
-      "\u00fa",
-      "u"
+      "\u00ed",
+      "i"
+    ],
+    [
+      "\u00e9",
+      "e"
+    ],
+    [
+      "\u00e1",
+      "a"
     ]
   ]
 }
