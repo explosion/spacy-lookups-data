@@ -119,6 +119,14 @@ def ro_nlp():
 
 
 @pytest.fixture(scope="session")
+def ru_lookup_nlp():
+    nlp = spacy.blank("ru")
+    nlp.add_pipe("lemmatizer", config={"mode": "lookup"})
+    nlp.initialize()
+    return nlp
+
+
+@pytest.fixture(scope="session")
 def sr_nlp():
     nlp = spacy.blank("sr")
     nlp.add_pipe("lemmatizer")
