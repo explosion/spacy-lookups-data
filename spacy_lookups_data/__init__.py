@@ -108,7 +108,10 @@ lb = {
     "lemma_lookup": get_file("lb_lemma_lookup.json"),
     "lexeme_norm": get_file("lb_lexeme_norm.json"),
 }
-ru = {"lexeme_norm": get_file("ru_lexeme_norm.json")}
+ru = {
+    "lexeme_norm": get_file("ru_lexeme_norm.json"),
+    "lemma_lookup": get_file("ru_lemma_lookup.json"),
+}
 ta = {"lexeme_norm": get_file("ta_lexeme_norm.json")}
 th = {"lexeme_norm": get_file("th_lexeme_norm.json")}
 pl = {
