@@ -59,7 +59,20 @@ de = {
     "lexeme_settings": get_file("de_lexeme_settings.json"),
     "orth_variants": get_file("de_orth_variants.json"),
 }
-it = {"lemma_lookup": get_file("it_lemma_lookup.json")}
+it = {
+    "lemma_lookup": get_file("it_lemma_lookup.json"),
+    "lemma_lookup_num": get_file("it_lemma_lookup_num.json"),
+    "lemma_lookup_det": get_file("it_lemma_lookup_det.json"),
+    "lemma_lookup_adp": get_file("it_lemma_lookup_adp.json"),
+    "lemma_lookup_adj": get_file("it_lemma_lookup_adj.json"),
+    "lemma_lookup_noun": get_file("it_lemma_lookup_noun.json"),
+    "lemma_lookup_pron": get_file("it_lemma_lookup_pron.json"),
+    "lemma_lookup_verb": get_file("it_lemma_lookup_verb.json"),
+    "lemma_lookup_aux": get_file("it_lemma_lookup_aux.json"),
+    "lemma_lookup_adv": get_file("it_lemma_lookup_adv.json"),
+    "lemma_lookup_other": get_file("it_lemma_lookup_other.json"),
+    "lemma_lookup_legacy": get_file("it_lemma_lookup_legacy.json"),
+}
 lt = {"lemma_lookup": get_file("lt_lemma_lookup.json")}
 nl = {
     "lemma_rules": get_file("nl_lemma_rules.json"),
