@@ -8,6 +8,13 @@ def get_file(filename):
     return pkg_resources.resource_filename(__name__, os.path.join("data", filename))
 
 
+mk = {
+    "lemma_lookup": get_file("mk_lemma_lookup.json"),
+    "lemma_rules": get_file("mk_lemma_rules.json"),
+    "lemma_index": get_file("mk_lemma_index.json"),
+    "lemma_exc": get_file("mk_lemma_exc.json"),
+    "lexeme_norm": get_file("mk_lexeme_norm.json"),
+}
 hr = {"lemma_lookup": get_file("hr_lemma_lookup.json")}
 pt = {
     "lemma_lookup": get_file("pt_lemma_lookup.json"),
@@ -24,6 +31,10 @@ da = {
 ca = {"lemma_lookup": get_file("ca_lemma_lookup.json")}
 es = {
     "lemma_lookup": get_file("es_lemma_lookup.json"),
+    "lemma_exc": get_file("es_lemma_exc.json"),
+    "lemma_index": get_file("es_lemma_index.json"),
+    "lemma_rules": get_file("es_lemma_rules.json"),
+    "lemma_rules_groups": get_file("es_lemma_rules_groups.json"),
     "lexeme_cluster": get_file("es_lexeme_cluster.json"),
     "lexeme_prob": get_file("es_lexeme_prob.json"),
     "lexeme_settings": get_file("es_lexeme_settings.json"),
@@ -110,4 +121,8 @@ pl = {
     "lemma_lookup_part": get_file("pl_lemma_lookup_part.json"),
     "lemma_lookup_pron": get_file("pl_lemma_lookup_pron.json"),
     "lemma_lookup_verb": get_file("pl_lemma_lookup_verb.json"),
+}
+cs = {
+    "lemma_lookup": get_file("cs_lemma_lookup.json"),
+    "lexeme_norm": get_file("cs_lexeme_norm.json"),
 }

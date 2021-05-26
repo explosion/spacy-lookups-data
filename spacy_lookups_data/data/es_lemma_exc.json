@@ -1,0 +1,23 @@
+{
+    "adj": {
+        "primer": ["primero"]
+    },
+    "det": {
+        "lo": ["el"],
+        "la": ["el"],
+        "los": ["el"],
+        "las": ["el"],
+	"un": ["uno"],
+	"uno": ["uno"],
+	"una": ["uno"],
+	"unos": ["uno"],
+	"unas": ["uno"]
+    },
+    "pron": {
+        "lo": ["él"],
+        "la": ["él"],
+        "los": ["él"],
+        "las": ["él"],
+        "se": ["él"]
+    }
+}
