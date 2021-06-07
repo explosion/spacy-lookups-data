@@ -1,0 +1,80 @@
+The lookup files in .json format and the binary file in spaCy .bin format
+were produced by Giovanni Toffoli to be exploited by a POS-aware lemmatizer
+that he developed for spaCy, following an approach inspired by the Polish lemmatizer.
+
+The list of Italian lemmas with POS tags was extracted from the morphological lexicon
+morph-it, version 48, by Marco Baroni and Eros Zanchetta:
+https://docs.sslmit.unibo.it/lib/exe/fetch.php?media=resources:morph-it.tgz
+A small amount of lemmas in the binary file are still taken from the lookup file
+it_lemma_lookup.json, already present in version 3.0.0 of the Italian language models.
+
+The copyright, licence and credits information below was copied on May 2021
+from the morph-it documentation at 
+https://docs.sslmit.unibo.it/doku.php?id=resources:morph-it
+Moreover, on May 2021 Giovanni Toffoli got from Marco Baroni, the main morph-it developer,
+this written statement:
+"non ho problemi riguardo all'idea che morph-it venga incorporato in un tool open source"
+(I have no objection to morph-it being incorporated into an open source tool).
+
+LICENSING INFORMATION
+
+This program is dual-licensed free software;
+you can redistribute it and/or modify it under the terms of
+- the Creative Commons Attribution ShareAlike 2.0 License
+- and the GNU Lesser General Public License.
+
+Creative Commons Attribution ShareAlike 2.0
+-------------------------------------------
+
+Morph-it! is licensed under the Creative Commons Attribution ShareAlike 2.0 License.
+
+You are free:
+    to copy, distribute and display the resource;
+    to make derivative works;
+    to make commercial use of the resource;
+under the following conditions:
+    you must give the original authors credit;
+    if you alter, transform, or build upon this work, you may distribute the resulting work only under a license identical to this one;
+    for any reuse or distribution, you must make clear to others the license terms of this work;
+    any of these conditions can be waived if you get permission from the copyright holders.
+
+Your fair use and other rights are in no way affected by the above.
+
+You can find a link to the full license from the Morph-it! website.
+
+Copyright (C) 2004-2007 Marco Baroni and Eros Zanchetta.
+
+GNU Lesser General Public License
+---------------------------------
+
+Morph-it! A free morphological lexicon for the Italian Language Copyright (C) 2004-2007 Marco Baroni and Eros Zanchetta
+
+This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
+
+CREDITS
+
+The main data source for the Morph-it! lexicon was the “la Repubblica” corpus. Thus, we would like to thank the colleagues who developed this resource with us: Lorenzo Piccioni, Guy Aston, Silvia Bernardini, Federica Comastri, Alessandra Volpi and Marco Mazzoleni.
+
+We would like to thank the developers of the tools we used to tag, lemmatize and index the Repubblica corpus: the (Italian) TreeTagger (Helmut Schmid, Achim Stein), the ACOPOST taggers (Ingo Schroeder) and the IMS Corpus WorkBench (Oli Christ, Arne Fitschen and Stefan Evert).
+
+Thanks to Helmut Schmid also for converting the Morph-it! lexicon into a SFST transducer.
+
+We would like to thank Aldo Calpini</a>, who developed the perl module Lingua:IT:Conjugate.
+
+We are also very grateful to Jan Daciuk for creating his finite-state utilities and for helping us learn to use them.
+
+Finally, a big thanks to the members of the FoLUG, SannioLUG and Scuola (software libero nella scuola) mailing lists, for advice about licensing and dissemination.
+
+BIBTEX
+
+@INPROCEEDINGS{Zanchetta05morph-it!a,
+    author = {Eros Zanchetta and Marco Baroni},
+    title = { Morph-it! A free corpus-based morphological resource for the Italian language},
+    booktitle = {IN: PROCEEDINGS OF CORPUS LINGUISTICS, HTTP://DEV.SSLMIT.UNIBO.IT/LINGUISTICS/MORPH-IT.PHP},
+    year = {2005},
+    publisher = {}
+}
