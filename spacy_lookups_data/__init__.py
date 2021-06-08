@@ -28,7 +28,12 @@ da = {
     "lemma_lookup": get_file("da_lemma_lookup.json"),
     "lexeme_norm": get_file("da_lexeme_norm.json"),
 }
-ca = {"lemma_lookup": get_file("ca_lemma_lookup.json")}
+ca = {
+    "lemma_lookup": get_file("ca_lemma_lookup.json"),
+    "lemma_exc": get_file("ca_lemma_exc.json"),
+    "lemma_index": get_file("ca_lemma_index.json"),
+    "lemma_rules": get_file("ca_lemma_rules.json"),
+}
 es = {
     "lemma_lookup": get_file("es_lemma_lookup.json"),
     "lemma_exc": get_file("es_lemma_exc.json"),

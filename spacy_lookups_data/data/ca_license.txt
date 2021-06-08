@@ -1,0 +1,4 @@
+The Catalan lemmatizer tables were developed by the Text Mining Unit at the
+Barcelona Supercomputing Center.
+
+License: CC0 (Public Domain)
