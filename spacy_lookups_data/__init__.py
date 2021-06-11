@@ -76,7 +76,6 @@ it = {
     "lemma_lookup_aux": get_file("it_lemma_lookup_aux.json"),
     "lemma_lookup_adv": get_file("it_lemma_lookup_adv.json"),
     "lemma_lookup_other": get_file("it_lemma_lookup_other.json"),
-    "lemma_lookup_legacy": get_file("it_lemma_lookup_legacy.json"),
 }
 lt = {"lemma_lookup": get_file("lt_lemma_lookup.json")}
 nl = {
