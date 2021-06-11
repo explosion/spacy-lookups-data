@@ -79,6 +79,14 @@ def hr_nlp():
 
 
 @pytest.fixture(scope="session")
+def it_lookup_nlp():
+    nlp = spacy.blank("it")
+    nlp.add_pipe("lemmatizer", config={"mode": "lookup"})
+    nlp.initialize()
+    return nlp
+
+
+@pytest.fixture(scope="session")
 def lb_nlp():
     nlp = spacy.blank("lb")
     nlp.config["initialize"]["lookups"] = INIT_LOOKUPS_CONFIG
