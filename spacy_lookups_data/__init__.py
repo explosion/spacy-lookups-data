@@ -146,3 +146,8 @@ cs = {
     "lemma_lookup": get_file("cs_lemma_lookup.json"),
     "lexeme_norm": get_file("cs_lexeme_norm.json"),
 }
+
+grc = {
+    "lemma_lookup": get_file("grc_lemma_lookup.json"),
+    "lexeme_norm": get_file("grc_lexeme_norm.json"),
+}

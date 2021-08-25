@@ -71,6 +71,14 @@ def fr_lookup_nlp():
 
 
 @pytest.fixture(scope="session")
+def grc_nlp():
+    nlp = spacy.blank("grc")
+    nlp.add_pipe("lemmatizer")
+    nlp.initialize()
+    return nlp
+
+
+@pytest.fixture(scope="session")
 def hr_nlp():
     nlp = spacy.blank("hr")
     nlp.add_pipe("lemmatizer")
