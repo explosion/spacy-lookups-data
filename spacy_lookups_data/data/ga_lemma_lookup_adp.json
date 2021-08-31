@@ -1,13 +1,16 @@
 {
+  "ag": "ag",
   "agat": "ag",
   "agam": "ag",
   "aige": "ag",
   "acu": "ag",
+  "acub": "ag",
   "agaibh": "ag",
   "againn": "ag",
   "aici": "ag",
   "orainn": "ar",
   "uirthi": "ar",
+  "ar": "ar",
   "ort": "ar",
   "orm": "ar",
   "orthu": "ar",
@@ -19,6 +22,7 @@
   "asainn": "as",
   "aisti": "as",
   "astu": "as",
+  "astub": "as",
   "asat": "as",
   "chuige": [
     "chuig",
@@ -63,7 +67,9 @@
   "d\u00fainn": "do",
   "d\u00f3ibh": "do",
   "dom": "do",
+  "dhom": "do",
   "duit": "do",
+  "dhuit": "do",
   "f\u00fat": "faoi",
   "f\u00faithi": "faoi",
   "f\u00faibh": "faoi",
@@ -82,6 +88,7 @@
   "inti": "i",
   "ionaibh": "i",
   "leo": "le",
+  "leob": "le",
   "leis": "le",
   "liom": "le",
   "libh": "le",
@@ -124,3 +131,4 @@
   "uaidh": "\u00f3",
   "uaibh": "\u00f3"
 }
+
