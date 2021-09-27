@@ -50,6 +50,12 @@ fr = {
     "lemma_exc": get_file("fr_lemma_exc.json"),
     "lemma_lookup": get_file("fr_lemma_lookup.json"),
 }
+ga = {
+    "lemma_lookup_adj": get_file("ga_lemma_lookup_adj.json"),
+    "lemma_lookup_adp": get_file("ga_lemma_lookup_adp.json"),
+    "lemma_lookup_noun": get_file("ga_lemma_lookup_noun.json"),
+    "lemma_lookup_verb": get_file("ga_lemma_lookup_verb.json"),
+}
 nb = {
     "lemma_lookup": get_file("nb_lemma_lookup.json"),
     "lemma_exc": get_file("nb_lemma_exc.json"),
