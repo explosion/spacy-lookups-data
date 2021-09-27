@@ -31995,6 +31995,12 @@
     "mateixes": [
       "mateix"
     ],
+    "mateix": [
+      "mateix"
+    ],
+    "mateixos": [
+      "mateix"
+    ],
     "matemàtic": [
       "matemàtic"
     ],
@@ -46338,6 +46344,9 @@
     "seva": [
       "seu"
     ],
+    "seves": [
+      "seu"
+    ],
     "sever": [
       "sever"
     ],
@@ -53939,6 +53948,15 @@
     "a": [
       "a"
     ],
+    "d": [
+      "de"
+    ],
+    "d'": [
+      "de"
+    ],
+    "p": [
+      "per"
+    ],
     "al": [
       "al"
     ],
@@ -54064,6 +54082,15 @@
     ],
     "vora": [
       "vora"
+    ],
+    "l": [
+      "el"
+    ],
+     "ls": [
+      "el"
+    ],
+     "els": [
+      "el"
     ]
   },
   "cconj": {
@@ -54116,6 +54143,27 @@
     ],
     "alguns": [
       "algun"
+    ],
+    "altre": [
+      "altre"
+    ],
+    "altra": [
+      "altre"
+    ],
+    "altres": [
+      "altre"
+    ],
+    "aquest": [
+      "aquest"
+    ],
+    "aquesta": [
+      "aquest"
+    ],
+    "aquestes": [
+      "aquest"
+    ],
+    "aquests": [
+      "aquest"
     ],
     "bastant": [
       "bastant"
@@ -54210,6 +54258,12 @@
     "divuit": [
       "divuit"
     ],
+    "diferents": [
+      "diferent"
+    ],
+    "diverses": [
+      "divers"
+    ],
     "dos": [
       "dos"
     ],
@@ -54261,7 +54315,16 @@
     "l": [
       "el"
     ],
+    "d": [
+      "de"
+    ],
+    "p": [
+      "per"
+    ],
     "l'": [
+      "el"
+    ],
+    "ls": [
       "el"
     ],
     "la": [
@@ -54281,6 +54344,18 @@
     ],
     "massa": [
       "massa"
+    ],
+    "mateixa": [
+      "mateixa"
+    ],
+    "mateixes": [
+      "mateixa"
+    ],
+    "mateix": [
+      "mateix"
+    ],
+    "mateixos": [
+      "mateix"
     ],
     "menys": [
       "menys"
@@ -54306,7 +54381,25 @@
     "molt": [
       "molt"
     ],
+    "molta": [
+      "molt"
+    ],
+    "molts": [
+      "molt"
+    ],
+    "moltes": [
+      "molt"
+    ],
     "moltíssim": [
+      "moltíssim"
+    ],
+    "moltíssima": [
+      "moltíssim"
+    ],
+    "moltíssims": [
+      "moltíssim"
+    ],
+    "moltíssimes": [
       "moltíssim"
     ],
     "mon": [
@@ -54597,6 +54690,18 @@
     "setze": [
       "setze"
     ],
+     "seu": [
+      "seu"
+    ],
+    "seus": [
+      "seu"
+    ],
+    "seva": [
+      "seu"
+    ],
+    "seves": [
+      "seu"
+    ],
     "sis": [
       "sis"
     ],
@@ -54628,6 +54733,12 @@
       "tot"
     ],
     "tots": [
+      "tot"
+    ],
+    "tota": [
+      "tot"
+    ],
+    "totes": [
       "tot"
     ],
     "trenta": [
@@ -54694,6 +54805,15 @@
       "tretze"
     ],
     "una": [
+      "un"
+    ],
+    "unes": [
+      "un"
+    ],
+    "un": [
+      "un"
+    ],
+    "uns": [
       "un"
     ],
     "vint": [
@@ -65824,6 +65944,12 @@
     ],
     "bolca": [
       "bolca"
+    ],
+     "bola": [
+      "bola"
+    ],
+     "boles": [
+      "bola"
     ],
     "bolcada": [
       "bolcada"
@@ -101846,6 +101972,12 @@
     "mateixes": [
       "mateixa"
     ],
+    "mateix": [
+      "mateix"
+    ],
+    "mateixos": [
+      "mateix"
+    ],
     "matemàtic": [
       "matemàtic"
     ],
@@ -135781,9 +135913,6 @@
     "auxiliaries": [
       "auxiliar"
     ],
-    "av": [
-      "avenir-se"
-    ],
     "aval": [
       "avalar"
     ],
@@ -163406,7 +163535,7 @@
       "vogar"
     ],
     "vol": [
-      "volar"
+      "voler"
     ],
     "volada": [
       "volar"
@@ -163830,9 +163959,834 @@
     ],
     "ús": [
       "usar"
+    ],
+    "anam": [
+      "anar"
+    ],
+    "anar": [
+      "anar"
+    ],
+    "anara": [
+      "anar"
+    ],
+    "anaren": [
+      "anar"
+    ],
+    "anares": [
+      "anar"
+    ],
+    "anassen": [
+      "anar"
+    ],
+    "anasses": [
+      "anar"
+    ],
+    "anassin": [
+      "anar"
+    ],
+    "anassis": [
+      "anar"
+    ],
+    "anat": [
+      "anar"
+    ],
+    "anats": [
+      "anar"
+    ],
+    "anau": [
+      "anar"
+    ],
+    "anava": [
+      "anar"
+    ],
+    "anaven": [
+      "anar"
+    ],
+    "anaves": [
+      "anar"
+    ],
+    "anem": [
+      "anar"
+    ],
+    "anessen": [
+      "anar"
+    ],
+    "anesses": [
+      "anar"
+    ],
+    "anessin": [
+      "anar"
+    ],
+    "anessis": [
+      "anar"
+    ],
+    "aneu": [
+      "anar"
+    ],
+    "aniran": [
+      "anar"
+    ],
+    "anirem": [
+      "anar"
+    ],
+    "anireu": [
+      "anar"
+    ],
+    "aniria": [
+      "anar"
+    ],
+    "anirien": [
+      "anar"
+    ],
+    "aniries": [
+      "anar"
+    ],
+    "anirà": [
+      "anar"
+    ],
+    "aniràs": [
+      "anar"
+    ],
+    "aniré": [
+      "anar"
+    ],
+    "aniríem": [
+      "anar"
+    ],
+    "aniríeu": [
+      "anar"
+    ],
+    "anà": [
+      "anar"
+    ],
+    "anàrem": [
+      "anar"
+    ],
+    "anàreu": [
+      "anar"
+    ],
+    "anàssem": [
+      "anar"
+    ],
+    "anàsseu": [
+      "anar"
+    ],
+    "anàssim": [
+      "anar"
+    ],
+    "anàssiu": [
+      "anar"
+    ],
+    "anàvem": [
+      "anar"
+    ],
+    "anàveu": [
+      "anar"
+    ],
+    "anés": [
+      "anar"
+    ],
+    "anéssem": [
+      "anar"
+    ],
+    "anésseu": [
+      "anar"
+    ],
+    "anéssim": [
+      "anar"
+    ],
+    "anéssiu": [
+      "anar"
+    ],
+    "estan": [
+      "estar"
+    ],
+    "estar": [
+      "estar"
+    ],
+    "estaran": [
+      "estar"
+    ],
+    "estarem": [
+      "estar"
+    ],
+    "estareu": [
+      "estar"
+    ],
+    "estarien": [
+      "estar"
+    ],
+    "estarà": [
+      "estar"
+    ],
+    "estaré": [
+      "estar"
+    ],
+    "estaríem": [
+      "estar"
+    ],
+    "estaríeu": [
+      "estar"
+    ],
+    "estau": [
+      "estar"
+    ],
+    "estava": [
+      "estar"
+    ],
+    "estaven": [
+      "estar"
+    ],
+    "estaves": [
+      "estar"
+    ],
+    "estem": [
+      "estar"
+    ],
+    "esteu": [
+      "estar"
+    ],
+    "estiga": [
+      "estar"
+    ],
+    "estiguem": [
+      "estar"
+    ],
+    "estiguen": [
+      "estar"
+    ],
+    "estiguera": [
+      "estar"
+    ],
+    "estigueren": [
+      "estar"
+    ],
+    "estigueres": [
+      "estar"
+    ],
+    "estigues": [
+      "estar"
+    ],
+    "estiguessen": [
+      "estar"
+    ],
+    "estiguesses": [
+      "estar"
+    ],
+    "estiguessin": [
+      "estar"
+    ],
+    "estiguessis": [
+      "estar"
+    ],
+    "estigueu": [
+      "estar"
+    ],
+    "estigui": [
+      "estar"
+    ],
+    "estiguin": [
+      "estar"
+    ],
+    "estiguis": [
+      "estar"
+    ],
+    "estigué": [
+      "estar"
+    ],
+    "estiguérem": [
+      "estar"
+    ],
+    "estiguéreu": [
+      "estar"
+    ],
+    "estigués": [
+      "estar"
+    ],
+    "estiguéssem": [
+      "estar"
+    ],
+    "estiguésseu": [
+      "estar"
+    ],
+    "estiguéssim": [
+      "estar"
+    ],
+    "estiguéssiu": [
+      "estar"
+    ],
+    "estiguí": [
+      "estar"
+    ],
+    "està": [
+      "estar"
+    ],
+    "estàvem": [
+      "estar"
+    ],
+    "estàveu": [
+      "estar"
+    ],
+    "facem": [
+      "fer"
+    ],
+    "facen": [
+      "fer"
+    ],
+    "faces": [
+      "fer"
+    ],
+    "faceu": [
+      "fer"
+    ],
+    "faci": [
+      "fer"
+    ],
+    "facin": [
+      "fer"
+    ],
+    "facis": [
+      "fer"
+    ],
+    "faran": [
+      "fer"
+    ],
+    "farem": [
+      "fer"
+    ],
+    "fareu": [
+      "fer"
+    ],
+    "faria": [
+      "fer"
+    ],
+    "farien": [
+      "fer"
+    ],
+    "faries": [
+      "fer"
+    ],
+    "farà": [
+      "fer"
+    ],
+    "faràs": [
+      "fer"
+    ],
+    "faré": [
+      "fer"
+    ],
+    "faríem": [
+      "fer"
+    ],
+    "faríeu": [
+      "fer"
+    ],
+    "faça": [
+      "fer"
+    ],
+    "feia": [
+      "fer"
+    ],
+    "feien": [
+      "fer"
+    ],
+    "feies": [
+      "fer"
+    ],
+    "feim": [
+      "fer"
+    ],
+    "feis": [
+      "fer"
+    ],
+    "fent": [
+      "fer"
+    ],
+    "fessen": [
+      "fer"
+    ],
+    "fesses": [
+      "fer"
+    ],
+    "fessin": [
+      "fer"
+    ],
+    "fessis": [
+      "fer"
+    ],
+    "fiu": [
+      "fer"
+    ],
+    "fèiem": [
+      "fer"
+    ],
+    "fèieu": [
+      "fer"
+    ],
+    "fé": [
+      "fer"
+    ],
+    "férem": [
+      "fer"
+    ],
+    "féreu": [
+      "fer"
+    ],
+    "féssem": [
+      "fer"
+    ],
+    "fésseu": [
+      "fer"
+    ],
+    "féssim": [
+      "fer"
+    ],
+    "féssiu": [
+      "fer"
+    ],
+    "féu": [
+      "fer"
+    ],
+    "ten": [
+      "tenir"
+    ],
+    "tenc": [
+      "tenir"
+    ],
+    "tendran": [
+      "tenir"
+    ],
+    "tendrem": [
+      "tenir"
+    ],
+    "tendreu": [
+      "tenir"
+    ],
+    "tendria": [
+      "tenir"
+    ],
+    "tendrien": [
+      "tenir"
+    ],
+    "tendries": [
+      "tenir"
+    ],
+    "tendrà": [
+      "tenir"
+    ],
+    "tendràs": [
+      "tenir"
+    ],
+    "tendré": [
+      "tenir"
+    ],
+    "tendríem": [
+      "tenir"
+    ],
+    "tendríeu": [
+      "tenir"
+    ],
+    "tenen": [
+      "tenir"
+    ],
+    "tenguda": [
+      "tenir"
+    ],
+    "tengudes": [
+      "tenir"
+    ],
+    "tenguem": [
+      "tenir"
+    ],
+    "tengueren": [
+      "tenir"
+    ],
+    "tengueres": [
+      "tenir"
+    ],
+    "tengues": [
+      "tenir"
+    ],
+    "tenguessin": [
+      "tenir"
+    ],
+    "tenguessis": [
+      "tenir"
+    ],
+    "tengueu": [
+      "tenir"
+    ],
+    "tengui": [
+      "tenir"
+    ],
+    "tenguin": [
+      "tenir"
+    ],
+    "tenguis": [
+      "tenir"
+    ],
+    "tengut": [
+      "tenir"
+    ],
+    "tenguts": [
+      "tenir"
+    ],
+    "tengué": [
+      "tenir"
+    ],
+    "tenguérem": [
+      "tenir"
+    ],
+    "tenguéreu": [
+      "tenir"
+    ],
+    "tengués": [
+      "tenir"
+    ],
+    "tenguéssim": [
+      "tenir"
+    ],
+    "tenguéssiu": [
+      "tenir"
+    ],
+    "tenguí": [
+      "tenir"
+    ],
+    "tenia": [
+      "tenir"
+    ],
+    "tenien": [
+      "tenir"
+    ],
+    "tenies": [
+      "tenir"
+    ],
+    "tenim": [
+      "tenir"
+    ],
+    "tenint": [
+      "tenir"
+    ],
+    "tenir": [
+      "tenir"
+    ],
+    "teniu": [
+      "tenir"
+    ],
+    "teníem": [
+      "tenir"
+    ],
+    "teníeu": [
+      "tenir"
+    ],
+    "tin": [
+      "tenir"
+    ],
+    "tinc": [
+      "tenir"
+    ],
+    "tindran": [
+      "tenir"
+    ],
+    "tindre": [
+      "tenir"
+    ],
+    "tindrem": [
+      "tenir"
+    ],
+    "tindreu": [
+      "tenir"
+    ],
+    "tindria": [
+      "tenir"
+    ],
+    "tindrien": [
+      "tenir"
+    ],
+    "tindries": [
+      "tenir"
+    ],
+    "tindrà": [
+      "tenir"
+    ],
+    "tindràs": [
+      "tenir"
+    ],
+    "tindré": [
+      "tenir"
+    ],
+    "tindríem": [
+      "tenir"
+    ],
+    "tindríeu": [
+      "tenir"
+    ],
+    "tinga": [
+      "tenir"
+    ],
+    "tinguem": [
+      "tenir"
+    ],
+    "tinguen": [
+      "tenir"
+    ],
+    "tinguera": [
+      "tenir"
+    ],
+    "tingueren": [
+      "tenir"
+    ],
+    "tingueres": [
+      "tenir"
+    ],
+    "tingues": [
+      "tenir"
+    ],
+    "tinguessen": [
+      "tenir"
+    ],
+    "tinguesses": [
+      "tenir"
+    ],
+    "tinguessin": [
+      "tenir"
+    ],
+    "tinguessis": [
+      "tenir"
+    ],
+    "tingueu": [
+      "tenir"
+    ],
+    "tingui": [
+      "tenir"
+    ],
+    "tinguin": [
+      "tenir"
+    ],
+    "tinguis": [
+      "tenir"
+    ],
+    "tingut": [
+      "tenir"
+    ],
+    "tinguts": [
+      "tenir"
+    ],
+    "tingué": [
+      "tenir"
+    ],
+    "tinguérem": [
+      "tenir"
+    ],
+    "tinguéreu": [
+      "tenir"
+    ],
+    "tingués": [
+      "tenir"
+    ],
+    "tinguéssem": [
+      "tenir"
+    ],
+    "tinguésseu": [
+      "tenir"
+    ],
+    "tinguéssim": [
+      "tenir"
+    ],
+    "tinguéssiu": [
+      "tenir"
+    ],
+    "tinguí": [
+      "tenir"
+    ],
+    "té": [
+      "tenir"
+    ],
+    "vagen": [
+      "anar"
+    ],
+    "vages": [
+      "anar"
+    ],
+    "vagi": [
+      "anar"
+    ],
+    "vagin": [
+      "anar"
+    ],
+    "vagis": [
+      "anar"
+    ],
+    "vaig": [
+      "anar"
+    ],
+    "vaja": [
+      "anar"
+    ],
+    "vam": [
+      "anar"
+    ],
+    "vau": [
+      "anar"
+    ],
+    "vàrem": [
+      "anar"
+    ],
+    "vàreu": [
+      "anar"
+    ],
+    "vés": [
+      "anar"
+    ],
+    "eren": [
+      "ser"
+    ],
+    "essent": [
+      "ser"
+    ],
+    "foren": [
+      "ser"
+    ],
+    "fores": [
+      "ser"
+    ],
+    "fui": [
+      "ser"
+    ],
+    "fóra": [
+      "ser"
+    ],
+    "fórem": [
+      "ser"
+    ],
+    "fóreu": [
+      "ser"
+    ],
+    "fóssem": [
+      "ser"
+    ],
+    "fósseu": [
+      "ser"
+    ],
+    "fóssim": [
+      "ser"
+    ],
+    "fóssiu": [
+      "ser"
+    ],
+    "seran": [
+      "ser"
+    ],
+    "serem": [
+      "ser"
+    ],
+    "sereu": [
+      "ser"
+    ],
+    "sers": [
+      "ser"
+    ],
+    "serà": [
+      "ser"
+    ],
+    "seràs": [
+      "ser"
+    ],
+    "seré": [
+      "ser"
+    ],
+    "seríem": [
+      "ser"
+    ],
+    "seríeu": [
+      "ser"
+    ],
+    "siga": [
+      "ser"
+    ],
+    "sigam": [
+      "ser"
+    ],
+    "sigau": [
+      "ser"
+    ],
+    "siguda": [
+      "ser"
+    ],
+    "sigudes": [
+      "ser"
+    ],
+    "siguem": [
+      "ser"
+    ],
+    "siguen": [
+      "ser"
+    ],
+    "sigues": [
+      "ser"
+    ],
+    "sigueu": [
+      "ser"
+    ],
+    "sigui": [
+      "ser"
+    ],
+    "siguin": [
+      "ser"
+    ],
+    "siguis": [
+      "ser"
+    ],
+    "sigut": [
+      "ser"
+    ],
+    "siguts": [
+      "ser"
+    ],
+    "sét": [
+      "ser"
+    ],
+    "só": [
+      "ser"
+    ],
+    "sóc": [
+      "ser"
+    ],
+    "són": [
+      "ser"
+    ],
+    "érem": [
+      "ser"
+    ],
+    "éreu": [
+      "ser"
+    ],
+    "és": [
+      "ser"
     ]
   },
   "pron": {
+    "aquest": [
+      "aquest"
+    ],
+    "aquesta": [
+      "aquest"
+    ],
+    "aquestes": [
+      "aquest"
+    ],
+    "aquests": [
+      "aquest"
+    ],
+    "altre": [
+      "altre"
+    ],
+    "altra": [
+      "altre"
+    ],
+    "altres": [
+      "altre"
+    ],
     "'ls": [
       "lo"
     ],
@@ -163855,6 +164809,9 @@
       "nos"
     ],
     "es": [
+      "se"
+    ],
+    "-se": [
       "se"
     ],
     "et": [
@@ -163920,11 +164877,65 @@
     "te": [
       "te"
     ],
+    "tot": [
+      "tot"
+    ],
+    "tots": [
+      "tot"
+    ],
+    "tota": [
+      "tot"
+    ],
+    "totes": [
+      "tot"
+    ],
+    "qual": [
+      "qual"
+    ],
+    "quals": [
+      "qual"
+    ],
     "u": [
       "u"
     ],
     "vos": [
       "vos"
+    ],
+    "una": [
+      "un"
+    ],
+    "unes": [
+      "un"
+    ],
+    "un": [
+      "un"
+    ],
+    "uns": [
+      "un"
+    ],
+    "molt": [
+      "molt"
+    ],
+    "molta": [
+      "molt"
+    ],
+    "molts": [
+      "molt"
+    ],
+    "moltes": [
+      "molt"
+    ],
+    "moltíssim": [
+      "moltíssim"
+    ],
+    "moltíssima": [
+      "moltíssim"
+    ],
+    "moltíssims": [
+      "moltíssim"
+    ],
+    "moltíssimes": [
+      "moltíssim"
     ]
   },
   "sconj": {
@@ -164382,6 +165393,881 @@
     ],
     "àlies": [
       "àlies"
+    ]
+  },
+  "aux": {
+    "anada": [
+      "anar"
+    ],
+    "anades": [
+      "anar"
+    ],
+    "anant": [
+      "anar"
+    ],
+    "anàs": [
+      "anar"
+    ],
+    "aní": [
+      "anar"
+    ],
+    "era": [
+      "ser"
+    ],
+    "eres": [
+      "ser"
+    ],
+    "esser": [
+      "ser"
+    ],
+    "estada": [
+      "ser"
+    ],
+    "estades": [
+      "estar"
+    ],
+    "estam": [
+      "estar"
+    ],
+    "estant": [
+      "estar"
+    ],
+    "estaria": [
+      "estar"
+    ],
+    "estaries": [
+      "estar"
+    ],
+    "estaràs": [
+      "estar"
+    ],
+    "estat": [
+      "ser"
+    ],
+    "estats": [
+      "ser"
+    ],
+    "estic": [
+      "estar"
+    ],
+    "estàs": [
+      "estar"
+    ],
+    "ets": [
+      "ser"
+    ],
+    "fos": [
+      "ser"
+    ],
+    "fossin": [
+      "ser"
+    ],
+    "fossis": [
+      "ser"
+    ],
+    "fou": [
+      "ser"
+    ],
+    "ha": [
+      "haver"
+    ],
+    "hagen": [
+      "haver"
+    ],
+    "hages": [
+      "haver"
+    ],
+    "hagi": [
+      "haver"
+    ],
+    "hagin": [
+      "haver"
+    ],
+    "hagis": [
+      "haver"
+    ],
+    "haguda": [
+      "haver"
+    ],
+    "hagudes": [
+      "haver"
+    ],
+    "haguera": [
+      "haver"
+    ],
+    "hagueren": [
+      "haver"
+    ],
+    "hagueres": [
+      "haver"
+    ],
+    "haguessen": [
+      "haver"
+    ],
+    "haguesses": [
+      "haver"
+    ],
+    "haguessin": [
+      "haver"
+    ],
+    "haguessis": [
+      "haver"
+    ],
+    "hagut": [
+      "haver"
+    ],
+    "haguts": [
+      "haver"
+    ],
+    "hagué": [
+      "haver"
+    ],
+    "haguérem": [
+      "haver"
+    ],
+    "hagués": [
+      "haver"
+    ],
+    "haguéssem": [
+      "haver"
+    ],
+    "haguéssim": [
+      "haver"
+    ],
+    "haguéssiu": [
+      "haver"
+    ],
+    "haguí": [
+      "haver"
+    ],
+    "haig": [
+      "haver"
+    ],
+    "haja": [
+      "haver"
+    ],
+    "hauran": [
+      "haver"
+    ],
+    "haurem": [
+      "haver"
+    ],
+    "haureu": [
+      "haver"
+    ],
+    "hauria": [
+      "haver"
+    ],
+    "haurien": [
+      "haver"
+    ],
+    "hauries": [
+      "haver"
+    ],
+    "haurà": [
+      "haver"
+    ],
+    "hauràs": [
+      "haver"
+    ],
+    "hauré": [
+      "haver"
+    ],
+    "hauríem": [
+      "haver"
+    ],
+    "hauríeu": [
+      "haver"
+    ],
+    "havem": [
+      "haver"
+    ],
+    "havent": [
+      "haver"
+    ],
+    "haver": [
+      "haver"
+    ],
+    "haveu": [
+      "haver"
+    ],
+    "havia": [
+      "haver"
+    ],
+    "havien": [
+      "haver"
+    ],
+    "havies": [
+      "haver"
+    ],
+    "havíem": [
+      "haver"
+    ],
+    "havíeu": [
+      "haver"
+    ],
+    "he": [
+      "haver"
+    ],
+    "hem": [
+      "haver"
+    ],
+    "heu": [
+      "haver"
+    ],
+    "podem": [
+      "poder"
+    ],
+    "poden": [
+      "poder"
+    ],
+    "poder": [
+      "poder"
+    ],
+    "podeu": [
+      "poder"
+    ],
+    "podria": [
+      "poder"
+    ],
+    "podrien": [
+      "poder"
+    ],
+    "podries": [
+      "poder"
+    ],
+    "podríem": [
+      "poder"
+    ],
+    "podríeu": [
+      "poder"
+    ],
+    "pot": [
+      "poder"
+    ],
+    "pots": [
+      "poder"
+    ],
+    "seguda": [
+      "ser"
+    ],
+    "seguts": [
+      "ser"
+    ],
+    "ser": [
+      "ser"
+    ],
+    "sent": [
+      "ser"
+    ],
+    "seria": [
+      "ser"
+    ],
+    "serien": [
+      "ser"
+    ],
+    "series": [
+      "ser"
+    ],
+    "som": [
+      "ser"
+    ],
+    "sou": [
+      "ser"
+    ],
+    "va": [
+      "anar"
+    ],
+    "van": [
+      "anar"
+    ],
+    "varen": [
+      "anar"
+    ],
+    "vares": [
+      "anar"
+    ],
+    "vas": [
+      "anar"
+    ],
+    "ésser": [
+      "ser"
+    ],
+    "anam": [
+      "anar"
+    ],
+    "anar": [
+      "anar"
+    ],
+    "anara": [
+      "anar"
+    ],
+    "anaren": [
+      "anar"
+    ],
+    "anares": [
+      "anar"
+    ],
+    "anassen": [
+      "anar"
+    ],
+    "anasses": [
+      "anar"
+    ],
+    "anassin": [
+      "anar"
+    ],
+    "anassis": [
+      "anar"
+    ],
+    "anat": [
+      "anar"
+    ],
+    "anats": [
+      "anar"
+    ],
+    "anau": [
+      "anar"
+    ],
+    "anava": [
+      "anar"
+    ],
+    "anaven": [
+      "anar"
+    ],
+    "anaves": [
+      "anar"
+    ],
+    "anem": [
+      "anar"
+    ],
+    "anessen": [
+      "anar"
+    ],
+    "anesses": [
+      "anar"
+    ],
+    "anessin": [
+      "anar"
+    ],
+    "anessis": [
+      "anar"
+    ],
+    "aneu": [
+      "anar"
+    ],
+    "aniran": [
+      "anar"
+    ],
+    "anirem": [
+      "anar"
+    ],
+    "anireu": [
+      "anar"
+    ],
+    "aniria": [
+      "anar"
+    ],
+    "anirien": [
+      "anar"
+    ],
+    "aniries": [
+      "anar"
+    ],
+    "anirà": [
+      "anar"
+    ],
+    "aniràs": [
+      "anar"
+    ],
+    "aniré": [
+      "anar"
+    ],
+    "aniríem": [
+      "anar"
+    ],
+    "aniríeu": [
+      "anar"
+    ],
+    "anà": [
+      "anar"
+    ],
+    "anàrem": [
+      "anar"
+    ],
+    "anàreu": [
+      "anar"
+    ],
+    "anàssem": [
+      "anar"
+    ],
+    "anàsseu": [
+      "anar"
+    ],
+    "anàssim": [
+      "anar"
+    ],
+    "anàssiu": [
+      "anar"
+    ],
+    "anàvem": [
+      "anar"
+    ],
+    "anàveu": [
+      "anar"
+    ],
+    "anés": [
+      "anar"
+    ],
+    "anéssem": [
+      "anar"
+    ],
+    "anésseu": [
+      "anar"
+    ],
+    "anéssim": [
+      "anar"
+    ],
+    "anéssiu": [
+      "anar"
+    ],
+    "estan": [
+      "estar"
+    ],
+    "estar": [
+      "estar"
+    ],
+    "estaran": [
+      "estar"
+    ],
+    "estarem": [
+      "estar"
+    ],
+    "estareu": [
+      "estar"
+    ],
+    "estarien": [
+      "estar"
+    ],
+    "estarà": [
+      "estar"
+    ],
+    "estaré": [
+      "estar"
+    ],
+    "estaríem": [
+      "estar"
+    ],
+    "estaríeu": [
+      "estar"
+    ],
+    "estau": [
+      "estar"
+    ],
+    "estava": [
+      "estar"
+    ],
+    "estaven": [
+      "estar"
+    ],
+    "estaves": [
+      "estar"
+    ],
+    "estem": [
+      "estar"
+    ],
+    "esteu": [
+      "estar"
+    ],
+    "estiga": [
+      "estar"
+    ],
+    "estiguem": [
+      "estar"
+    ],
+    "estiguen": [
+      "estar"
+    ],
+    "estiguera": [
+      "estar"
+    ],
+    "estigueren": [
+      "estar"
+    ],
+    "estigueres": [
+      "estar"
+    ],
+    "estigues": [
+      "estar"
+    ],
+    "estiguessen": [
+      "estar"
+    ],
+    "estiguesses": [
+      "estar"
+    ],
+    "estiguessin": [
+      "estar"
+    ],
+    "estiguessis": [
+      "estar"
+    ],
+    "estigueu": [
+      "estar"
+    ],
+    "estigui": [
+      "estar"
+    ],
+    "estiguin": [
+      "estar"
+    ],
+    "estiguis": [
+      "estar"
+    ],
+    "estigué": [
+      "estar"
+    ],
+    "estiguérem": [
+      "estar"
+    ],
+    "estiguéreu": [
+      "estar"
+    ],
+    "estigués": [
+      "estar"
+    ],
+    "estiguéssem": [
+      "estar"
+    ],
+    "estiguésseu": [
+      "estar"
+    ],
+    "estiguéssim": [
+      "estar"
+    ],
+    "estiguéssiu": [
+      "estar"
+    ],
+    "estiguí": [
+      "estar"
+    ],
+    "està": [
+      "estar"
+    ],
+    "estàvem": [
+      "estar"
+    ],
+    "estàveu": [
+      "estar"
+    ],
+    "vagen": [
+      "anar"
+    ],
+    "vages": [
+      "anar"
+    ],
+    "vagi": [
+      "anar"
+    ],
+    "vagin": [
+      "anar"
+    ],
+    "vagis": [
+      "anar"
+    ],
+    "vaig": [
+      "anar"
+    ],
+    "vaja": [
+      "anar"
+    ],
+    "vam": [
+      "anar"
+    ],
+    "vau": [
+      "anar"
+    ],
+    "vàrem": [
+      "anar"
+    ],
+    "vàreu": [
+      "anar"
+    ],
+    "vés": [
+      "anar"
+    ],
+    "eren": [
+      "ser"
+    ],
+    "essent": [
+      "ser"
+    ],
+    "foren": [
+      "ser"
+    ],
+    "fores": [
+      "ser"
+    ],
+    "fui": [
+      "ser"
+    ],
+    "fóra": [
+      "ser"
+    ],
+    "fórem": [
+      "ser"
+    ],
+    "fóreu": [
+      "ser"
+    ],
+    "fóssem": [
+      "ser"
+    ],
+    "fósseu": [
+      "ser"
+    ],
+    "fóssim": [
+      "ser"
+    ],
+    "fóssiu": [
+      "ser"
+    ],
+    "han": [
+      "haver"
+    ],
+    "has": [
+      "haver"
+    ],
+    "havers": [
+      "haver"
+    ],
+    "hàgem": [
+      "haver"
+    ],
+    "hàgeu": [
+      "haver"
+    ],
+    "hàgim": [
+      "haver"
+    ],
+    "hàgiu": [
+      "haver"
+    ],
+    "podent": [
+      "poder"
+    ],
+    "poders": [
+      "poder"
+    ],
+    "podia": [
+      "poder"
+    ],
+    "podien": [
+      "poder"
+    ],
+    "podies": [
+      "poder"
+    ],
+    "podran": [
+      "poder"
+    ],
+    "podrem": [
+      "poder"
+    ],
+    "podreu": [
+      "poder"
+    ],
+    "podrà": [
+      "poder"
+    ],
+    "podràs": [
+      "poder"
+    ],
+    "podré": [
+      "poder"
+    ],
+    "podíem": [
+      "poder"
+    ],
+    "podíeu": [
+      "poder"
+    ],
+    "poguda": [
+      "poder"
+    ],
+    "pogudes": [
+      "poder"
+    ],
+    "poguera": [
+      "poder"
+    ],
+    "pogueren": [
+      "poder"
+    ],
+    "pogueres": [
+      "poder"
+    ],
+    "poguessen": [
+      "poder"
+    ],
+    "poguesses": [
+      "poder"
+    ],
+    "poguessin": [
+      "poder"
+    ],
+    "poguessis": [
+      "poder"
+    ],
+    "pogut": [
+      "poder"
+    ],
+    "poguts": [
+      "poder"
+    ],
+    "pogué": [
+      "poder"
+    ],
+    "poguérem": [
+      "poder"
+    ],
+    "poguéreu": [
+      "poder"
+    ],
+    "pogués": [
+      "poder"
+    ],
+    "poguéssem": [
+      "poder"
+    ],
+    "poguésseu": [
+      "poder"
+    ],
+    "poguéssim": [
+      "poder"
+    ],
+    "poguéssiu": [
+      "poder"
+    ],
+    "poguí": [
+      "poder"
+    ],
+    "puc": [
+      "poder"
+    ],
+    "puga": [
+      "poder"
+    ],
+    "puguem": [
+      "poder"
+    ],
+    "puguen": [
+      "poder"
+    ],
+    "pugues": [
+      "poder"
+    ],
+    "pugueu": [
+      "poder"
+    ],
+    "pugui": [
+      "poder"
+    ],
+    "puguin": [
+      "poder"
+    ],
+    "puguis": [
+      "poder"
+    ],
+    "seran": [
+      "ser"
+    ],
+    "serem": [
+      "ser"
+    ],
+    "sereu": [
+      "ser"
+    ],
+    "sers": [
+      "ser"
+    ],
+    "serà": [
+      "ser"
+    ],
+    "seràs": [
+      "ser"
+    ],
+    "seré": [
+      "ser"
+    ],
+    "seríem": [
+      "ser"
+    ],
+    "seríeu": [
+      "ser"
+    ],
+    "siga": [
+      "ser"
+    ],
+    "sigam": [
+      "ser"
+    ],
+    "sigau": [
+      "ser"
+    ],
+    "siguda": [
+      "ser"
+    ],
+    "sigudes": [
+      "ser"
+    ],
+    "siguem": [
+      "ser"
+    ],
+    "siguen": [
+      "ser"
+    ],
+    "sigues": [
+      "ser"
+    ],
+    "sigueu": [
+      "ser"
+    ],
+    "sigui": [
+      "ser"
+    ],
+    "siguin": [
+      "ser"
+    ],
+    "siguis": [
+      "ser"
+    ],
+    "sigut": [
+      "ser"
+    ],
+    "siguts": [
+      "ser"
+    ],
+    "sét": [
+      "ser"
+    ],
+    "só": [
+      "ser"
+    ],
+    "sóc": [
+      "ser"
+    ],
+    "són": [
+      "ser"
+    ],
+    "érem": [
+      "ser"
+    ],
+    "éreu": [
+      "ser"
+    ],
+    "és": [
+      "ser"
     ]
   }
 }
