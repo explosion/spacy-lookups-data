@@ -95,9 +95,9 @@ def it_lookup_nlp():
 
 
 @pytest.fixture(scope="session")
-def ga_lookup_nlp():
+def ga_pos_lookup_nlp():
     nlp = spacy.blank("ga")
-    nlp.add_pipe("lemmatizer", config={"mode": "lookup"})
+    nlp.add_pipe("lemmatizer", config={"mode": "pos_lookup"})
     nlp.initialize()
     return nlp
 
