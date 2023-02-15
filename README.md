@@ -31,15 +31,14 @@ models** (which serialize out their vocabulary and lookup tables) or by
 You should install this package if you want to use lemmatization for languages
 that don't yet have a [pretrained model](https://spacy.io/models) available for
 download and don't rely on third-party libraries for lemmatization – for
-example, **Turkish**, **Swedish** or **Croatian**
-([see data files](spacy_lookups_data/data)).
+example for **Serbian** or **Turkish** ([see data files](spacy_lookups_data/data)).
 
 If you are training new models with spaCy, you should probably install this,
 since it contains lemmatization and normalization data for 25+ languages that
 is no longer included as part of the main spaCy library. In particular, you
 should install it if you're creating a **blank model** and you want it to
 include lemmatization and normalization data. Once you've saved out the model
-(e.g. via `nlp.disk`), it will include the lookup tables as part of its
+(e.g. via `nlp.to_disk`), it will include the lookup tables as part of its
 `Vocab`.
 
 ### Is this package only for lemmatization?
