@@ -67,3 +67,9 @@ tests like this:
 ```bash
 python -m pytest --pyargs spacy_lookups_data
 ```
+
+## Bug reports and other issues
+
+Please use [spaCy's issue tracker](https://github.com/explosion/spaCy/issues) to report a bug, or open a new thread on the
+[discussion board](https://github.com/explosion/spaCy/discussions)
+for any other issue.
