@@ -11,7 +11,7 @@ Feel free to submit pull requests to update the data. For issues related to the
 data, lookups and integration, please use the
 [spaCy issue tracker](https://github.com/explosion/spaCy/issues).
 
-[![Azure Pipelines](<https://img.shields.io/azure-devops/build/explosion-ai/public/13/master.svg?logo=azure-pipelines&style=flat-square&label=build+(3.x)>)](https://dev.azure.com/explosion-ai/public/_build?definitionId=12)
+[![tests](https://github.com/explosion/spacy-lookups-data/actions/workflows/tests.yml/badge.svg)](https://github.com/explosion/spacy-lookups-data/actions/workflows/tests.yml)
 [![Current Release Version](https://img.shields.io/github/release/explosion/spacy-lookups-data.svg?include_prereleases&style=flat-square&logo=github)](https://github.com/explosion/spacy-lookups-data/releases)
 [![pypi Version](https://img.shields.io/pypi/v/spacy-lookups-data.svg?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/spacy-lookups-data/)
 [![conda Version](https://img.shields.io/conda/vn/conda-forge/spacy-lookups-data.svg?style=flat-square&logo=conda-forge&logoColor=white)](https://anaconda.org/conda-forge/spacy-lookups-data)
@@ -30,16 +30,15 @@ models** (which serialize out their vocabulary and lookup tables) or by
 
 You should install this package if you want to use lemmatization for languages
 that don't yet have a [pretrained model](https://spacy.io/models) available for
-download and don't rely on third-party libraries for lemmatization – for
-example for **Serbian** or **Turkish** ([see data files](spacy_lookups_data/data)).
+download and don't rely on third-party libraries for lemmatization – for example
+for **Serbian** or **Turkish** ([see data files](spacy_lookups_data/data)).
 
 If you are training new models with spaCy, you should probably install this,
-since it contains lemmatization and normalization data for 25+ languages that
-is no longer included as part of the main spaCy library. In particular, you
-should install it if you're creating a **blank model** and you want it to
-include lemmatization and normalization data. Once you've saved out the model
-(e.g. via `nlp.to_disk`), it will include the lookup tables as part of its
-`Vocab`.
+since it contains lemmatization and normalization data for 25+ languages that is
+no longer included as part of the main spaCy library. In particular, you should
+install it if you're creating a **blank model** and you want it to include
+lemmatization and normalization data. Once you've saved out the model (e.g. via
+`nlp.to_disk`), it will include the lookup tables as part of its `Vocab`.
 
 ### Is this package only for lemmatization?
 
@@ -70,6 +69,7 @@ python -m pytest --pyargs spacy_lookups_data
 
 ## Bug reports and other issues
 
-Please use [spaCy's issue tracker](https://github.com/explosion/spaCy/issues) to report a bug, or open a new thread on the
-[discussion board](https://github.com/explosion/spaCy/discussions)
-for any other issue.
+Please use [spaCy's issue tracker](https://github.com/explosion/spaCy/issues) to
+report a bug, or open a new thread on the
+[discussion board](https://github.com/explosion/spaCy/discussions) for any other
+issue.
