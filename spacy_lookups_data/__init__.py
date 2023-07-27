@@ -1,11 +1,18 @@
-import pkg_resources
 import os
+import sys
 
 from .about import __version__  # noqa: F401
 
 
 def get_file(filename):
-    return pkg_resources.resource_filename(__name__, os.path.join("data", filename))
+    if sys.version_info < (3, 9):
+        import pkg_resources
+
+        return pkg_resources.resource_filename(__name__, os.path.join("data", filename))
+    else:
+        import importlib.resources
+
+        return importlib.resources.files(__name__).joinpath("data", filename)
 
 
 mk = {
