@@ -1,0 +1,6 @@
+da_lexeme_prob are derived from 
+https://huggingface.co/datasets/chcaa/dagw-word-frequencies
+
+using revision e692bc45447f841258e30363a4b371ef1e4908f7.
+
+It is derived using the smoothed log probabilites only contains the first 1 000 000 lexemes.
