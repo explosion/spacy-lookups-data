@@ -1,6 +1,4 @@
-da_lexeme_prob are derived from 
-https://huggingface.co/datasets/chcaa/dagw-word-frequencies
+da_lexeme_prob.json is derived from Danish gigawords. Notably this list of word frequencies: 
+https://huggingface.co/datasets/chcaa/dagw-word-frequencies, using revision e692bc45447f841258e30363a4b371ef1e4908f7.
 
-using revision e692bc45447f841258e30363a4b371ef1e4908f7.
-
-It is derived using the smoothed log probabilites only contains the first 1 000 000 lexemes.
+It uses the smoothed log probabilites and only contains the 1 000 000 most frequent lexemes.
