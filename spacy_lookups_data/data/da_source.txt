@@ -4,5 +4,5 @@ https://huggingface.co/datasets/chcaa/dagw-word-frequencies, using revision e692
 It uses the smoothed log probabilites and only contains the 1 000 000 most frequent lexemes.
 
 
-da_lemma_lookup.json: UPDATE TEXT WITH INFORMATION ABOUT THE NEW LEMMA LOOKUP. 
-The data comes from Det Centrale Ordregister - COR (https://ordregister.dk/). Current version COR1.02. 
+da_lemma_lookup.json:  
+The data comes from Det Centrale Ordregister - COR (https://ordregister.dk/). Current version COR2beta2. 
