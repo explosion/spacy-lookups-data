@@ -2,3 +2,9 @@ da_lexeme_prob.json is derived from Danish gigawords. Notably this list of word 
 https://huggingface.co/datasets/chcaa/dagw-word-frequencies, using revision e692bc45447f841258e30363a4b371ef1e4908f7.
 
 It uses the smoothed log probabilites and only contains the 1 000 000 most frequent lexemes.
+
+
+danish_lemmas_from_COR2beta2
+da_lemma_lookup.json:  
+The data comes from Det Centrale Ordregister - COR (https://ordregister.dk/). Current version COR2beta2. 
+
